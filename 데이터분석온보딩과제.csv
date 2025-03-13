@@ -1,0 +1,2104 @@
+createdat,userid,type,result,course,status
+23/07/03 1:31,12a11b388392a1,resume,FAIL,NBCamp,취업 준비중
+23/07/03 11:27,8399fb63a855cb,resume,FAIL,NBCamp,취업 준비중
+23/07/03 11:33,223856945edb24,interview,PASS,Hanghae,취업 준비중
+23/07/03 15:09,94a4d087e77881,resume,PASS,NBCamp,취업 준비중
+23/07/03 22:06,60becf747f196f,resume,FAIL,Hanghae,취업 준비중
+23/07/03 22:53,26268891c94c2b,resume,FAIL,Hanghae,취업 보류
+23/07/04 0:46,6404d035b94f8b,resume,PASS,Hanghae,최종합격
+23/07/04 2:23,75edb3889e7479,resume,PASS,Hanghae,최종합격
+23/07/04 2:28,18952747acfe57,resume,PASS,Hanghae,최종합격
+23/07/04 2:42,85dc65830caa89,resume,FAIL,Hanghae,취업 준비중
+23/07/04 3:14,680577226d037d,resume,PASS,Hanghae,취업 준비중
+23/07/04 3:20,6529e415b5538a,resume,PASS,Hanghae,취업 준비중
+23/07/04 3:25,53dcc3390d3767,resume,CANCEL,Hanghae,취업 준비중
+23/07/04 3:27,53dcc3390d3767,resume,PASS,Hanghae,취업 준비중
+23/07/04 4:29,54118454468ec4,resume,PASS,Hanghae,취업 준비중
+23/07/04 4:29,54118454468ec4,resume,PASS,Hanghae,취업 준비중
+23/07/04 4:49,987cb5493c8e87,resume,PASS,Hanghae,취업 준비중
+23/07/04 5:41,120337139a9167,resume,PASS,Hanghae,취업 준비중
+23/07/04 5:42,50dd5140b7ff54,resume,PASS,Hanghae,최종합격
+23/07/04 5:42,49abcf8921477c,resume,FAIL,Hanghae,취업 보류
+23/07/04 5:44,43ccb02544a63c,resume,PASS,Hanghae,최종합격
+23/07/04 5:49,96ce1787045c91,resume,CANCEL,NBCamp,취업 준비중
+23/07/04 5:50,96ce1787045c91,resume,PASS,NBCamp,취업 준비중
+23/07/04 7:13,51072a70d07d2d,resume,CANCEL,Hanghae,최종합격
+23/07/04 7:13,47e9d978fe2894,resume,FAIL,Hanghae,취업 준비중
+23/07/04 7:18,51072a70d07d2d,resume,FAIL,Hanghae,최종합격
+23/07/04 7:38,94ef557431b65c,resume,PASS,Hanghae,취업 준비중
+23/07/04 8:29,10f5a2418554fe,resume,FAIL,Hanghae,취업 준비중
+23/07/04 10:09,40f606150cab1d,resume,FAIL,Hanghae,취업 준비중
+23/07/04 10:10,14d84266376996,resume,FAIL,Hanghae,최종합격
+23/07/04 10:12,34fedc55183e58,resume,PASS,Hanghae,취업 준비중
+23/07/04 10:15,79047e49634f85,resume,FAIL,Hanghae,취업 준비중
+23/07/04 10:18,209a63356f22e2,resume,PASS,Hanghae,취업 준비중
+23/07/04 10:23,58ebc034ff67c2,resume,PASS,Hanghae,취업 준비중
+23/07/04 10:25,99e5e3390b1ab4,resume,PASS,Hanghae,취업 준비중
+23/07/04 10:29,82f1dc45841ec1,resume,FAIL,Hanghae,취업 준비중
+23/07/04 10:29,39c0df85592ec8,resume,FAIL,Hanghae,최종합격
+23/07/04 10:34,65b037490e3274,resume,FAIL,Hanghae,최종합격
+23/07/04 10:38,568a9d6430d72f,resume,FAIL,Hanghae,취업 준비중
+23/07/04 10:42,229c6b807f4ebb,resume,PASS,Hanghae,취업 준비중
+23/07/04 10:54,69edee42b77f5b,resume,FAIL,Hanghae,취업 준비중
+23/07/04 10:59,782ba2514d7f8e,resume,PASS,Hanghae,취업 준비중
+23/07/04 11:02,417063276affe4,resume,CANCEL,Hanghae,최종합격
+23/07/04 11:03,417063276affe4,resume,PASS,Hanghae,최종합격
+23/07/04 11:06,96dd4f120d3767,resume,CANCEL,Hanghae,취업 준비중
+23/07/04 11:08,96dd4f120d3767,resume,CANCEL,Hanghae,취업 준비중
+23/07/04 11:10,96dd4f120d3767,resume,CANCEL,Hanghae,취업 준비중
+23/07/04 11:11,58c02e88c7f1d5,resume,FAIL,Hanghae,최종합격
+23/07/04 11:13,27f77095936a81,resume,FAIL,Hanghae,최종합격
+23/07/04 11:13,61ae6a537a5b82,resume,PASS,Hanghae,취업 준비중
+23/07/04 11:13,96dd4f120d3767,resume,CANCEL,Hanghae,취업 준비중
+23/07/04 11:14,86b0754163261d,resume,FAIL,Hanghae,취업 준비중
+23/07/04 11:15,82d3b663cd6333,resume,PASS,Hanghae,최종합격
+23/07/04 11:16,96dd4f120d3767,resume,CANCEL,Hanghae,취업 준비중
+23/07/04 11:16,21fcb331aa00e1,resume,PASS,Hanghae,취업 준비중
+23/07/04 11:17,22ab6258ec1f5b,resume,FAIL,Hanghae,취업 준비중
+23/07/04 11:23,68b001435962ed,resume,CANCEL,Hanghae,취업 준비중
+23/07/04 11:23,43061327055dc7,resume,FAIL,Hanghae,취업 준비중
+23/07/04 11:23,61fc9479ea78e9,resume,FAIL,Hanghae,취업 준비중
+23/07/04 11:24,65dc6269123f50,resume,FAIL,Hanghae,취업 준비중
+23/07/04 11:25,15673a9314a4bc,resume,PASS,Hanghae,취업 준비중
+23/07/04 11:25,9631aa247fa159,resume,FAIL,Hanghae,취업 보류
+23/07/04 11:27,8326d74904c733,resume,PASS,Hanghae,취업 준비중
+23/07/04 11:32,68b001435962ed,resume,CANCEL,Hanghae,취업 준비중
+23/07/04 11:33,77e53f20166dff,resume,PASS,Hanghae,취업 준비중
+23/07/04 11:33,94dac018fc97d4,resume,FAIL,NBCamp,취업 준비중
+23/07/04 11:34,68b001435962ed,resume,CANCEL,Hanghae,취업 준비중
+23/07/04 11:34,78254051177285,resume,PASS,Hanghae,취업 준비중
+23/07/04 11:35,68b001435962ed,resume,PASS,Hanghae,취업 준비중
+23/07/04 11:35,95ef64932064da,resume,PASS,Hanghae,취업 준비중
+23/07/04 11:36,39c7f798c06c3f,resume,FAIL,Hanghae,취업 준비중
+23/07/04 11:37,43082641a8a983,resume,FAIL,Hanghae,취업 준비중
+23/07/04 11:37,9567cc21843628,resume,FAIL,Hanghae,취업 준비중
+23/07/04 11:39,139e87189106a6,resume,FAIL,Hanghae,최종합격
+23/07/04 11:39,791314873311e1,resume,FAIL,Hanghae,취업 준비중
+23/07/04 11:39,676d663241548b,resume,FAIL,Hanghae,취업 준비중
+23/07/04 11:40,96dd4f120d3767,resume,CANCEL,Hanghae,취업 준비중
+23/07/04 11:41,96dd4f120d3767,resume,PASS,Hanghae,취업 준비중
+23/07/04 11:42,91b40028f1cedc,resume,FAIL,Hanghae,취업 준비중
+23/07/04 11:42,172f1f48d39be0,resume,FAIL,Hanghae,최종합격
+23/07/04 11:45,61b0cb761452a7,resume,FAIL,Hanghae,최종합격
+23/07/04 11:45,25fd8a86a0a95f,resume,PASS,Hanghae,최종합격
+23/07/04 11:45,87840b968d75d7,resume,FAIL,Hanghae,최종합격
+23/07/04 11:46,512819637c2c94,resume,FAIL,Hanghae,취업 준비중
+23/07/04 11:47,499ca584d9b996,resume,PASS,NBCamp,최종합격
+23/07/04 11:48,211452424b179d,resume,FAIL,Hanghae,최종합격
+23/07/04 11:50,29aebc899b8f3c,resume,PASS,Hanghae,취업 준비중
+23/07/04 11:53,45f32e4538716d,resume,PASS,Hanghae,최종합격
+23/07/04 11:54,66de7969affcd4,resume,PASS,Hanghae,취업 준비중
+23/07/04 11:56,49aaa381c6e840,resume,PASS,Hanghae,취업 준비중
+23/07/04 11:56,81eb7a88ff67c2,resume,FAIL,Hanghae,최종합격
+23/07/04 11:57,60113249f23257,resume,FAIL,Hanghae,최종합격
+23/07/04 11:58,106f9f885fda28,resume,FAIL,Hanghae,최종합격
+23/07/04 11:59,2987ae72b0678f,resume,FAIL,Hanghae,취업 준비중
+23/07/04 11:59,22e9d98528e956,resume,FAIL,Hanghae,취업 보류
+23/07/04 12:01,59f2fb3565d822,resume,CANCEL,Hanghae,취업 보류
+23/07/04 12:01,37f11f7658716d,resume,PASS,Hanghae,최종합격
+23/07/04 12:01,357ab3715c625f,resume,FAIL,Hanghae,취업 준비중
+23/07/04 12:08,17913636bb7070,resume,PASS,Hanghae,취업 준비중
+23/07/04 12:10,226e2111086474,resume,PASS,Hanghae,취업 준비중
+23/07/04 12:13,89fdbf721e7e89,resume,FAIL,Hanghae,취업 보류
+23/07/04 12:15,75fd983030e97b,resume,PASS,Hanghae,취업 준비중
+23/07/04 12:24,86f879746b62a3,resume,PASS,Hanghae,취업 준비중
+23/07/04 12:42,94d91154f928bb,resume,FAIL,Hanghae,취업 준비중
+23/07/04 13:27,268339993cd515,resume,FAIL,Hanghae,취업 준비중
+23/07/04 13:49,64a2dd82ca446e,resume,FAIL,Hanghae,취업 준비중
+23/07/04 13:56,73d1df80ca1ce8,resume,FAIL,Hanghae,최종합격
+23/07/04 13:58,501a39513f0d75,resume,PASS,Hanghae,취업 준비중
+23/07/04 13:58,501a39513f0d75,resume,PASS,Hanghae,취업 준비중
+23/07/04 14:16,24534766b01972,resume,PASS,Hanghae,최종합격
+23/07/04 14:56,33c4fe218fdf4c,resume,FAIL,Hanghae,취업 준비중
+23/07/04 15:11,12f44168560627,resume,PASS,Hanghae,취업 준비중
+23/07/04 15:15,10583770ca51be,resume,PASS,Hanghae,취업 준비중
+23/07/04 15:46,18ad0c56130d4c,resume,PASS,Hanghae,취업 준비중
+23/07/04 16:09,160c8e77ef8e70,resume,FAIL,NBCamp,취업 준비중
+23/07/04 16:53,498cee9333e234,resume,PASS,NBCamp,취업 준비중
+23/07/04 17:01,88492392bdd055,resume,PASS,NBCamp,취업 준비중
+23/07/04 18:28,91a89f314ec292,resume,CANCEL,Hanghae,취업 준비중
+23/07/04 18:37,91a89f314ec292,resume,CANCEL,Hanghae,취업 준비중
+23/07/04 19:56,59e86e995c8a6b,resume,FAIL,Hanghae,최종합격
+23/07/04 21:38,91a89f314ec292,resume,FAIL,Hanghae,취업 준비중
+23/07/05 11:59,491dfe30f78da1,resume,FAIL,Hanghae,최종합격
+23/07/05 12:32,496fc937aff48f,resume,FAIL,NBCamp,최종합격
+23/07/05 12:45,15673a9314a4bc,resume,PASS,Hanghae,취업 준비중
+23/07/05 14:38,4280925561555e,resume,PASS,Hanghae,취업 준비중
+23/07/05 15:32,920fa323275f29,resume,FAIL,NBCamp,취업 준비중
+23/07/05 16:22,65c67541828a14,resume,PASS,Hanghae,취업 준비중
+23/07/05 16:35,9567cc21843628,resume,FAIL,Hanghae,취업 준비중
+23/07/05 16:38,6404d035b94f8b,resume,CANCEL,Hanghae,최종합격
+23/07/05 16:41,6404d035b94f8b,interview,CANCEL,Hanghae,최종합격
+23/07/05 17:00,6404d035b94f8b,resume,CANCEL,Hanghae,최종합격
+23/07/05 17:02,6404d035b94f8b,interview,CANCEL,Hanghae,최종합격
+23/07/05 17:33,680577226d037d,resume,PASS,Hanghae,취업 준비중
+23/07/05 17:58,18952747acfe57,resume,PASS,Hanghae,최종합격
+23/07/05 18:19,59e86e995c8a6b,resume,FAIL,Hanghae,최종합격
+23/07/05 18:31,26a53728c97f06,resume,FAIL,NBCamp,취업 준비중
+23/07/05 18:55,51072a70d07d2d,resume,PASS,Hanghae,최종합격
+23/07/05 19:36,33c4fe218fdf4c,resume,FAIL,Hanghae,취업 준비중
+23/07/05 21:17,2987ae72b0678f,resume,PASS,Hanghae,취업 준비중
+23/07/05 21:20,139e87189106a6,resume,FAIL,Hanghae,최종합격
+23/07/05 21:38,85dc65830caa89,resume,PASS,Hanghae,취업 준비중
+23/07/05 22:31,26846c6148874a,resume,PASS,NBCamp,취업 준비중
+23/07/05 22:40,69d2181060a5c3,resume,PASS,Hanghae,최종합격
+23/07/06 2:39,14d84266376996,resume,PASS,Hanghae,최종합격
+23/07/06 3:28,22ab6258ec1f5b,resume,FAIL,Hanghae,취업 준비중
+23/07/06 3:55,6404d035b94f8b,resume,CANCEL,Hanghae,최종합격
+23/07/06 3:57,6404d035b94f8b,resume,PASS,Hanghae,최종합격
+23/07/06 3:57,6404d035b94f8b,interview,PASS,Hanghae,최종합격
+23/07/06 4:00,6529e415b5538a,resume,PASS,Hanghae,취업 준비중
+23/07/06 4:13,43061327055dc7,resume,PASS,Hanghae,취업 준비중
+23/07/06 4:20,95ef64932064da,resume,PASS,Hanghae,취업 준비중
+23/07/06 4:45,58c02e88c7f1d5,resume,PASS,Hanghae,최종합격
+23/07/06 5:30,61b0cb761452a7,resume,FAIL,Hanghae,최종합격
+23/07/06 6:11,65dc6269123f50,resume,FAIL,Hanghae,취업 준비중
+23/07/06 6:12,40f606150cab1d,resume,PASS,Hanghae,취업 준비중
+23/07/06 6:14,791314873311e1,resume,FAIL,Hanghae,취업 준비중
+23/07/06 6:17,47e9d978fe2894,resume,PASS,Hanghae,취업 준비중
+23/07/06 6:31,987cb5493c8e87,resume,PASS,Hanghae,취업 준비중
+23/07/06 6:42,211452424b179d,resume,FAIL,Hanghae,최종합격
+23/07/06 6:55,676d663241548b,resume,FAIL,Hanghae,취업 준비중
+23/07/06 6:59,676d663241548b,resume,FAIL,Hanghae,취업 준비중
+23/07/06 8:47,10f5a2418554fe,resume,PASS,Hanghae,취업 준비중
+23/07/06 8:48,10f5a2418554fe,resume,FAIL,Hanghae,취업 준비중
+23/07/06 9:55,17249c906f4fd6,resume,FAIL,NBCamp,최종합격
+23/07/06 9:55,17249c906f4fd6,interview,FAIL,NBCamp,최종합격
+23/07/06 10:29,83c02e35e6c8ad,resume,FAIL,Hanghae,취업 보류
+23/07/06 10:33,60becf747f196f,resume,PASS,Hanghae,취업 준비중
+23/07/06 10:35,60becf747f196f,resume,CANCEL,Hanghae,취업 준비중
+23/07/06 10:37,39c0df85592ec8,resume,PASS,Hanghae,최종합격
+23/07/06 10:41,88f37790e14cf3,resume,CANCEL,Hanghae,최종합격
+23/07/06 10:48,568a9d6430d72f,resume,PASS,Hanghae,취업 준비중
+23/07/06 11:14,81eb7a88ff67c2,resume,PASS,Hanghae,최종합격
+23/07/06 11:30,91b40028f1cedc,resume,PASS,Hanghae,취업 준비중
+23/07/06 11:35,106f9f885fda28,resume,FAIL,Hanghae,최종합격
+23/07/06 11:36,106f9f885fda28,resume,FAIL,Hanghae,최종합격
+23/07/06 11:36,268339993cd515,resume,PASS,Hanghae,취업 준비중
+23/07/06 11:37,106f9f885fda28,resume,PASS,Hanghae,최종합격
+23/07/06 11:48,86b0754163261d,resume,FAIL,Hanghae,취업 준비중
+23/07/06 12:33,27f77095936a81,resume,FAIL,Hanghae,최종합격
+23/07/06 12:33,209f8270614771,resume,FAIL,NBCamp,취업 준비중
+23/07/06 12:34,27f77095936a81,resume,CANCEL,Hanghae,최종합격
+23/07/06 12:45,357ab3715c625f,resume,PASS,Hanghae,취업 준비중
+23/07/06 13:22,82f1dc45841ec1,resume,PASS,Hanghae,취업 준비중
+23/07/06 14:02,29aebc899b8f3c,resume,PASS,Hanghae,취업 준비중
+23/07/06 14:27,501a39513f0d75,resume,PASS,Hanghae,취업 준비중
+23/07/06 14:27,501a39513f0d75,resume,PASS,Hanghae,취업 준비중
+23/07/06 14:44,172f1f48d39be0,resume,CANCEL,Hanghae,최종합격
+23/07/06 14:44,172f1f48d39be0,interview,FAIL,Hanghae,최종합격
+23/07/06 14:55,95ef64932064da,resume,CANCEL,Hanghae,취업 준비중
+23/07/06 17:09,59e86e995c8a6b,resume,FAIL,Hanghae,최종합격
+23/07/06 17:20,172f1f48d39be0,resume,CANCEL,Hanghae,최종합격
+23/07/06 17:20,172f1f48d39be0,interview,FAIL,Hanghae,최종합격
+23/07/06 17:27,60113249f23257,resume,PASS,Hanghae,최종합격
+23/07/06 17:27,172f1f48d39be0,resume,PASS,Hanghae,최종합격
+23/07/06 20:51,43ccb02544a63c,resume,PASS,Hanghae,최종합격
+23/07/06 23:04,65b037490e3274,resume,PASS,Hanghae,최종합격
+23/07/07 0:22,97df638493f7db,resume,PASS,NBCamp,취업 준비중
+23/07/07 4:45,73d1df80ca1ce8,resume,FAIL,Hanghae,최종합격
+23/07/07 9:29,61b0cb761452a7,resume,FAIL,Hanghae,최종합격
+23/07/07 11:14,22ab6258ec1f5b,resume,PASS,Hanghae,취업 준비중
+23/07/07 17:25,87840b968d75d7,resume,FAIL,Hanghae,최종합격
+23/07/07 17:56,59e86e995c8a6b,resume,PASS,Hanghae,최종합격
+23/07/07 18:04,14d84266376996,resume,PASS,Hanghae,최종합격
+23/07/07 19:22,82d3b663cd6333,interview,PASS,Hanghae,최종합격
+23/07/07 20:56,18c411623eaab3,resume,FAIL,Hanghae,취업 준비중
+23/07/07 21:12,512819637c2c94,resume,PASS,Hanghae,취업 준비중
+23/07/07 23:59,43082641a8a983,resume,FAIL,Hanghae,취업 준비중
+23/07/08 4:34,64a2dd82ca446e,resume,FAIL,Hanghae,취업 준비중
+23/07/08 14:49,91a5ba22fa46b1,interview,FAIL,Hanghae,취업 준비중
+23/07/08 18:30,9567cc21843628,resume,FAIL,Hanghae,취업 준비중
+23/07/09 11:07,91a5ba22fa46b1,resume,FAIL,Hanghae,취업 준비중
+23/07/09 18:14,82d3b663cd6333,resume,PASS,Hanghae,최종합격
+23/07/10 11:37,96c924519cb7ea,resume,FAIL,NBCamp,최종합격
+23/07/10 15:42,12f44168560627,resume,FAIL,Hanghae,취업 준비중
+23/07/10 17:28,920fa323275f29,resume,PASS,NBCamp,취업 준비중
+23/07/10 19:52,1682ab938a1a3b,resume,PASS,NBCamp,취업 준비중
+23/07/11 0:57,172f1f48d39be0,resume,PASS,Hanghae,최종합격
+23/07/11 11:20,80063057bc6a75,resume,PASS,Hanghae,취업 준비중
+23/07/11 13:51,496fc937aff48f,resume,FAIL,NBCamp,최종합격
+23/07/11 16:34,91a5ba22fa46b1,resume,FAIL,Hanghae,취업 준비중
+23/07/11 18:06,75033512ffa48a,resume,CANCEL,NBCamp,최종합격
+23/07/11 18:17,75033512ffa48a,resume,CANCEL,NBCamp,최종합격
+23/07/11 18:20,75033512ffa48a,resume,FAIL,NBCamp,최종합격
+23/07/11 18:24,499ca584d9b996,interview,FAIL,NBCamp,최종합격
+23/07/12 6:32,94ef557431b65c,resume,PASS,Hanghae,취업 준비중
+23/07/12 8:45,646b44628058de,resume,PASS,Hanghae,취업 준비중
+23/07/12 10:44,75990a36953160,resume,FAIL,NBCamp,취업 준비중
+23/07/12 14:47,58e0c249b3f5a1,resume,FAIL,NBCamp,취업 준비중
+23/07/12 16:15,9436f14097db9c,resume,FAIL,NBCamp,최종합격
+23/07/12 16:49,50dd5140b7ff54,resume,FAIL,Hanghae,최종합격
+23/07/12 18:10,346dd84820ebb0,resume,FAIL,NBCamp,최종합격
+23/07/12 23:43,565b5d1583b50f,resume,FAIL,NBCamp,취업 보류
+23/07/13 0:04,438bee40feea7b,resume,FAIL,NBCamp,취업 보류
+23/07/13 1:13,99c7f086a6e73b,resume,FAIL,NBCamp,최종합격
+23/07/13 3:20,52a9d6264a210f,resume,FAIL,NBCamp,취업 준비중
+23/07/13 6:07,97a98756812ae8,resume,FAIL,NBCamp,최종합격
+23/07/13 7:59,33d93184f70f3a,resume,CANCEL,NBCamp,최종합격
+23/07/13 8:17,33d93184f70f3a,resume,CANCEL,NBCamp,최종합격
+23/07/13 8:17,33d93184f70f3a,resume,FAIL,NBCamp,최종합격
+23/07/13 9:24,93450167bb878f,resume,PASS,NBCamp,취업 준비중
+23/07/13 9:48,160c8e77ef8e70,resume,PASS,NBCamp,취업 준비중
+23/07/13 10:09,3031cb765179e3,resume,FAIL,NBCamp,취업 보류
+23/07/13 10:15,46834f47151f24,resume,FAIL,NBCamp,취업 준비중
+23/07/13 10:30,49e38920213c13,resume,FAIL,NBCamp,취업 준비중
+23/07/13 10:39,37966266f6b7db,resume,FAIL,NBCamp,취업 준비중
+23/07/13 10:41,34e7b286303f7c,resume,FAIL,NBCamp,취업 준비중
+23/07/13 10:41,2201b09963b54f,resume,FAIL,NBCamp,취업 준비중
+23/07/13 10:43,9399ff51e0dd8e,resume,FAIL,NBCamp,취업 준비중
+23/07/13 10:46,64a184897dee9e,resume,FAIL,NBCamp,취업 준비중
+23/07/13 10:54,14747d6750f44e,resume,CANCEL,NBCamp,취업 준비중
+23/07/13 11:02,44968c9772c129,resume,FAIL,NBCamp,취업 준비중
+23/07/13 11:03,84e91a3848e956,resume,CANCEL,NBCamp,최종합격
+23/07/13 11:14,84e91a3848e956,resume,PASS,NBCamp,최종합격
+23/07/13 11:15,91e6507429bd61,resume,FAIL,NBCamp,취업 준비중
+23/07/13 11:18,12edc375d0eee4,resume,FAIL,NBCamp,최종합격
+23/07/13 11:26,5168a958d72944,resume,FAIL,NBCamp,취업 준비중
+23/07/13 11:31,12e0d62273f5a1,resume,FAIL,NBCamp,취업 준비중
+23/07/13 11:37,8806ad70cb86c6,resume,CANCEL,NBCamp,취업 보류
+23/07/13 11:45,14e0d6333fab68,resume,FAIL,NBCamp,취업 준비중
+23/07/13 11:49,1705c2929bc8bb,resume,FAIL,NBCamp,취업 준비중
+23/07/13 11:49,82e0da37aa2280,resume,FAIL,NBCamp,취업 보류
+23/07/13 11:50,74a53a244d700a,resume,FAIL,NBCamp,최종합격
+23/07/13 11:51,17eda016eb30e8,resume,PASS,NBCamp,최종합격
+23/07/13 11:55,41e0e3210d95d1,resume,PASS,NBCamp,취업 준비중
+23/07/13 11:57,428ba2785d5e65,resume,CANCEL,NBCamp,취업 준비중
+23/07/13 11:58,87ae9b87eb0cdf,resume,FAIL,NBCamp,최종합격
+23/07/13 11:59,428ba2785d5e65,resume,FAIL,NBCamp,취업 준비중
+23/07/13 11:59,99e0d646fa2280,resume,FAIL,NBCamp,최종합격
+23/07/13 12:00,84aef3908452a7,resume,FAIL,NBCamp,취업 준비중
+23/07/13 12:00,70ad1e5318dc99,resume,FAIL,NBCamp,최종합격
+23/07/13 12:02,78394556cae83e,resume,FAIL,NBCamp,취업 보류
+23/07/13 12:12,48c8a0117e9d28,resume,FAIL,NBCamp,취업 준비중
+23/07/13 12:20,72e22525ee8092,resume,FAIL,NBCamp,최종합격
+23/07/13 12:45,490c1b563bca29,resume,FAIL,NBCamp,취업 준비중
+23/07/13 12:45,490c1b563bca29,interview,FAIL,NBCamp,취업 준비중
+23/07/13 13:30,96c924519cb7ea,resume,PASS,NBCamp,최종합격
+23/07/13 13:59,9783ee84028b8f,resume,FAIL,NBCamp,취업 준비중
+23/07/13 15:45,97874d89513b43,resume,FAIL,NBCamp,취업 준비중
+23/07/13 15:52,9799af1251d260,resume,FAIL,NBCamp,취업 준비중
+23/07/13 16:09,4126c3579f6614,resume,PASS,NBCamp,최종합격
+23/07/13 16:49,2616166933ee8a,resume,FAIL,NBCamp,최종합격
+23/07/13 17:28,37afa7688a2a81,resume,PASS,NBCamp,취업 준비중
+23/07/13 19:40,223856945edb24,interview,FAIL,Hanghae,취업 준비중
+23/07/13 20:05,64a2dd82ca446e,resume,FAIL,Hanghae,취업 준비중
+23/07/13 21:31,41e99b22118f18,resume,PASS,NBCamp,취업 준비중
+23/07/13 21:41,8999ad775bee12,resume,FAIL,NBCamp,최종합격
+23/07/13 22:29,37f11f7658716d,resume,PASS,Hanghae,최종합격
+23/07/13 23:38,24e9f4484ffcbd,resume,FAIL,NBCamp,취업 보류
+23/07/14 14:46,75990a36953160,resume,PASS,NBCamp,취업 준비중
+23/07/14 15:15,50dd5140b7ff54,resume,FAIL,Hanghae,최종합격
+23/07/14 15:44,9436f14097db9c,resume,FAIL,NBCamp,최종합격
+23/07/14 16:20,6598a027af7d85,resume,PASS,Hanghae,취업 준비중
+23/07/14 16:26,58e0c249b3f5a1,resume,FAIL,NBCamp,취업 준비중
+23/07/14 16:44,44968c9772c129,resume,FAIL,NBCamp,취업 준비중
+23/07/14 16:44,887f06891c1ef7,resume,FAIL,NBCamp,취업 준비중
+23/07/14 17:42,75033512ffa48a,resume,PASS,NBCamp,최종합격
+23/07/14 18:08,79381728722a36,resume,FAIL,NBCamp,최종합격
+23/07/14 18:10,40f11315985ac4,resume,FAIL,NBCamp,취업 준비중
+23/07/14 18:40,759f89295b9cea,resume,FAIL,NBCamp,취업 준비중
+23/07/14 19:43,74a53a244d700a,resume,PASS,NBCamp,최종합격
+23/07/14 20:33,14747d6750f44e,resume,FAIL,NBCamp,취업 준비중
+23/07/14 20:33,14747d6750f44e,interview,FAIL,NBCamp,취업 준비중
+23/07/15 1:29,99c7f086a6e73b,resume,FAIL,NBCamp,최종합격
+23/07/15 15:31,27f77095936a81,resume,PASS,Hanghae,최종합격
+23/07/15 15:39,27f77095936a81,interview,FAIL,Hanghae,최종합격
+23/07/16 4:31,51072a70d07d2d,interview,CANCEL,Hanghae,최종합격
+23/07/16 16:53,491dfe30f78da1,resume,FAIL,Hanghae,최종합격
+23/07/16 18:58,12edc375d0eee4,resume,FAIL,NBCamp,최종합격
+23/07/17 0:03,14e0d6333fab68,resume,FAIL,NBCamp,취업 준비중
+23/07/17 3:30,97a98756812ae8,resume,FAIL,NBCamp,최종합격
+23/07/17 4:51,446a82508309f0,resume,FAIL,NBCamp,취업 준비중
+23/07/17 4:57,346dd84820ebb0,resume,FAIL,NBCamp,최종합격
+23/07/17 9:45,84e91a3848e956,resume,FAIL,NBCamp,최종합격
+23/07/17 11:58,87ae9b87eb0cdf,resume,FAIL,NBCamp,최종합격
+23/07/17 12:27,46834f47151f24,resume,FAIL,NBCamp,취업 준비중
+23/07/17 12:32,84aef3908452a7,resume,FAIL,NBCamp,취업 준비중
+23/07/17 15:49,33d93184f70f3a,resume,FAIL,NBCamp,최종합격
+23/07/17 17:52,88f37790e14cf3,resume,FAIL,Hanghae,최종합격
+23/07/17 18:15,41e0e3210d95d1,resume,CANCEL,NBCamp,취업 준비중
+23/07/17 18:27,41e0e3210d95d1,resume,CANCEL,NBCamp,취업 준비중
+23/07/17 18:28,41e0e3210d95d1,resume,CANCEL,NBCamp,취업 준비중
+23/07/17 18:30,41e0e3210d95d1,resume,FAIL,NBCamp,취업 준비중
+23/07/17 19:46,12edc375d0eee4,resume,CANCEL,NBCamp,최종합격
+23/07/17 19:47,12edc375d0eee4,resume,FAIL,NBCamp,최종합격
+23/07/17 20:46,17249c906f4fd6,resume,FAIL,NBCamp,최종합격
+23/07/17 23:39,12e0d62273f5a1,resume,FAIL,NBCamp,취업 준비중
+23/07/18 0:13,97a98756812ae8,resume,PASS,NBCamp,최종합격
+23/07/18 11:30,2616166933ee8a,resume,PASS,NBCamp,최종합격
+23/07/18 12:26,12edc375d0eee4,resume,FAIL,NBCamp,최종합격
+23/07/18 12:34,75edb3889e7479,interview,FAIL,Hanghae,최종합격
+23/07/18 14:02,496fc937aff48f,resume,PASS,NBCamp,최종합격
+23/07/18 14:06,58e0c249b3f5a1,resume,PASS,NBCamp,취업 준비중
+23/07/18 14:16,99c7f086a6e73b,resume,PASS,NBCamp,최종합격
+23/07/18 16:41,26a53728c97f06,resume,FAIL,NBCamp,취업 준비중
+23/07/18 20:16,72e22525ee8092,resume,PASS,NBCamp,최종합격
+23/07/19 11:28,59e86e995c8a6b,resume,FAIL,Hanghae,최종합격
+23/07/19 12:59,18b75e79b38490,resume,PASS,NBCamp,취업 준비중
+23/07/19 14:17,91e6507429bd61,resume,FAIL,NBCamp,취업 준비중
+23/07/19 16:03,8999ad775bee12,resume,PASS,NBCamp,최종합격
+23/07/19 16:17,51072a70d07d2d,interview,FAIL,Hanghae,최종합격
+23/07/19 16:34,44968c9772c129,resume,PASS,NBCamp,취업 준비중
+23/07/19 16:53,8326d74904c733,resume,PASS,Hanghae,취업 준비중
+23/07/19 16:56,887f06891c1ef7,resume,FAIL,NBCamp,취업 준비중
+23/07/19 17:10,79381728722a36,resume,FAIL,NBCamp,최종합격
+23/07/19 20:32,17249c906f4fd6,resume,FAIL,NBCamp,최종합격
+23/07/19 21:51,2201b09963b54f,resume,FAIL,NBCamp,취업 준비중
+23/07/20 8:28,9436f14097db9c,resume,PASS,NBCamp,최종합격
+23/07/20 11:10,70ad1e5318dc99,resume,FAIL,NBCamp,최종합격
+23/07/20 11:29,14e0d6333fab68,resume,PASS,NBCamp,취업 준비중
+23/07/20 11:45,43082641a8a983,resume,PASS,Hanghae,취업 준비중
+23/07/20 12:30,9567cc21843628,resume,FAIL,Hanghae,취업 준비중
+23/07/20 13:06,9567cc21843628,resume,FAIL,Hanghae,취업 준비중
+23/07/20 13:28,2201b09963b54f,resume,FAIL,NBCamp,취업 준비중
+23/07/20 14:14,759f89295b9cea,resume,FAIL,NBCamp,취업 준비중
+23/07/20 16:08,223856945edb24,interview,CANCEL,Hanghae,취업 준비중
+23/07/20 16:10,223856945edb24,interview,CANCEL,Hanghae,취업 준비중
+23/07/20 16:49,69ae8721181d19,resume,FAIL,Hanghae,취업 준비중
+23/07/20 17:40,446a82508309f0,resume,FAIL,NBCamp,취업 준비중
+23/07/20 17:43,446a82508309f0,resume,FAIL,NBCamp,취업 준비중
+23/07/20 21:23,99c7f086a6e73b,resume,FAIL,NBCamp,최종합격
+23/07/21 10:09,73d1df80ca1ce8,resume,FAIL,Hanghae,최종합격
+23/07/21 10:11,73d1df80ca1ce8,resume,PASS,Hanghae,최종합격
+23/07/21 11:25,14d84266376996,interview,FAIL,Hanghae,최종합격
+23/07/21 15:37,87840b968d75d7,resume,FAIL,Hanghae,최종합격
+23/07/21 15:43,87840b968d75d7,resume,PASS,Hanghae,최종합격
+23/07/21 16:20,33d93184f70f3a,resume,PASS,NBCamp,최종합격
+23/07/21 17:13,41e0e3210d95d1,resume,PASS,NBCamp,취업 준비중
+23/07/21 22:21,9783ee84028b8f,resume,FAIL,NBCamp,취업 준비중
+23/07/23 19:44,49e38920213c13,resume,FAIL,NBCamp,취업 준비중
+23/07/24 12:28,12edc375d0eee4,resume,PASS,NBCamp,최종합격
+23/07/24 15:52,976135140c6558,resume,PASS,NBCamp,최종합격
+23/07/24 16:35,88f37790e14cf3,resume,PASS,Hanghae,최종합격
+23/07/24 16:37,887f06891c1ef7,resume,FAIL,NBCamp,취업 준비중
+23/07/24 18:44,93318286f179e3,resume,FAIL,NBCamp,최종합격
+23/07/24 20:42,8999ad775bee12,resume,FAIL,NBCamp,최종합격
+23/07/25 10:15,40f11315985ac4,resume,FAIL,NBCamp,취업 준비중
+23/07/25 14:59,51072a70d07d2d,interview,FAIL,Hanghae,최종합격
+23/07/25 15:24,8838dc243d8f99,interview,PASS,Hanghae,취업 준비중
+23/07/25 15:24,59056c67637818,interview,PASS,NBCamp,최종합격
+23/07/25 15:24,180fa2240e133b,interview,PASS,NBCamp,취업 준비중
+23/07/25 15:24,53f33e75cb3d42,interview,PASS,NBCamp,최종합격
+23/07/25 15:24,7822708421c13e,interview,PASS,NBCamp,최종합격
+23/07/25 15:24,86c26435c46cff,interview,PASS,NBCamp,최종합격
+23/07/25 15:24,70897e45037d9d,interview,PASS,NBCamp,최종합격
+23/07/25 15:24,250ec754ba1286,interview,PASS,NBCamp,최종합격
+23/07/25 15:24,86c26435c46cff,interview,PASS,NBCamp,최종합격
+23/07/25 15:24,43b82336c634ef,interview,PASS,NBCamp,최종합격
+23/07/25 15:24,43b82336c634ef,interview,PASS,NBCamp,최종합격
+23/07/25 15:24,64a2818177785c,interview,PASS,NBCamp,최종합격
+23/07/25 15:24,8690dd35101f95,interview,PASS,NBCamp,최종합격
+23/07/25 15:24,44fabe9890cb2e,interview,PASS,NBCamp,최종합격
+23/07/25 15:24,75878784e6061e,interview,PASS,NBCamp,취업 준비중
+23/07/25 15:24,846f624635c054,interview,PASS,NBCamp,최종합격
+23/07/25 15:24,67e1d49448dac1,interview,PASS,NBCamp,최종합격
+23/07/25 15:24,43d2b0769731e7,interview,PASS,NBCamp,최종합격
+23/07/25 15:24,43b82336c634ef,interview,PASS,NBCamp,최종합격
+23/07/25 15:24,29167228f4b679,interview,PASS,NBCamp,최종합격
+23/07/25 15:24,264022937c89d2,interview,PASS,NBCamp,최종합격
+23/07/25 15:24,250ec754ba1286,interview,PASS,NBCamp,최종합격
+23/07/25 15:24,55f0e22668716d,interview,PASS,NBCamp,최종합격
+23/07/25 15:24,66fda359f0c1bf,interview,PASS,NBCamp,최종합격
+23/07/26 11:31,44174198f4f879,resume,PASS,Hanghae,취업 준비중
+23/07/26 15:43,887f06891c1ef7,resume,FAIL,NBCamp,취업 준비중
+23/07/26 23:44,8999ad775bee12,resume,FAIL,NBCamp,최종합격
+23/07/27 0:55,93318286f179e3,resume,FAIL,NBCamp,최종합격
+23/07/27 15:09,52a9d6264a210f,resume,FAIL,NBCamp,취업 준비중
+23/07/27 15:10,52a9d6264a210f,resume,FAIL,NBCamp,취업 준비중
+23/07/27 18:13,87ae9b87eb0cdf,resume,PASS,NBCamp,최종합격
+23/07/27 21:20,79381728722a36,resume,FAIL,NBCamp,최종합격
+23/07/28 1:52,69ae8721181d19,resume,PASS,Hanghae,취업 준비중
+23/07/28 4:55,70ad1e5318dc99,resume,PASS,NBCamp,최종합격
+23/07/28 10:51,7499b7555bee12,resume,FAIL,NBCamp,취업 준비중
+23/07/28 11:28,61b0cb761452a7,resume,PASS,Hanghae,최종합격
+23/07/28 13:49,759f89295b9cea,resume,FAIL,NBCamp,취업 준비중
+23/07/28 16:39,45ad5a97abb396,resume,CANCEL,Hanghae,취업 준비중
+23/07/28 20:49,211452424b179d,resume,FAIL,Hanghae,최종합격
+23/07/28 22:18,45ad5a97abb396,resume,PASS,Hanghae,취업 준비중
+23/07/28 22:42,8999ad775bee12,resume,FAIL,NBCamp,최종합격
+23/07/29 11:16,37966266f6b7db,resume,PASS,NBCamp,취업 준비중
+23/07/29 22:47,8825af418701ce,resume,FAIL,Hanghae,취업 준비중
+23/07/30 21:54,3557a362b9ece6,resume,FAIL,Hanghae,취업 준비중
+23/07/30 21:57,491dfe30f78da1,resume,PASS,Hanghae,최종합격
+23/07/31 12:40,17249c906f4fd6,resume,FAIL,NBCamp,최종합격
+23/07/31 15:15,7499b7555bee12,resume,FAIL,NBCamp,취업 준비중
+23/07/31 15:50,4131856283127c,resume,PASS,NBCamp,취업 준비중
+23/08/01 4:09,887f06891c1ef7,resume,FAIL,NBCamp,취업 준비중
+23/08/01 14:45,79381728722a36,resume,FAIL,NBCamp,최종합격
+23/08/01 14:49,28ab8815e62030,resume,CANCEL,NBCamp,취업 준비중
+23/08/01 15:46,729c3557cb409d,resume,FAIL,NBCamp,최종합격
+23/08/01 15:50,8825af418701ce,resume,CANCEL,Hanghae,취업 준비중
+23/08/01 16:38,28ab8815e62030,resume,CANCEL,NBCamp,취업 준비중
+23/08/01 16:51,165d70659ed91f,resume,FAIL,Hanghae,취업 준비중
+23/08/01 17:39,28ab8815e62030,resume,CANCEL,NBCamp,취업 준비중
+23/08/01 17:49,28ab8815e62030,resume,CANCEL,NBCamp,취업 준비중
+23/08/01 17:50,28ab8815e62030,resume,CANCEL,NBCamp,취업 준비중
+23/08/01 17:51,28ab8815e62030,resume,PASS,NBCamp,취업 준비중
+23/08/01 20:06,8825af418701ce,resume,FAIL,Hanghae,취업 준비중
+23/08/01 22:29,12edc375d0eee4,resume,FAIL,NBCamp,최종합격
+23/08/01 23:27,3557a362b9ece6,resume,PASS,Hanghae,취업 준비중
+23/08/02 1:10,67878764e1dbf3,resume,FAIL,NBCamp,취업 준비중
+23/08/02 2:00,685eb324c4c9bd,resume,PASS,NBCamp,취업 준비중
+23/08/02 2:03,395f8b52c88d6f,resume,PASS,NBCamp,취업 준비중
+23/08/02 13:02,47111a90ca5dff,resume,PASS,NBCamp,취업 준비중
+23/08/02 13:28,52af8650d9a60e,resume,CANCEL,NBCamp,최종합격
+23/08/02 19:29,52af8650d9a60e,resume,PASS,NBCamp,최종합격
+23/08/02 20:22,51f7b867761942,resume,FAIL,NBCamp,취업 준비중
+23/08/02 22:35,60b8801252f845,resume,FAIL,NBCamp,취업 준비중
+23/08/03 22:09,475bb19078943d,resume,FAIL,Hanghae,최종합격
+23/08/04 0:54,117eda568789b0,resume,FAIL,NBCamp,취업 보류
+23/08/04 3:13,17249c906f4fd6,resume,FAIL,NBCamp,최종합격
+23/08/04 12:15,75c78c26a81df2,resume,FAIL,NBCamp,최종합격
+23/08/04 13:18,67878764e1dbf3,resume,FAIL,NBCamp,취업 준비중
+23/08/04 13:20,67878764e1dbf3,resume,CANCEL,NBCamp,취업 준비중
+23/08/04 15:13,196f5b683d2704,resume,FAIL,Hanghae,최종합격
+23/08/04 17:35,729c3557cb409d,resume,FAIL,NBCamp,최종합격
+23/08/04 18:24,329b4a30cea57b,resume,PASS,Hanghae,취업 준비중
+23/08/04 21:34,52af8650d9a60e,resume,CANCEL,NBCamp,최종합격
+23/08/04 21:35,52af8650d9a60e,resume,CANCEL,NBCamp,최종합격
+23/08/04 21:37,52af8650d9a60e,resume,CANCEL,NBCamp,최종합격
+23/08/04 21:39,52af8650d9a60e,resume,CANCEL,NBCamp,최종합격
+23/08/04 21:39,52af8650d9a60e,resume,CANCEL,NBCamp,최종합격
+23/08/04 21:40,52af8650d9a60e,resume,FAIL,NBCamp,최종합격
+23/08/05 18:18,417063276affe4,resume,PASS,Hanghae,최종합격
+23/08/06 0:45,51f7b867761942,resume,PASS,NBCamp,취업 준비중
+23/08/07 10:47,340d62473bca29,resume,FAIL,NBCamp,최종합격
+23/08/07 11:09,79381728722a36,resume,PASS,NBCamp,최종합격
+23/08/07 13:16,475bb19078943d,resume,FAIL,Hanghae,최종합격
+23/08/07 13:53,22ab6258ec1f5b,resume,FAIL,Hanghae,취업 준비중
+23/08/07 14:49,223856945edb24,interview,CANCEL,Hanghae,취업 준비중
+23/08/07 15:44,17249c906f4fd6,resume,PASS,NBCamp,최종합격
+23/08/07 19:02,7499b7555bee12,resume,FAIL,NBCamp,취업 준비중
+23/08/07 19:03,7499b7555bee12,resume,FAIL,NBCamp,취업 준비중
+23/08/08 0:09,1705c2929bc8bb,resume,CANCEL,NBCamp,취업 준비중
+23/08/08 13:09,52af8650d9a60e,resume,FAIL,NBCamp,최종합격
+23/08/08 16:22,1705c2929bc8bb,resume,FAIL,NBCamp,취업 준비중
+23/08/08 21:17,627ee56614f7e3,resume,FAIL,Hanghae,취업 준비중
+23/08/09 12:30,340d62473bca29,resume,PASS,NBCamp,최종합격
+23/08/09 13:19,139e87189106a6,resume,FAIL,Hanghae,최종합격
+23/08/09 13:49,22ab6258ec1f5b,resume,PASS,Hanghae,취업 준비중
+23/08/09 15:34,18b75e79b38490,resume,PASS,NBCamp,취업 준비중
+23/08/09 17:02,61fc9479ea78e9,resume,PASS,Hanghae,취업 준비중
+23/08/09 18:17,72278b77886de9,resume,PASS,NBCamp,취업 준비중
+23/08/09 21:34,9783ee84028b8f,resume,FAIL,NBCamp,취업 준비중
+23/08/10 0:03,99e0d646fa2280,resume,PASS,NBCamp,최종합격
+23/08/10 14:26,75c78c26a81df2,resume,FAIL,NBCamp,최종합격
+23/08/10 14:54,475bb19078943d,resume,PASS,Hanghae,최종합격
+23/08/10 15:20,60b8801252f845,resume,FAIL,NBCamp,취업 준비중
+23/08/10 18:40,627ee56614f7e3,resume,FAIL,Hanghae,취업 준비중
+23/08/11 16:19,908d5794dcf026,resume,FAIL,NBCamp,취업 준비중
+23/08/11 20:06,79ec3b947ad1f5,resume,FAIL,NBCamp,취업 보류
+23/08/12 15:48,4967a093772944,resume,PASS,Hanghae,취업 준비중
+23/08/14 11:47,139e87189106a6,resume,FAIL,Hanghae,최종합격
+23/08/14 15:47,47cbac52a0be75,resume,FAIL,NBCamp,취업 준비중
+23/08/14 23:03,79d39c457d6333,resume,PASS,NBCamp,최종합격
+23/08/15 16:21,75c78c26a81df2,resume,PASS,NBCamp,최종합격
+23/08/16 10:47,97579f20553e3e,resume,FAIL,Hanghae,취업 준비중
+23/08/16 13:50,9711954868c8eb,resume,PASS,NBCamp,취업 준비중
+23/08/16 15:29,908d5794dcf026,resume,FAIL,NBCamp,취업 준비중
+23/08/16 23:29,211452424b179d,resume,FAIL,Hanghae,최종합격
+23/08/17 15:39,139e87189106a6,resume,PASS,Hanghae,최종합격
+23/08/17 22:46,165d70659ed91f,resume,PASS,Hanghae,취업 준비중
+23/08/17 22:47,729c3557cb409d,resume,FAIL,NBCamp,최종합격
+23/08/18 0:50,729c3557cb409d,resume,CANCEL,NBCamp,최종합격
+23/08/18 15:32,24ab6c29f61020,resume,PASS,NBCamp,취업 준비중
+23/08/18 21:52,97579f20553e3e,resume,FAIL,Hanghae,취업 준비중
+23/08/20 16:46,53b2be34320c04,resume,PASS,NBCamp,취업 준비중
+23/08/20 20:46,199b64929b160e,resume,PASS,NBCamp,취업 준비중
+23/08/21 14:33,519d0e44d42f35,resume,FAIL,NBCamp,취업 준비중
+23/08/21 20:35,75c78c26a81df2,interview,CANCEL,NBCamp,최종합격
+23/08/21 21:01,25fd8a86a0a95f,interview,FAIL,Hanghae,최종합격
+23/08/21 21:02,9153ec25e94cea,resume,FAIL,NBCamp,취업 준비중
+23/08/22 8:06,75033512ffa48a,interview,FAIL,NBCamp,최종합격
+23/08/22 10:42,75c78c26a81df2,interview,FAIL,NBCamp,최종합격
+23/08/22 20:42,79444135be30ce,resume,FAIL,Hanghae,최종합격
+23/08/22 20:48,79444135be30ce,interview,FAIL,Hanghae,최종합격
+23/08/23 12:34,79381728722a36,resume,PASS,NBCamp,최종합격
+23/08/23 12:55,9153ec25e94cea,resume,FAIL,NBCamp,취업 준비중
+23/08/23 14:08,9935d49030a17e,resume,FAIL,NBCamp,취업 보류
+23/08/23 18:02,97579f20553e3e,resume,CANCEL,Hanghae,취업 준비중
+23/08/24 14:35,395f8b52c88d6f,resume,FAIL,NBCamp,취업 준비중
+23/08/24 16:07,4126c3579f6614,interview,FAIL,NBCamp,최종합격
+23/08/24 17:10,17249c906f4fd6,interview,FAIL,NBCamp,최종합격
+23/08/25 3:49,519d0e44d42f35,resume,PASS,NBCamp,취업 준비중
+23/08/25 14:35,75c78c26a81df2,interview,CANCEL,NBCamp,최종합격
+23/08/25 15:40,3015e23890cdc9,resume,PASS,NBCamp,취업 준비중
+23/08/26 1:16,42276f81e73c5a,resume,FAIL,NBCamp,취업 준비중
+23/08/26 16:10,4258c714d340ed,resume,FAIL,Hanghae,최종합격
+23/08/27 0:11,10759e844d7663,resume,FAIL,NBCamp,취업 준비중
+23/08/28 0:47,47cbac52a0be75,resume,FAIL,NBCamp,취업 준비중
+23/08/28 12:16,340d62473bca29,resume,FAIL,NBCamp,최종합격
+23/08/28 13:53,34e7b286303f7c,resume,FAIL,NBCamp,취업 준비중
+23/08/28 15:07,75c78c26a81df2,interview,FAIL,NBCamp,최종합격
+23/08/28 15:17,47cbac52a0be75,resume,FAIL,NBCamp,취업 준비중
+23/08/28 16:36,976135140c6558,resume,PASS,NBCamp,최종합격
+23/08/28 20:25,57ec831979dc20,resume,PASS,Hanghae,최종합격
+23/08/28 23:50,698201168ea112,resume,PASS,NBCamp,취업 준비중
+23/08/29 17:10,346dd84820ebb0,resume,PASS,NBCamp,최종합격
+23/08/29 19:33,93318286f179e3,resume,PASS,NBCamp,최종합격
+23/08/29 22:56,97e1f375efab68,resume,FAIL,NBCamp,취업 보류
+23/08/30 9:15,211452424b179d,resume,FAIL,Hanghae,최종합격
+23/08/30 9:16,211452424b179d,resume,FAIL,Hanghae,최종합격
+23/08/30 10:44,493c77371c1e2b,resume,FAIL,NBCamp,취업 준비중
+23/08/30 10:54,81f55d93fc1e65,resume,FAIL,NBCamp,취업 준비중
+23/08/30 13:21,139e87189106a6,interview,FAIL,Hanghae,최종합격
+23/08/30 15:02,66b740210d2f86,resume,FAIL,NBCamp,취업 준비중
+23/08/31 11:18,75033512ffa48a,resume,PASS,NBCamp,최종합격
+23/08/31 14:06,34e7b286303f7c,resume,FAIL,NBCamp,취업 준비중
+23/09/01 14:44,493c77371c1e2b,resume,FAIL,NBCamp,취업 준비중
+23/09/01 14:47,493c77371c1e2b,resume,FAIL,NBCamp,취업 준비중
+23/09/01 16:19,10759e844d7663,resume,PASS,NBCamp,취업 준비중
+23/09/01 22:00,42276f81e73c5a,resume,FAIL,NBCamp,취업 준비중
+23/09/02 12:44,729c3557cb409d,resume,FAIL,NBCamp,최종합격
+23/09/04 12:57,1705c2929bc8bb,resume,FAIL,NBCamp,취업 준비중
+23/09/04 14:40,490c1b563bca29,resume,FAIL,NBCamp,취업 준비중
+23/09/04 14:41,88f37790e14cf3,interview,FAIL,Hanghae,최종합격
+23/09/04 15:34,97a98756812ae8,interview,FAIL,NBCamp,최종합격
+23/09/04 16:13,72e22525ee8092,interview,FAIL,NBCamp,최종합격
+23/09/04 16:25,74a53a244d700a,interview,PASS,NBCamp,최종합격
+23/09/04 18:34,23db1f83f6cd9d,resume,FAIL,NBCamp,취업 보류
+23/09/04 19:10,33d93184f70f3a,interview,FAIL,NBCamp,최종합격
+23/09/04 20:45,87ae9b87eb0cdf,interview,FAIL,NBCamp,최종합격
+23/09/05 1:10,211452424b179d,resume,PASS,Hanghae,최종합격
+23/09/05 14:29,48c8a0117e9d28,resume,FAIL,NBCamp,취업 준비중
+23/09/05 14:56,79444135be30ce,resume,PASS,Hanghae,최종합격
+23/09/05 16:54,346dd84820ebb0,interview,PASS,NBCamp,최종합격
+23/09/05 20:08,8999ad775bee12,resume,PASS,NBCamp,최종합격
+23/09/06 10:07,81f55d93fc1e65,resume,CANCEL,NBCamp,취업 준비중
+23/09/06 10:36,81f55d93fc1e65,resume,FAIL,NBCamp,취업 준비중
+23/09/06 10:54,9783ee84028b8f,interview,FAIL,NBCamp,취업 준비중
+23/09/06 11:18,27f77095936a81,interview,PASS,Hanghae,최종합격
+23/09/06 11:55,17eda016eb30e8,interview,FAIL,NBCamp,최종합격
+23/09/06 12:00,5168a958d72944,interview,FAIL,NBCamp,취업 준비중
+23/09/06 13:00,65b037490e3274,interview,FAIL,Hanghae,최종합격
+23/09/06 15:29,24534766b01972,interview,FAIL,Hanghae,최종합격
+23/09/06 15:50,25fd8a86a0a95f,interview,FAIL,Hanghae,최종합격
+23/09/06 16:04,58c02e88c7f1d5,interview,FAIL,Hanghae,최종합격
+23/09/06 16:23,52a9d6264a210f,interview,FAIL,NBCamp,취업 준비중
+23/09/06 18:12,211452424b179d,resume,PASS,Hanghae,최종합격
+23/09/06 23:49,75033512ffa48a,interview,FAIL,NBCamp,최종합격
+23/09/07 12:15,14d84266376996,interview,FAIL,Hanghae,최종합격
+23/09/07 13:20,417063276affe4,resume,CANCEL,Hanghae,최종합격
+23/09/07 14:00,417063276affe4,resume,CANCEL,Hanghae,최종합격
+23/09/07 14:02,417063276affe4,resume,CANCEL,Hanghae,최종합격
+23/09/07 14:04,417063276affe4,resume,PASS,Hanghae,최종합격
+23/09/07 15:34,1705c2929bc8bb,resume,PASS,NBCamp,취업 준비중
+23/09/08 11:55,99e5e3390b1ab4,resume,CANCEL,Hanghae,취업 준비중
+23/09/08 21:13,97a98756812ae8,resume,PASS,NBCamp,최종합격
+23/09/09 13:49,599d4b6892092a,resume,FAIL,Hanghae,최종합격
+23/09/09 15:11,57a1b8665a7c6d,resume,FAIL,Hanghae,최종합격
+23/09/09 15:12,434600101809e8,resume,PASS,Hanghae,최종합격
+23/09/09 15:12,91ac4b90a957f2,resume,FAIL,Hanghae,취업 보류
+23/09/09 15:12,5421d24783d532,resume,PASS,Hanghae,최종합격
+23/09/09 15:24,374309456d6cec,resume,CANCEL,Hanghae,최종합격
+23/09/09 16:08,64d282535f3111,resume,FAIL,Hanghae,취업 준비중
+23/09/09 16:20,74c1f084145319,resume,FAIL,Hanghae,최종합격
+23/09/09 16:47,72a1c953455edb,resume,CANCEL,Hanghae,취업 준비중
+23/09/09 16:47,72a1c953455edb,resume,CANCEL,Hanghae,취업 준비중
+23/09/09 16:55,64fb7297e8bdd0,resume,FAIL,Hanghae,최종합격
+23/09/09 17:36,46672a1265d1fd,resume,FAIL,Hanghae,최종합격
+23/09/09 17:44,124a91982fe8d7,resume,FAIL,Hanghae,취업 준비중
+23/09/09 17:45,28f04359c999e4,resume,FAIL,Hanghae,최종합격
+23/09/09 18:05,3538ff394ba41f,resume,FAIL,Hanghae,취업 준비중
+23/09/09 18:06,96e07f738fc5bb,resume,FAIL,Hanghae,취업 준비중
+23/09/09 18:06,96e07f738fc5bb,interview,FAIL,Hanghae,취업 준비중
+23/09/09 18:13,612e1b961fe2d9,resume,FAIL,Hanghae,취업 준비중
+23/09/09 18:24,6444fc55bfa3d1,resume,FAIL,Hanghae,취업 준비중
+23/09/09 18:53,3957e525f340ed,resume,FAIL,Hanghae,취업 준비중
+23/09/09 19:19,20ee2359bcabf9,resume,FAIL,Hanghae,최종합격
+23/09/09 20:00,78659a202f0bde,resume,FAIL,Hanghae,취업 준비중
+23/09/09 20:30,55368c592f5ad9,resume,FAIL,Hanghae,최종합격
+23/09/09 20:56,28736163f797e5,resume,CANCEL,Hanghae,취업 준비중
+23/09/09 21:06,893ba944b17c0c,resume,PASS,Hanghae,취업 준비중
+23/09/09 21:19,5725cf653a0189,resume,PASS,Hanghae,최종합격
+23/09/09 21:20,28736163f797e5,resume,FAIL,Hanghae,취업 준비중
+23/09/09 21:40,6248bc27c857f8,resume,FAIL,Hanghae,취업 준비중
+23/09/09 22:34,67467a79aab3b2,resume,FAIL,Hanghae,최종합격
+23/09/10 1:48,72a1c953455edb,resume,FAIL,Hanghae,취업 준비중
+23/09/10 1:48,72a1c953455edb,resume,FAIL,Hanghae,취업 준비중
+23/09/10 11:55,30191739f08315,resume,PASS,Hanghae,최종합격
+23/09/10 12:02,479c3386ff4ebb,resume,FAIL,Hanghae,최종합격
+23/09/10 12:05,943fbc50ca2cd6,resume,FAIL,Hanghae,최종합격
+23/09/10 12:21,74126b70ccebed,resume,FAIL,Hanghae,취업 준비중
+23/09/10 13:01,6547b4541a840e,resume,FAIL,Hanghae,취업 준비중
+23/09/10 13:01,1245d88502ecd3,resume,FAIL,Hanghae,최종합격
+23/09/10 13:35,125e3f25f6565f,resume,FAIL,Hanghae,최종합격
+23/09/10 14:23,84354789651707,resume,FAIL,Hanghae,취업 준비중
+23/09/10 14:26,86512816dc48ab,resume,FAIL,Hanghae,취업 준비중
+23/09/10 14:38,2868b553b244cf,resume,FAIL,Hanghae,취업 준비중
+23/09/10 14:43,816ea35972b5ba,resume,FAIL,Hanghae,최종합격
+23/09/10 14:54,20572978918546,resume,FAIL,Hanghae,최종합격
+23/09/10 15:10,32084930307d2d,resume,FAIL,Hanghae,취업 준비중
+23/09/10 15:12,76210693623a63,resume,FAIL,Hanghae,최종합격
+23/09/10 15:19,9141eb6185cb18,resume,FAIL,Hanghae,취업 준비중
+23/09/10 15:25,213fad45a75d8b,resume,FAIL,Hanghae,취업 준비중
+23/09/10 15:45,42eb68779ad1f5,resume,FAIL,Hanghae,취업 준비중
+23/09/10 15:47,646c2b81d3a7dc,resume,FAIL,Hanghae,취업 준비중
+23/09/10 15:52,723d3d29b46584,resume,FAIL,Hanghae,취업 보류
+23/09/10 15:53,793e6a462f8f80,resume,FAIL,Hanghae,취업 준비중
+23/09/10 16:07,3469e0127b2daa,resume,PASS,Hanghae,취업 준비중
+23/09/10 16:13,6284a555cbd080,resume,FAIL,Hanghae,취업 준비중
+23/09/10 16:25,24383163995d77,resume,FAIL,Hanghae,취업 준비중
+23/09/10 16:36,510aad84eebebf,resume,FAIL,Hanghae,최종합격
+23/09/10 16:46,187fb011779425,resume,FAIL,Hanghae,최종합격
+23/09/10 16:46,474a189532422f,resume,FAIL,Hanghae,취업 준비중
+23/09/10 16:48,841df63572fcd0,resume,FAIL,Hanghae,최종합격
+23/09/10 16:49,911595162d6bc7,resume,FAIL,Hanghae,취업 준비중
+23/09/10 16:50,40d8a984e84e2f,resume,FAIL,Hanghae,최종합격
+23/09/10 17:11,716d8e5325efde,resume,FAIL,Hanghae,취업 준비중
+23/09/10 17:20,53c4e534a1c4a0,resume,FAIL,Hanghae,취업 준비중
+23/09/10 17:22,966ca618f82a2c,resume,FAIL,Hanghae,최종합격
+23/09/10 17:30,2238d2226740f5,resume,FAIL,Hanghae,취업 준비중
+23/09/10 17:30,1176e346f0ee11,resume,FAIL,Hanghae,취업 준비중
+23/09/10 17:37,345802667a587c,resume,FAIL,Hanghae,최종합격
+23/09/10 17:40,256223220e0aa5,resume,CANCEL,Hanghae,취업 준비중
+23/09/10 17:42,256223220e0aa5,resume,PASS,Hanghae,취업 준비중
+23/09/10 17:56,3868947174bc4b,resume,PASS,Hanghae,최종합격
+23/09/10 18:12,94e9a667237b34,resume,PASS,Hanghae,취업 준비중
+23/09/10 18:30,324bb697c02dd2,resume,FAIL,Hanghae,최종합격
+23/09/10 18:33,233065205c8a29,resume,FAIL,Hanghae,취업 준비중
+23/09/10 18:39,709610627baaa8,resume,FAIL,Hanghae,취업 준비중
+23/09/10 18:39,73577f53360923,resume,CANCEL,Hanghae,취업 준비중
+23/09/10 18:44,993c1366112f73,resume,FAIL,Hanghae,취업 준비중
+23/09/10 18:48,49c988528d9bbe,resume,FAIL,Hanghae,취업 준비중
+23/09/10 18:48,73577f53360923,resume,CANCEL,Hanghae,취업 준비중
+23/09/10 18:49,73577f53360923,resume,CANCEL,Hanghae,취업 준비중
+23/09/10 18:50,73577f53360923,resume,CANCEL,Hanghae,취업 준비중
+23/09/10 18:51,37e8f2522512d2,resume,FAIL,Hanghae,취업 준비중
+23/09/10 18:52,73577f53360923,resume,CANCEL,Hanghae,취업 준비중
+23/09/10 18:53,73577f53360923,resume,FAIL,Hanghae,취업 준비중
+23/09/10 18:56,3948c71704509c,resume,FAIL,Hanghae,최종합격
+23/09/10 18:57,8542cc94f7c43d,resume,FAIL,Hanghae,취업 준비중
+23/09/10 18:59,313649758dc009,resume,FAIL,Hanghae,취업 준비중
+23/09/10 19:04,37232560b004b6,resume,FAIL,Hanghae,취업 준비중
+23/09/10 19:21,884e9671bb47b7,resume,FAIL,Hanghae,최종합격
+23/09/10 19:23,15ddf5759d682a,resume,FAIL,Hanghae,취업 준비중
+23/09/10 19:32,3064ae46225f64,resume,FAIL,Hanghae,최종합격
+23/09/10 19:32,3064ae46225f64,interview,FAIL,Hanghae,최종합격
+23/09/10 19:33,58244b249119b3,resume,FAIL,Hanghae,최종합격
+23/09/10 20:39,497fd0467a0e25,resume,FAIL,Hanghae,최종합격
+23/09/10 20:56,51c9fd15e86a02,resume,FAIL,Hanghae,취업 준비중
+23/09/10 21:00,77afe835ec0968,resume,FAIL,Hanghae,최종합격
+23/09/10 21:41,374309456d6cec,resume,FAIL,Hanghae,최종합격
+23/09/10 21:41,5361a1579b8381,resume,FAIL,Hanghae,취업 준비중
+23/09/10 21:42,5361a1579b8381,interview,FAIL,Hanghae,취업 준비중
+23/09/10 22:17,1438e741d0ff59,resume,FAIL,Hanghae,취업 준비중
+23/09/10 22:30,8708a4540c6747,resume,FAIL,Hanghae,최종합격
+23/09/10 22:44,701ae257f43f35,resume,CANCEL,Hanghae,취업 준비중
+23/09/10 22:47,701ae257f43f35,resume,CANCEL,Hanghae,취업 준비중
+23/09/10 22:50,701ae257f43f35,resume,CANCEL,Hanghae,취업 준비중
+23/09/10 22:51,701ae257f43f35,resume,FAIL,Hanghae,취업 준비중
+23/09/10 23:04,68d558444f97b4,resume,FAIL,Hanghae,취업 보류
+23/09/11 2:27,93602c5611918a,resume,FAIL,Hanghae,취업 준비중
+23/09/11 2:45,342b2910e007f5,resume,FAIL,Hanghae,취업 보류
+23/09/11 5:10,77e11d79286a02,resume,FAIL,Hanghae,취업 준비중
+23/09/11 6:36,2932a712678d42,resume,FAIL,Hanghae,취업 준비중
+23/09/11 8:05,124a91982fe8d7,resume,FAIL,Hanghae,취업 준비중
+23/09/11 9:10,4659b36384a72b,resume,FAIL,Hanghae,취업 준비중
+23/09/11 11:37,63dcbc458344af,resume,FAIL,Hanghae,최종합격
+23/09/11 13:59,512b1663997e81,resume,PASS,Hanghae,최종합격
+23/09/11 14:58,1350d957a96f0c,resume,CANCEL,Hanghae,취업 보류
+23/09/11 15:03,63dcbc458344af,resume,PASS,Hanghae,최종합격
+23/09/11 20:27,14056e3769b816,resume,FAIL,Hanghae,최종합격
+23/09/11 20:28,14056e3769b816,interview,PASS,Hanghae,최종합격
+23/09/11 21:11,473658339bdbcd,resume,FAIL,Hanghae,취업 보류
+23/09/11 22:15,5421d24783d532,resume,FAIL,Hanghae,최종합격
+23/09/12 0:28,1133a29433dd78,resume,FAIL,NBCamp,최종합격
+23/09/12 8:38,89329a93b07aff,resume,FAIL,Hanghae,취업 준비중
+23/09/12 11:40,599d4b6892092a,resume,FAIL,Hanghae,최종합격
+23/09/12 11:59,63dcbc458344af,resume,PASS,Hanghae,최종합격
+23/09/12 12:20,1176e346f0ee11,resume,FAIL,Hanghae,취업 준비중
+23/09/12 12:34,6848d6222f89c0,resume,FAIL,Hanghae,취업 준비중
+23/09/12 13:31,3064ae46225f64,resume,PASS,Hanghae,최종합격
+23/09/12 14:00,64d282535f3111,resume,PASS,Hanghae,취업 준비중
+23/09/12 14:13,15ddf5759d682a,resume,PASS,Hanghae,취업 준비중
+23/09/12 14:14,1710c61568c8eb,resume,FAIL,Hanghae,취업 준비중
+23/09/12 14:31,943fbc50ca2cd6,resume,PASS,Hanghae,최종합격
+23/09/12 14:39,46672a1265d1fd,resume,FAIL,Hanghae,최종합격
+23/09/12 14:57,124a91982fe8d7,resume,FAIL,Hanghae,취업 준비중
+23/09/12 15:45,99e0d646fa2280,resume,FAIL,NBCamp,최종합격
+23/09/12 16:35,510aad84eebebf,resume,PASS,Hanghae,최종합격
+23/09/12 16:37,324bb697c02dd2,resume,FAIL,Hanghae,최종합격
+23/09/12 17:13,5421d24783d532,resume,FAIL,Hanghae,최종합격
+23/09/12 17:29,5421d24783d532,interview,PASS,Hanghae,최종합격
+23/09/12 17:35,8708a4540c6747,resume,FAIL,Hanghae,최종합격
+23/09/12 19:07,6248bc27c857f8,resume,PASS,Hanghae,취업 준비중
+23/09/12 19:20,86512816dc48ab,resume,PASS,Hanghae,취업 준비중
+23/09/12 19:27,374309456d6cec,resume,PASS,Hanghae,최종합격
+23/09/12 19:31,93602c5611918a,resume,PASS,Hanghae,취업 준비중
+23/09/12 20:15,4659b36384a72b,resume,FAIL,Hanghae,취업 준비중
+23/09/12 20:40,28f04359c999e4,resume,FAIL,Hanghae,최종합격
+23/09/12 21:14,37e8f2522512d2,resume,FAIL,Hanghae,취업 준비중
+23/09/12 21:14,57a1b8665a7c6d,resume,FAIL,Hanghae,최종합격
+23/09/12 22:25,49c988528d9bbe,resume,FAIL,Hanghae,취업 준비중
+23/09/12 22:29,716d8e5325efde,resume,FAIL,Hanghae,취업 준비중
+23/09/12 22:29,716d8e5325efde,resume,CANCEL,Hanghae,취업 준비중
+23/09/12 23:28,993c1366112f73,resume,FAIL,Hanghae,취업 준비중
+23/09/12 23:46,911595162d6bc7,resume,FAIL,Hanghae,취업 준비중
+23/09/13 2:46,79444135be30ce,interview,FAIL,Hanghae,최종합격
+23/09/13 2:49,843fc922e711ce,resume,FAIL,Hanghae,취업 준비중
+23/09/13 3:10,20ee2359bcabf9,resume,FAIL,Hanghae,최종합격
+23/09/13 11:09,64d282535f3111,resume,CANCEL,Hanghae,취업 준비중
+23/09/13 11:13,33d93184f70f3a,resume,FAIL,NBCamp,최종합격
+23/09/13 11:17,64fb7297e8bdd0,resume,FAIL,Hanghae,최종합격
+23/09/13 12:20,5725cf653a0189,resume,PASS,Hanghae,최종합격
+23/09/13 12:32,646c2b81d3a7dc,resume,FAIL,Hanghae,취업 준비중
+23/09/13 12:57,505a5483186c2e,resume,FAIL,NBCamp,최종합격
+23/09/13 13:37,30191739f08315,resume,PASS,Hanghae,최종합격
+23/09/13 14:04,943fbc50ca2cd6,interview,FAIL,Hanghae,최종합격
+23/09/13 14:14,63dcbc458344af,interview,PASS,Hanghae,최종합격
+23/09/13 14:21,14056e3769b816,resume,PASS,Hanghae,최종합격
+23/09/13 14:50,84354789651707,resume,FAIL,Hanghae,취업 준비중
+23/09/13 15:41,3957e525f340ed,resume,FAIL,Hanghae,취업 준비중
+23/09/13 15:45,196f5b683d2704,resume,PASS,Hanghae,최종합격
+23/09/13 16:22,612e1b961fe2d9,resume,FAIL,Hanghae,취업 준비중
+23/09/13 16:41,37232560b004b6,resume,FAIL,Hanghae,취업 준비중
+23/09/13 16:45,233065205c8a29,resume,PASS,Hanghae,취업 준비중
+23/09/13 16:53,124a91982fe8d7,resume,PASS,Hanghae,취업 준비중
+23/09/13 17:01,966ca618f82a2c,resume,PASS,Hanghae,최종합격
+23/09/13 17:05,78659a202f0bde,resume,CANCEL,Hanghae,취업 준비중
+23/09/13 17:09,78659a202f0bde,resume,PASS,Hanghae,취업 준비중
+23/09/13 17:18,32084930307d2d,resume,FAIL,Hanghae,취업 준비중
+23/09/13 17:23,841df63572fcd0,resume,FAIL,Hanghae,최종합격
+23/09/13 17:36,8542cc94f7c43d,resume,FAIL,Hanghae,취업 준비중
+23/09/13 17:36,49c988528d9bbe,resume,FAIL,Hanghae,취업 준비중
+23/09/13 17:41,187fb011779425,resume,FAIL,Hanghae,최종합격
+23/09/13 17:42,64d282535f3111,resume,CANCEL,Hanghae,취업 준비중
+23/09/13 17:48,884e9671bb47b7,resume,PASS,Hanghae,최종합격
+23/09/13 17:50,6848d6222f89c0,resume,FAIL,Hanghae,취업 준비중
+23/09/13 17:57,64d282535f3111,resume,FAIL,Hanghae,취업 준비중
+23/09/13 18:01,40d8a984e84e2f,resume,FAIL,Hanghae,최종합격
+23/09/13 18:02,6284a555cbd080,resume,FAIL,Hanghae,취업 준비중
+23/09/13 18:09,8326b474bbfa75,resume,FAIL,Hanghae,취업 보류
+23/09/13 18:12,313649758dc009,resume,FAIL,Hanghae,취업 준비중
+23/09/13 18:13,2238d2226740f5,resume,FAIL,Hanghae,취업 준비중
+23/09/13 18:16,6444fc55bfa3d1,resume,FAIL,Hanghae,취업 준비중
+23/09/13 18:17,96e07f738fc5bb,resume,FAIL,Hanghae,취업 준비중
+23/09/13 18:17,76210693623a63,resume,FAIL,Hanghae,최종합격
+23/09/13 18:17,76210693623a63,resume,FAIL,Hanghae,최종합격
+23/09/13 18:19,2868b553b244cf,resume,FAIL,Hanghae,취업 준비중
+23/09/13 18:24,55368c592f5ad9,resume,FAIL,Hanghae,최종합격
+23/09/13 18:25,46672a1265d1fd,resume,FAIL,Hanghae,최종합격
+23/09/13 18:27,479c3386ff4ebb,resume,FAIL,Hanghae,최종합격
+23/09/13 18:33,124a91982fe8d7,resume,PASS,Hanghae,취업 준비중
+23/09/13 18:35,24383163995d77,resume,FAIL,Hanghae,취업 준비중
+23/09/13 18:36,74126b70ccebed,resume,FAIL,Hanghae,취업 준비중
+23/09/13 18:38,510aad84eebebf,resume,CANCEL,Hanghae,최종합격
+23/09/13 18:39,510aad84eebebf,resume,PASS,Hanghae,최종합격
+23/09/13 18:39,497fd0467a0e25,resume,FAIL,Hanghae,최종합격
+23/09/13 18:41,793e6a462f8f80,resume,FAIL,Hanghae,취업 준비중
+23/09/13 18:42,53c4e534a1c4a0,resume,PASS,Hanghae,취업 준비중
+23/09/13 18:43,793e6a462f8f80,resume,FAIL,Hanghae,취업 준비중
+23/09/13 18:48,345802667a587c,resume,FAIL,Hanghae,최종합격
+23/09/13 18:48,2932a712678d42,resume,FAIL,Hanghae,취업 준비중
+23/09/13 18:52,816ea35972b5ba,resume,PASS,Hanghae,최종합격
+23/09/13 18:53,1245d88502ecd3,resume,FAIL,Hanghae,최종합격
+23/09/13 18:54,6547b4541a840e,resume,FAIL,Hanghae,취업 준비중
+23/09/13 18:58,3948c71704509c,resume,PASS,Hanghae,최종합격
+23/09/13 19:06,77afe835ec0968,resume,PASS,Hanghae,최종합격
+23/09/13 19:09,67467a79aab3b2,resume,PASS,Hanghae,최종합격
+23/09/13 19:20,893ba944b17c0c,resume,FAIL,Hanghae,취업 준비중
+23/09/13 19:57,56def7910d2863,resume,PASS,NBCamp,최종합격
+23/09/13 19:57,56def7910d2863,resume,PASS,NBCamp,최종합격
+23/09/13 21:17,1438e741d0ff59,resume,PASS,Hanghae,취업 준비중
+23/09/13 21:19,13ea95545422bc,resume,CANCEL,NBCamp,취업 준비중
+23/09/13 23:34,434600101809e8,resume,FAIL,Hanghae,최종합격
+23/09/13 23:34,709610627baaa8,resume,FAIL,Hanghae,취업 준비중
+23/09/14 1:26,1133a29433dd78,resume,CANCEL,NBCamp,최종합격
+23/09/14 1:50,1133a29433dd78,resume,FAIL,NBCamp,최종합격
+23/09/14 10:04,98641418f0c48b,resume,FAIL,NBCamp,최종합격
+23/09/14 11:21,841df63572fcd0,resume,PASS,Hanghae,최종합격
+23/09/14 12:20,53c4e534a1c4a0,resume,PASS,Hanghae,취업 준비중
+23/09/14 14:39,374309456d6cec,resume,FAIL,Hanghae,최종합격
+23/09/14 14:41,374309456d6cec,resume,FAIL,Hanghae,최종합격
+23/09/14 15:04,841df63572fcd0,resume,PASS,Hanghae,최종합격
+23/09/14 16:26,196f5b683d2704,interview,CANCEL,Hanghae,최종합격
+23/09/14 16:48,196f5b683d2704,interview,FAIL,Hanghae,최종합격
+23/09/14 18:09,8708a4540c6747,resume,PASS,Hanghae,최종합격
+23/09/14 18:10,9141eb6185cb18,resume,PASS,Hanghae,취업 준비중
+23/09/14 18:20,20572978918546,resume,FAIL,Hanghae,최종합격
+23/09/14 18:33,28f04359c999e4,resume,PASS,Hanghae,최종합격
+23/09/14 18:46,20ee2359bcabf9,resume,PASS,Hanghae,최종합격
+23/09/14 18:57,37e8f2522512d2,resume,FAIL,Hanghae,취업 준비중
+23/09/14 19:18,51072a70d07d2d,resume,PASS,Hanghae,최종합격
+23/09/14 20:37,417063276affe4,interview,FAIL,Hanghae,최종합격
+23/09/14 22:51,841df63572fcd0,resume,FAIL,Hanghae,최종합격
+23/09/15 10:40,599d4b6892092a,resume,PASS,Hanghae,최종합격
+23/09/15 12:08,96e07f738fc5bb,resume,FAIL,Hanghae,취업 준비중
+23/09/15 12:14,345802667a587c,resume,PASS,Hanghae,최종합격
+23/09/15 12:56,1705c2929bc8bb,resume,FAIL,NBCamp,취업 준비중
+23/09/15 12:56,324bb697c02dd2,resume,FAIL,Hanghae,최종합격
+23/09/15 13:01,28736163f797e5,resume,FAIL,Hanghae,취업 준비중
+23/09/15 13:02,28736163f797e5,resume,FAIL,Hanghae,취업 준비중
+23/09/15 14:15,1245d88502ecd3,resume,FAIL,Hanghae,최종합격
+23/09/15 15:20,646c2b81d3a7dc,resume,FAIL,Hanghae,취업 준비중
+23/09/15 17:21,72a1c953455edb,resume,FAIL,Hanghae,취업 준비중
+23/09/15 17:21,72a1c953455edb,resume,FAIL,Hanghae,취업 준비중
+23/09/15 17:38,55368c592f5ad9,resume,PASS,Hanghae,최종합격
+23/09/15 20:08,505a5483186c2e,resume,PASS,NBCamp,최종합격
+23/09/15 22:19,46672a1265d1fd,resume,PASS,Hanghae,최종합격
+23/09/16 13:57,32084930307d2d,resume,PASS,Hanghae,취업 준비중
+23/09/16 21:12,46834f47151f24,resume,FAIL,NBCamp,취업 준비중
+23/09/17 2:05,1176e346f0ee11,resume,FAIL,Hanghae,취업 준비중
+23/09/17 12:40,76210693623a63,resume,PASS,Hanghae,최종합격
+23/09/17 16:27,93fd5d93e26b6c,resume,FAIL,NBCamp,취업 준비중
+23/09/17 17:51,893ba944b17c0c,resume,PASS,Hanghae,취업 준비중
+23/09/18 2:41,3957e525f340ed,resume,PASS,Hanghae,취업 준비중
+23/09/18 10:04,493c77371c1e2b,resume,FAIL,NBCamp,취업 준비중
+23/09/18 10:56,5421d24783d532,resume,CANCEL,Hanghae,최종합격
+23/09/18 10:59,5421d24783d532,resume,FAIL,Hanghae,최종합격
+23/09/18 11:30,81eb7a88ff67c2,resume,PASS,Hanghae,최종합격
+23/09/18 15:01,33d93184f70f3a,resume,PASS,NBCamp,최종합격
+23/09/18 16:27,76210693623a63,interview,PASS,Hanghae,최종합격
+23/09/18 16:29,5725cf653a0189,interview,FAIL,Hanghae,최종합격
+23/09/18 16:29,74126b70ccebed,interview,FAIL,Hanghae,취업 준비중
+23/09/18 16:31,510aad84eebebf,interview,FAIL,Hanghae,최종합격
+23/09/18 16:44,8708a4540c6747,interview,FAIL,Hanghae,최종합격
+23/09/18 16:47,434600101809e8,interview,FAIL,Hanghae,최종합격
+23/09/18 16:47,3868947174bc4b,interview,PASS,Hanghae,최종합격
+23/09/18 16:57,3948c71704509c,interview,FAIL,Hanghae,최종합격
+23/09/18 18:12,342b2910e007f5,interview,FAIL,Hanghae,취업 보류
+23/09/18 19:29,841df63572fcd0,interview,FAIL,Hanghae,최종합격
+23/09/18 20:49,884e9671bb47b7,interview,FAIL,Hanghae,최종합격
+23/09/18 21:02,20ee2359bcabf9,interview,FAIL,Hanghae,최종합격
+23/09/18 21:02,28736163f797e5,interview,FAIL,Hanghae,취업 준비중
+23/09/18 22:11,74126b70ccebed,resume,FAIL,Hanghae,취업 준비중
+23/09/19 0:43,30191739f08315,interview,FAIL,Hanghae,최종합격
+23/09/19 2:18,13ea95545422bc,resume,PASS,NBCamp,취업 준비중
+23/09/19 2:19,43554b624762e1,resume,FAIL,NBCamp,최종합격
+23/09/19 13:51,3725a1517396e3,resume,FAIL,Hanghae,최종합격
+23/09/19 15:06,479c3386ff4ebb,interview,FAIL,Hanghae,최종합격
+23/09/19 15:18,966ca618f82a2c,interview,FAIL,Hanghae,최종합격
+23/09/19 15:32,72a1c953455edb,interview,FAIL,Hanghae,취업 준비중
+23/09/19 15:32,72a1c953455edb,interview,FAIL,Hanghae,취업 준비중
+23/09/19 15:41,497fd0467a0e25,resume,FAIL,Hanghae,최종합격
+23/09/19 15:50,123fa81205c9a3,resume,FAIL,NBCamp,취업 준비중
+23/09/19 15:51,994cba9143151b,resume,FAIL,NBCamp,취업 보류
+23/09/19 15:53,586f79315e80ce,resume,FAIL,NBCamp,취업 준비중
+23/09/19 15:53,1133a29433dd78,resume,FAIL,NBCamp,최종합격
+23/09/19 16:12,89329a93b07aff,resume,FAIL,Hanghae,취업 준비중
+23/09/19 16:35,67467a79aab3b2,interview,FAIL,Hanghae,최종합격
+23/09/19 16:48,512b1663997e81,interview,FAIL,Hanghae,최종합격
+23/09/19 17:22,77afe835ec0968,interview,FAIL,Hanghae,최종합격
+23/09/19 18:05,37e8f2522512d2,interview,FAIL,Hanghae,취업 준비중
+23/09/19 18:07,96daf2509d12fb,resume,FAIL,NBCamp,최종합격
+23/09/19 18:10,64fb7297e8bdd0,resume,PASS,Hanghae,최종합격
+23/09/19 18:51,8326b474bbfa75,interview,FAIL,Hanghae,취업 보류
+23/09/19 19:29,324bb697c02dd2,resume,PASS,Hanghae,최종합격
+23/09/19 19:31,1245d88502ecd3,resume,FAIL,Hanghae,최종합격
+23/09/19 20:38,479c3386ff4ebb,resume,PASS,Hanghae,최종합격
+23/09/20 11:10,49c988528d9bbe,resume,FAIL,Hanghae,취업 준비중
+23/09/20 11:40,48ff6128ab7943,resume,FAIL,NBCamp,취업 준비중
+23/09/20 12:12,312e81922c1201,resume,FAIL,NBCamp,최종합격
+23/09/20 12:14,18f95f2552bb71,resume,FAIL,NBCamp,최종합격
+23/09/20 12:46,90e63e88709449,resume,FAIL,NBCamp,취업 준비중
+23/09/20 13:48,142c51345184f1,resume,FAIL,NBCamp,최종합격
+23/09/20 15:12,187fb011779425,resume,FAIL,Hanghae,최종합격
+23/09/20 18:39,31474f764caa4d,resume,FAIL,NBCamp,최종합격
+23/09/20 19:49,323dac82fdbc35,resume,FAIL,NBCamp,취업 준비중
+23/09/20 23:53,74c1f084145319,resume,FAIL,Hanghae,최종합격
+23/09/21 9:19,843ba9761fc00c,resume,FAIL,NBCamp,최종합격
+23/09/21 9:39,2443a217792d2c,resume,CANCEL,Hanghae,최종합격
+23/09/21 13:00,320e8729e84a53,resume,FAIL,NBCamp,취업 준비중
+23/09/21 13:42,80afb99239a60e,resume,CANCEL,NBCamp,취업 준비중
+23/09/21 14:19,599d4b6892092a,interview,FAIL,Hanghae,최종합격
+23/09/21 15:05,81eb7a88ff67c2,interview,FAIL,Hanghae,최종합격
+23/09/21 15:08,13ea95545422bc,resume,FAIL,NBCamp,취업 준비중
+23/09/21 15:37,75c78c26a81df2,interview,PASS,NBCamp,최종합격
+23/09/21 16:38,80afb99239a60e,resume,PASS,NBCamp,취업 준비중
+23/09/21 17:02,6284a555cbd080,resume,FAIL,Hanghae,취업 준비중
+23/09/21 17:45,57a1b8665a7c6d,resume,PASS,Hanghae,최종합격
+23/09/21 19:49,18c411623eaab3,resume,FAIL,Hanghae,취업 준비중
+23/09/21 20:12,187fb011779425,interview,PASS,Hanghae,최종합격
+23/09/21 20:30,3538ff394ba41f,interview,FAIL,Hanghae,취업 준비중
+23/09/21 23:51,58244b249119b3,resume,PASS,Hanghae,최종합격
+23/09/22 1:25,7933bb36fa4806,resume,CANCEL,NBCamp,최종합격
+23/09/22 11:04,2443a217792d2c,resume,PASS,Hanghae,최종합격
+23/09/22 11:55,843ba9761fc00c,resume,FAIL,NBCamp,최종합격
+23/09/22 11:56,505a5483186c2e,resume,FAIL,NBCamp,최종합격
+23/09/22 11:57,962f9b98ac1201,resume,FAIL,NBCamp,최종합격
+23/09/22 12:13,98284c941db8b3,resume,CANCEL,NBCamp,취업 준비중
+23/09/22 12:31,7933bb36fa4806,resume,CANCEL,NBCamp,최종합격
+23/09/22 12:35,98284c941db8b3,resume,FAIL,NBCamp,취업 준비중
+23/09/22 13:03,6321df71f75300,resume,FAIL,NBCamp,취업 보류
+23/09/22 13:07,98641418f0c48b,resume,FAIL,NBCamp,최종합격
+23/09/22 13:30,43554b624762e1,resume,FAIL,NBCamp,최종합격
+23/09/22 13:42,99465e81c3f545,resume,FAIL,NBCamp,최종합격
+23/09/22 13:42,720d8177989b77,resume,FAIL,NBCamp,최종합격
+23/09/22 13:52,62f9d537108fd3,resume,FAIL,NBCamp,취업 준비중
+23/09/22 14:04,9032c1581f54b2,resume,FAIL,NBCamp,최종합격
+23/09/22 14:13,142c51345184f1,resume,CANCEL,NBCamp,최종합격
+23/09/22 14:15,42f11c23b466d0,resume,FAIL,NBCamp,취업 준비중
+23/09/22 14:20,7933bb36fa4806,resume,CANCEL,NBCamp,최종합격
+23/09/22 14:25,29fecb902ee0e2,resume,FAIL,NBCamp,취업 준비중
+23/09/22 14:32,131d1188e4ea5e,resume,PASS,NBCamp,취업 준비중
+23/09/22 14:39,975649787c1416,resume,PASS,NBCamp,최종합격
+23/09/22 14:39,78193343dd3dce,resume,FAIL,NBCamp,취업 준비중
+23/09/22 14:40,142c51345184f1,resume,PASS,NBCamp,최종합격
+23/09/22 14:41,6846ff435fca9f,resume,FAIL,NBCamp,취업 준비중
+23/09/22 14:41,142c51345184f1,resume,CANCEL,NBCamp,최종합격
+23/09/22 14:42,89fef259a83e58,resume,CANCEL,NBCamp,최종합격
+23/09/22 14:45,93e4c044902bb6,resume,CANCEL,NBCamp,최종합격
+23/09/22 14:47,142c51345184f1,resume,CANCEL,NBCamp,최종합격
+23/09/22 14:50,684269709e101f,resume,PASS,NBCamp,최종합격
+23/09/22 15:01,819a82248485a9,resume,FAIL,NBCamp,최종합격
+23/09/22 15:17,824e2a76aefd13,resume,FAIL,NBCamp,최종합격
+23/09/22 15:22,58251735c98eda,resume,FAIL,NBCamp,취업 준비중
+23/09/22 15:25,889eda70f373d1,resume,FAIL,NBCamp,취업 준비중
+23/09/22 15:26,31474f764caa4d,resume,FAIL,NBCamp,최종합격
+23/09/22 15:35,31474f764caa4d,resume,FAIL,NBCamp,최종합격
+23/09/22 15:41,73203370cd92c6,resume,PASS,NBCamp,취업 준비중
+23/09/22 16:02,34785a380a7d3f,resume,FAIL,NBCamp,취업 준비중
+23/09/22 16:04,163d3469530006,resume,CANCEL,NBCamp,최종합격
+23/09/22 16:05,8244f2429e7250,resume,FAIL,NBCamp,취업 준비중
+23/09/22 16:06,312e81922c1201,resume,FAIL,NBCamp,최종합격
+23/09/22 16:07,662bdf64bcfd1a,resume,FAIL,NBCamp,취업 준비중
+23/09/22 16:13,87b7d5590fe2b7,resume,FAIL,Hanghae,취업 준비중
+23/09/22 16:13,46391858aa1f66,resume,FAIL,NBCamp,취업 준비중
+23/09/22 16:20,555a3e44c24404,resume,FAIL,NBCamp,취업 준비중
+23/09/22 16:31,61a17157122348,resume,FAIL,NBCamp,취업 준비중
+23/09/22 16:32,832fa9592545b8,resume,FAIL,NBCamp,취업 준비중
+23/09/22 16:32,312e81922c1201,resume,FAIL,NBCamp,최종합격
+23/09/22 16:33,52e69c56740e76,resume,FAIL,NBCamp,취업 준비중
+23/09/22 16:33,609979339aa91a,resume,FAIL,NBCamp,취업 준비중
+23/09/22 16:34,103aa998952bc3,resume,FAIL,NBCamp,최종합격
+23/09/22 16:37,4110b9670fe7b0,resume,PASS,NBCamp,취업 준비중
+23/09/22 16:43,304648886be9b1,resume,FAIL,NBCamp,최종합격
+23/09/22 16:44,267bb181b47ea6,resume,PASS,NBCamp,취업 준비중
+23/09/22 16:46,259f505145e9c6,resume,FAIL,NBCamp,취업 준비중
+23/09/22 16:46,78db8e220aeae8,resume,FAIL,NBCamp,취업 준비중
+23/09/22 16:47,81c12a52383cc6,resume,FAIL,NBCamp,취업 준비중
+23/09/22 16:47,89fef259a83e58,resume,FAIL,NBCamp,최종합격
+23/09/22 16:49,24c13073b83cc6,resume,FAIL,NBCamp,취업 준비중
+23/09/22 16:51,8561bc412b140c,resume,FAIL,NBCamp,취업 준비중
+23/09/22 16:53,582ab4958d12ac,resume,FAIL,NBCamp,최종합격
+23/09/22 16:55,83524683896769,resume,CANCEL,NBCamp,최종합격
+23/09/22 16:55,262ea5241962b6,resume,FAIL,NBCamp,취업 준비중
+23/09/22 16:58,65e19549ffab68,resume,PASS,NBCamp,취업 준비중
+23/09/22 16:59,7527d798848e81,resume,FAIL,NBCamp,최종합격
+23/09/22 16:59,86e45a92671874,resume,CANCEL,NBCamp,취업 준비중
+23/09/22 17:00,660562977bb550,resume,FAIL,NBCamp,최종합격
+23/09/22 17:01,1133a29433dd78,resume,FAIL,NBCamp,최종합격
+23/09/22 17:03,86e45a92671874,resume,CANCEL,NBCamp,취업 준비중
+23/09/22 17:03,83524683896769,resume,FAIL,NBCamp,최종합격
+23/09/22 17:04,86e45a92671874,resume,CANCEL,NBCamp,취업 준비중
+23/09/22 17:04,9281c361728ca8,resume,FAIL,NBCamp,취업 준비중
+23/09/22 17:06,13ecdf43323502,resume,FAIL,Hanghae,취업 준비중
+23/09/22 17:06,775210769e150c,resume,FAIL,NBCamp,최종합격
+23/09/22 17:06,808c4462f59fb2,resume,FAIL,NBCamp,최종합격
+23/09/22 17:08,30003d334ac798,resume,FAIL,NBCamp,취업 준비중
+23/09/22 17:12,493e1e70e9f3ba,resume,FAIL,NBCamp,최종합격
+23/09/22 17:12,96daf2509d12fb,resume,FAIL,NBCamp,최종합격
+23/09/22 17:13,21e46044e7dd6c,resume,FAIL,NBCamp,최종합격
+23/09/22 17:15,869c3345a43675,resume,FAIL,NBCamp,취업 준비중
+23/09/22 17:15,163d3469530006,resume,FAIL,NBCamp,최종합격
+23/09/22 17:19,6248e960b7a5ae,resume,FAIL,NBCamp,취업 준비중
+23/09/22 17:19,69e4a47088461c,resume,FAIL,NBCamp,최종합격
+23/09/22 17:19,86e45a92671874,resume,CANCEL,NBCamp,취업 준비중
+23/09/22 17:21,86a751380e19c0,resume,FAIL,Hanghae,취업 준비중
+23/09/22 17:21,7700a551a83e58,resume,FAIL,NBCamp,취업 보류
+23/09/22 17:21,89469329114d28,resume,FAIL,NBCamp,취업 준비중
+23/09/22 17:25,594236680e9d14,resume,FAIL,NBCamp,취업 준비중
+23/09/22 17:26,86e45a92671874,resume,CANCEL,NBCamp,취업 준비중
+23/09/22 17:28,93e4c044902bb6,resume,PASS,NBCamp,최종합격
+23/09/22 17:36,74c1f084145319,resume,PASS,Hanghae,최종합격
+23/09/22 17:36,702aa364cd2a19,resume,FAIL,NBCamp,취업 보류
+23/09/22 17:38,55f71f84e056e8,resume,FAIL,NBCamp,취업 준비중
+23/09/22 17:40,2564ca65d835e0,resume,FAIL,NBCamp,최종합격
+23/09/22 17:41,22225e2165ff18,resume,FAIL,NBCamp,취업 준비중
+23/09/22 17:41,172ea728aa4f6a,resume,FAIL,NBCamp,최종합격
+23/09/22 17:47,7933bb36fa4806,resume,FAIL,NBCamp,최종합격
+23/09/22 17:49,6181ed86904251,resume,FAIL,NBCamp,최종합격
+23/09/22 17:57,86e45a92671874,resume,FAIL,NBCamp,취업 준비중
+23/09/22 17:57,2537f3664549c0,resume,FAIL,NBCamp,최종합격
+23/09/22 17:59,666e7331ca55b8,interview,FAIL,NBCamp,취업 준비중
+23/09/22 18:04,3691b553a2e2ef,resume,FAIL,NBCamp,취업 준비중
+23/09/22 18:06,842bd725d10797,resume,FAIL,NBCamp,최종합격
+23/09/22 18:11,69e4a47088461c,resume,FAIL,NBCamp,최종합격
+23/09/22 18:11,152ced6850a4cc,resume,PASS,NBCamp,취업 준비중
+23/09/22 18:13,86a751380e19c0,interview,FAIL,Hanghae,취업 준비중
+23/09/22 18:16,953fd0702ff247,resume,FAIL,NBCamp,취업 준비중
+23/09/22 18:19,374fad45990f90,resume,CANCEL,NBCamp,취업 준비중
+23/09/22 18:21,7658f036f0c184,resume,FAIL,NBCamp,취업 준비중
+23/09/22 18:26,48eba96880a045,resume,PASS,NBCamp,취업 준비중
+23/09/22 18:27,81460d437809e8,resume,FAIL,NBCamp,취업 준비중
+23/09/22 18:29,16480683a745a6,resume,FAIL,NBCamp,취업 준비중
+23/09/22 18:30,639317268c03c1,resume,FAIL,NBCamp,취업 준비중
+23/09/22 18:36,5033e5829f816b,resume,FAIL,NBCamp,취업 준비중
+23/09/22 18:36,6985e88022867b,resume,CANCEL,NBCamp,취업 준비중
+23/09/22 18:37,367d9c84e0f705,resume,FAIL,NBCamp,취업 보류
+23/09/22 18:37,3350e715d714ed,resume,FAIL,NBCamp,최종합격
+23/09/22 18:39,4620519694846d,resume,FAIL,NBCamp,취업 준비중
+23/09/22 18:41,590caf80f802d5,resume,PASS,NBCamp,취업 준비중
+23/09/22 18:48,527047464e4820,resume,FAIL,NBCamp,취업 준비중
+23/09/22 18:49,90504081bfe629,resume,FAIL,NBCamp,취업 준비중
+23/09/22 18:49,3249ee70fbb4dc,resume,FAIL,NBCamp,취업 준비중
+23/09/22 18:50,9632449224e62c,resume,PASS,NBCamp,취업 준비중
+23/09/22 18:53,81bfc577c372ef,resume,FAIL,NBCamp,최종합격
+23/09/22 18:54,6985e88022867b,resume,CANCEL,NBCamp,취업 준비중
+23/09/22 18:55,433e5939b68777,resume,FAIL,NBCamp,취업 준비중
+23/09/22 18:57,6985e88022867b,resume,FAIL,NBCamp,취업 준비중
+23/09/22 18:57,272c6b96e3fa68,resume,FAIL,NBCamp,취업 준비중
+23/09/22 18:58,92f5bb38c8275f,resume,FAIL,NBCamp,취업 준비중
+23/09/22 18:58,284f3320885f36,resume,FAIL,NBCamp,취업 준비중
+23/09/22 19:00,942e6a40b9abb3,resume,FAIL,NBCamp,취업 준비중
+23/09/22 19:00,470040905ac798,resume,FAIL,NBCamp,최종합격
+23/09/22 19:02,111145949a99fb,resume,FAIL,NBCamp,취업 준비중
+23/09/22 19:02,7904e176b12c52,resume,FAIL,NBCamp,최종합격
+23/09/22 19:02,802fb358ad4b7b,resume,FAIL,NBCamp,최종합격
+23/09/22 19:03,4641fa44562e22,resume,FAIL,NBCamp,최종합격
+23/09/22 19:03,92751b5036ba5b,resume,FAIL,NBCamp,취업 준비중
+23/09/22 19:03,64269749319f05,resume,CANCEL,NBCamp,최종합격
+23/09/22 19:04,49a08856f1698d,resume,FAIL,NBCamp,최종합격
+23/09/22 19:05,35917756f3a92d,resume,FAIL,NBCamp,최종합격
+23/09/22 19:06,374fad45990f90,resume,CANCEL,NBCamp,취업 준비중
+23/09/22 19:09,374fad45990f90,resume,FAIL,NBCamp,취업 준비중
+23/09/22 19:12,96e9b119ac8a6b,resume,CANCEL,NBCamp,최종합격
+23/09/22 19:13,96e9b119ac8a6b,resume,FAIL,NBCamp,최종합격
+23/09/22 19:16,323dac82fdbc35,resume,FAIL,NBCamp,취업 준비중
+23/09/22 19:18,11310026711f4d,resume,PASS,NBCamp,취업 준비중
+23/09/22 19:24,53b04d282f7627,resume,FAIL,NBCamp,최종합격
+23/09/22 19:27,100547742f167a,resume,FAIL,NBCamp,최종합격
+23/09/22 19:28,63114a51330441,resume,FAIL,NBCamp,취업 준비중
+23/09/22 19:31,532cfa47981547,resume,FAIL,NBCamp,취업 준비중
+23/09/22 19:31,152d70529686f9,resume,CANCEL,NBCamp,취업 준비중
+23/09/22 19:35,320e8729e84a53,resume,FAIL,NBCamp,취업 준비중
+23/09/22 19:38,152d70529686f9,resume,FAIL,NBCamp,취업 준비중
+23/09/22 19:41,22626135818504,resume,FAIL,NBCamp,취업 준비중
+23/09/22 19:45,916e7060b89d32,resume,FAIL,NBCamp,취업 준비중
+23/09/22 19:59,3937da669ca91b,resume,FAIL,NBCamp,취업 준비중
+23/09/22 20:04,6634379124eb3c,resume,CANCEL,NBCamp,최종합격
+23/09/22 20:06,50919d164db566,resume,PASS,NBCamp,취업 준비중
+23/09/22 20:26,64269749319f05,resume,FAIL,NBCamp,최종합격
+23/09/22 20:30,6634379124eb3c,resume,FAIL,NBCamp,최종합격
+23/09/22 20:31,434600101809e8,resume,PASS,Hanghae,최종합격
+23/09/22 20:31,52f76895401be5,resume,FAIL,NBCamp,취업 보류
+23/09/22 20:33,39676e34f70add,resume,FAIL,NBCamp,취업 보류
+23/09/22 20:43,729c3557cb409d,interview,FAIL,NBCamp,최종합격
+23/09/22 21:04,3450bd5476ee4b,resume,FAIL,NBCamp,취업 준비중
+23/09/22 21:34,50889393e0ed56,resume,FAIL,NBCamp,최종합격
+23/09/22 21:49,18f95f2552bb71,resume,PASS,NBCamp,최종합격
+23/09/22 22:20,1133a29433dd78,resume,FAIL,NBCamp,최종합격
+23/09/22 22:48,303c0b66312f73,resume,FAIL,NBCamp,최종합격
+23/09/22 22:51,87a23c4838da51,resume,CANCEL,NBCamp,취업 준비중
+23/09/22 22:53,87a23c4838da51,resume,CANCEL,NBCamp,취업 준비중
+23/09/22 22:55,87a23c4838da51,resume,CANCEL,NBCamp,취업 준비중
+23/09/22 22:56,87a23c4838da51,resume,FAIL,NBCamp,취업 준비중
+23/09/22 23:25,88838d17032a22,resume,FAIL,NBCamp,최종합격
+23/09/22 23:28,48fc98310f8475,resume,FAIL,NBCamp,취업 준비중
+23/09/22 23:36,74fa2c34d6a336,resume,PASS,NBCamp,취업 준비중
+23/09/22 23:54,497fd0467a0e25,resume,FAIL,Hanghae,최종합격
+23/09/22 23:55,497fd0467a0e25,resume,FAIL,Hanghae,최종합격
+23/09/23 15:38,70b7b943fe39ef,resume,FAIL,NBCamp,취업 준비중
+23/09/23 21:54,83368424b40c21,resume,FAIL,NBCamp,최종합격
+23/09/23 22:29,13a3ba3928eec3,resume,FAIL,NBCamp,최종합격
+23/09/24 0:14,1245d88502ecd3,resume,PASS,Hanghae,최종합격
+23/09/24 10:58,38fc93685f8475,resume,FAIL,NBCamp,취업 준비중
+23/09/24 14:45,20572978918546,resume,FAIL,Hanghae,최종합격
+23/09/24 15:56,735f4d5328bc66,resume,FAIL,NBCamp,취업 준비중
+23/09/24 16:34,34e7b286303f7c,interview,FAIL,NBCamp,취업 준비중
+23/09/24 18:32,48983869435fd9,resume,FAIL,NBCamp,취업 준비중
+23/09/24 18:43,998c8d651d12b5,resume,FAIL,NBCamp,취업 준비중
+23/09/25 10:07,689800136dcbae,resume,FAIL,NBCamp,취업 보류
+23/09/25 11:45,304648886be9b1,resume,FAIL,NBCamp,최종합격
+23/09/25 11:48,3064ae46225f64,resume,FAIL,Hanghae,최종합격
+23/09/25 11:51,43554b624762e1,resume,PASS,NBCamp,최종합격
+23/09/25 12:14,62f9d537108fd3,resume,FAIL,NBCamp,취업 준비중
+23/09/25 12:25,46391858aa1f66,resume,FAIL,NBCamp,취업 준비중
+23/09/25 12:26,46391858aa1f66,resume,CANCEL,NBCamp,취업 준비중
+23/09/25 12:56,89fef259a83e58,resume,FAIL,NBCamp,최종합격
+23/09/25 13:01,962f9b98ac1201,resume,FAIL,NBCamp,최종합격
+23/09/25 13:13,660562977bb550,resume,PASS,NBCamp,최종합격
+23/09/25 13:30,34785a380a7d3f,resume,PASS,NBCamp,취업 준비중
+23/09/25 13:40,29fecb902ee0e2,resume,CANCEL,NBCamp,취업 준비중
+23/09/25 13:40,29fecb902ee0e2,resume,FAIL,NBCamp,취업 준비중
+23/09/25 13:45,21e46044e7dd6c,resume,FAIL,NBCamp,최종합격
+23/09/25 13:47,86e45a92671874,resume,PASS,NBCamp,취업 준비중
+23/09/25 14:22,3361bb32fcb445,resume,PASS,NBCamp,취업 준비중
+23/09/25 14:33,4239b229ec0705,resume,FAIL,NBCamp,취업 준비중
+23/09/25 14:33,720d8177989b77,resume,PASS,NBCamp,최종합격
+23/09/25 14:34,666e7331ca55b8,resume,FAIL,NBCamp,취업 준비중
+23/09/25 14:36,123fa81205c9a3,resume,FAIL,NBCamp,취업 준비중
+23/09/25 14:41,824e2a76aefd13,resume,PASS,NBCamp,최종합격
+23/09/25 14:42,962f9b98ac1201,resume,PASS,NBCamp,최종합격
+23/09/25 15:06,433e5939b68777,resume,FAIL,NBCamp,취업 준비중
+23/09/25 15:07,433e5939b68777,resume,CANCEL,NBCamp,취업 준비중
+23/09/25 15:13,42f11c23b466d0,resume,PASS,NBCamp,취업 준비중
+23/09/25 15:20,8561bc412b140c,resume,FAIL,NBCamp,취업 준비중
+23/09/25 15:22,66acf265217bf3,resume,PASS,Hanghae,최종합격
+23/09/25 15:22,582ab4958d12ac,resume,FAIL,NBCamp,최종합격
+23/09/25 16:02,98284c941db8b3,resume,PASS,NBCamp,취업 준비중
+23/09/25 16:26,61a17157122348,resume,FAIL,NBCamp,취업 준비중
+23/09/25 16:36,87b7d5590fe2b7,resume,PASS,Hanghae,취업 준비중
+23/09/25 16:44,61a17157122348,resume,CANCEL,NBCamp,취업 준비중
+23/09/25 16:46,83524683896769,resume,FAIL,NBCamp,최종합격
+23/09/25 16:47,83524683896769,resume,CANCEL,NBCamp,최종합격
+23/09/25 16:53,31474f764caa4d,resume,FAIL,NBCamp,최종합격
+23/09/25 16:55,9032c1581f54b2,resume,PASS,NBCamp,최종합격
+23/09/25 17:01,662bdf64bcfd1a,resume,FAIL,NBCamp,취업 준비중
+23/09/25 17:01,9032c1581f54b2,resume,FAIL,NBCamp,최종합격
+23/09/25 17:14,662bdf64bcfd1a,resume,CANCEL,NBCamp,취업 준비중
+23/09/25 17:17,53b04d282f7627,resume,PASS,NBCamp,최종합격
+23/09/25 17:43,7527d798848e81,resume,PASS,NBCamp,최종합격
+23/09/25 17:56,30003d334ac798,resume,FAIL,NBCamp,취업 준비중
+23/09/25 17:58,30003d334ac798,resume,FAIL,NBCamp,취업 준비중
+23/09/25 17:59,24c13073b83cc6,resume,FAIL,NBCamp,취업 준비중
+23/09/25 18:00,9852273607801b,resume,FAIL,NBCamp,취업 준비중
+23/09/25 18:01,7933bb36fa4806,resume,FAIL,NBCamp,최종합격
+23/09/25 18:03,493e1e70e9f3ba,resume,FAIL,NBCamp,최종합격
+23/09/25 18:15,259f505145e9c6,resume,PASS,NBCamp,취업 준비중
+23/09/25 18:21,802fb358ad4b7b,resume,FAIL,NBCamp,최종합격
+23/09/25 18:22,802fb358ad4b7b,resume,CANCEL,NBCamp,최종합격
+23/09/25 18:24,869c3345a43675,resume,FAIL,NBCamp,취업 준비중
+23/09/25 18:25,312e81922c1201,resume,PASS,NBCamp,최종합격
+23/09/25 18:25,555a3e44c24404,resume,PASS,NBCamp,취업 준비중
+23/09/25 18:35,13ecdf43323502,resume,FAIL,Hanghae,취업 준비중
+23/09/25 18:36,55f71f84e056e8,resume,FAIL,NBCamp,취업 준비중
+23/09/25 18:38,493e1e70e9f3ba,resume,PASS,NBCamp,최종합격
+23/09/25 18:50,1133a29433dd78,resume,FAIL,NBCamp,최종합격
+23/09/25 19:04,163d3469530006,resume,FAIL,NBCamp,최종합격
+23/09/25 19:25,262ea5241962b6,resume,PASS,NBCamp,취업 준비중
+23/09/25 19:49,284f3320885f36,resume,FAIL,NBCamp,취업 준비중
+23/09/25 20:28,374fad45990f90,resume,FAIL,NBCamp,취업 준비중
+23/09/25 20:45,49a08856f1698d,resume,PASS,NBCamp,최종합격
+23/09/25 20:49,842bd725d10797,resume,FAIL,NBCamp,최종합격
+23/09/25 20:59,6634379124eb3c,resume,FAIL,NBCamp,최종합격
+23/09/25 21:02,470040905ac798,resume,FAIL,NBCamp,최종합격
+23/09/25 21:33,2564ca65d835e0,resume,PASS,NBCamp,최종합격
+23/09/25 22:10,303c0b66312f73,resume,FAIL,NBCamp,최종합격
+23/09/25 22:30,7904e176b12c52,resume,FAIL,NBCamp,최종합격
+23/09/25 22:43,18d90c987880fd,resume,PASS,NBCamp,취업 준비중
+23/09/25 22:54,942e6a40b9abb3,resume,FAIL,NBCamp,취업 준비중
+23/09/25 23:19,9281c361728ca8,resume,FAIL,NBCamp,취업 준비중
+23/09/25 23:20,9281c361728ca8,resume,CANCEL,NBCamp,취업 준비중
+23/09/25 23:36,843ba9761fc00c,resume,FAIL,NBCamp,최종합격
+23/09/25 23:37,843ba9761fc00c,resume,PASS,NBCamp,최종합격
+23/09/25 23:49,6846ff435fca9f,resume,PASS,NBCamp,취업 준비중
+23/09/26 0:00,22225e2165ff18,resume,PASS,NBCamp,취업 준비중
+23/09/26 0:10,6181ed86904251,resume,FAIL,NBCamp,최종합격
+23/09/26 0:52,100547742f167a,resume,FAIL,NBCamp,최종합격
+23/09/26 1:11,96e9b119ac8a6b,resume,PASS,NBCamp,최종합격
+23/09/26 1:12,99465e81c3f545,resume,PASS,NBCamp,최종합격
+23/09/26 1:18,2537f3664549c0,resume,FAIL,NBCamp,최종합격
+23/09/26 1:50,3937da669ca91b,resume,PASS,NBCamp,취업 준비중
+23/09/26 2:06,103aa998952bc3,resume,FAIL,NBCamp,최종합격
+23/09/26 2:36,9281c361728ca8,resume,CANCEL,NBCamp,취업 준비중
+23/09/26 6:10,9281c361728ca8,resume,FAIL,NBCamp,취업 준비중
+23/09/26 8:47,832fa9592545b8,resume,PASS,NBCamp,취업 준비중
+23/09/26 9:55,2443a217792d2c,resume,PASS,Hanghae,최종합격
+23/09/26 12:20,320e8729e84a53,resume,FAIL,NBCamp,취업 준비중
+23/09/26 15:11,89fef259a83e58,resume,FAIL,NBCamp,최종합격
+23/09/26 15:34,78193343dd3dce,resume,PASS,NBCamp,취업 준비중
+23/09/26 15:51,1133a29433dd78,interview,FAIL,NBCamp,최종합격
+23/09/26 16:19,505a5483186c2e,resume,PASS,NBCamp,최종합격
+23/09/26 16:26,163d3469530006,resume,FAIL,NBCamp,최종합격
+23/09/26 16:41,1133a29433dd78,resume,PASS,NBCamp,최종합격
+23/09/26 17:04,27d0ba357541bb,resume,FAIL,Hanghae,취업 준비중
+23/09/26 17:51,99b98440e1c691,resume,FAIL,NBCamp,취업 준비중
+23/09/26 18:48,4641fa44562e22,resume,FAIL,NBCamp,최종합격
+23/09/26 18:54,9281c361728ca8,resume,FAIL,NBCamp,취업 준비중
+23/09/26 19:02,96daf2509d12fb,resume,FAIL,NBCamp,최종합격
+23/09/26 19:40,824e2a76aefd13,resume,PASS,NBCamp,최종합격
+23/09/26 20:58,808c4462f59fb2,resume,FAIL,NBCamp,최종합격
+23/09/26 21:32,81c12a52383cc6,resume,FAIL,NBCamp,취업 준비중
+23/09/26 21:50,8468e226370add,resume,FAIL,NBCamp,취업 준비중
+23/09/26 22:03,50889393e0ed56,resume,FAIL,NBCamp,최종합격
+23/09/27 5:02,272c6b96e3fa68,resume,PASS,NBCamp,취업 준비중
+23/09/27 5:42,819a82248485a9,resume,FAIL,NBCamp,최종합격
+23/09/27 9:31,819a82248485a9,resume,FAIL,NBCamp,최종합격
+23/09/27 10:35,46391858aa1f66,resume,FAIL,NBCamp,취업 준비중
+23/09/27 10:41,81bfc577c372ef,resume,FAIL,NBCamp,최종합격
+23/09/27 11:06,80afb99239a60e,resume,FAIL,NBCamp,취업 준비중
+23/09/27 11:12,70b7b943fe39ef,resume,FAIL,NBCamp,취업 준비중
+23/09/27 11:47,433e5939b68777,resume,FAIL,NBCamp,취업 준비중
+23/09/27 12:13,13ecdf43323502,resume,PASS,Hanghae,취업 준비중
+23/09/27 12:18,123fa81205c9a3,resume,PASS,NBCamp,취업 준비중
+23/09/27 12:19,8561bc412b140c,resume,PASS,NBCamp,취업 준비중
+23/09/27 12:40,13a3ba3928eec3,resume,FAIL,NBCamp,최종합격
+23/09/27 13:01,103aa998952bc3,resume,FAIL,NBCamp,최종합격
+23/09/27 13:05,609979339aa91a,resume,FAIL,NBCamp,취업 준비중
+23/09/27 13:09,802fb358ad4b7b,resume,PASS,NBCamp,최종합격
+23/09/27 13:29,7658f036f0c184,resume,PASS,NBCamp,취업 준비중
+23/09/27 14:19,527047464e4820,resume,FAIL,NBCamp,취업 준비중
+23/09/27 14:23,13a3ba3928eec3,resume,CANCEL,NBCamp,최종합격
+23/09/27 14:33,13a3ba3928eec3,resume,PASS,NBCamp,최종합격
+23/09/27 15:18,48ff6128ab7943,resume,PASS,NBCamp,취업 준비중
+23/09/27 15:21,29fecb902ee0e2,resume,PASS,NBCamp,취업 준비중
+23/09/27 15:49,21e46044e7dd6c,resume,PASS,NBCamp,최종합격
+23/09/27 15:57,304648886be9b1,resume,FAIL,NBCamp,최종합격
+23/09/27 16:15,83368424b40c21,resume,FAIL,NBCamp,최종합격
+23/09/27 16:19,312e81922c1201,resume,PASS,NBCamp,최종합격
+23/09/27 16:43,869c3345a43675,resume,PASS,NBCamp,취업 준비중
+23/09/27 16:46,35917756f3a92d,resume,FAIL,NBCamp,최종합격
+23/09/27 17:00,31474f764caa4d,resume,PASS,NBCamp,최종합격
+23/09/27 17:10,6634379124eb3c,resume,FAIL,NBCamp,최종합격
+23/09/27 17:11,24c13073b83cc6,resume,FAIL,NBCamp,취업 준비중
+23/09/27 17:21,7904e176b12c52,resume,FAIL,NBCamp,최종합격
+23/09/27 17:22,582ab4958d12ac,resume,FAIL,NBCamp,최종합격
+23/09/27 17:32,842bd725d10797,resume,PASS,NBCamp,최종합격
+23/09/27 17:33,594236680e9d14,resume,FAIL,NBCamp,취업 준비중
+23/09/27 17:37,666e7331ca55b8,resume,FAIL,NBCamp,취업 준비중
+23/09/27 17:54,303c0b66312f73,resume,PASS,NBCamp,최종합격
+23/09/27 17:59,92751b5036ba5b,resume,FAIL,NBCamp,취업 준비중
+23/09/27 18:06,163d3469530006,resume,PASS,NBCamp,최종합격
+23/09/27 18:11,38fc93685f8475,resume,FAIL,NBCamp,취업 준비중
+23/09/27 18:13,2537f3664549c0,resume,PASS,NBCamp,최종합격
+23/09/27 18:13,64269749319f05,resume,FAIL,NBCamp,최종합격
+23/09/27 18:20,7933bb36fa4806,resume,PASS,NBCamp,최종합격
+23/09/27 18:21,470040905ac798,resume,PASS,NBCamp,최종합격
+23/09/27 18:28,69e4a47088461c,resume,PASS,NBCamp,최종합격
+23/09/27 18:33,64269749319f05,resume,FAIL,NBCamp,최종합격
+23/09/27 18:48,19522c5042180f,resume,PASS,NBCamp,취업 준비중
+23/09/27 18:57,31379a43ce859c,resume,FAIL,NBCamp,취업 보류
+23/09/27 19:17,142c51345184f1,resume,CANCEL,NBCamp,최종합격
+23/09/27 19:25,142c51345184f1,resume,CANCEL,NBCamp,최종합격
+23/09/27 19:34,142c51345184f1,resume,CANCEL,NBCamp,최종합격
+23/09/27 19:36,142c51345184f1,resume,CANCEL,NBCamp,최종합격
+23/09/27 19:39,142c51345184f1,resume,FAIL,NBCamp,최종합격
+23/09/27 20:24,78db8e220aeae8,resume,FAIL,NBCamp,취업 준비중
+23/09/27 20:25,78db8e220aeae8,resume,CANCEL,NBCamp,취업 준비중
+23/09/27 21:49,68cff28921f079,resume,FAIL,NBCamp,취업 준비중
+23/09/29 12:25,434600101809e8,resume,FAIL,Hanghae,최종합격
+23/09/30 15:45,40d8a984e84e2f,resume,FAIL,Hanghae,최종합격
+23/10/01 17:40,85717d29ba71e9,resume,PASS,Hanghae,최종합격
+23/10/02 9:13,90504081bfe629,resume,FAIL,NBCamp,취업 준비중
+23/10/02 14:15,833b6a424ccc19,resume,PASS,Hanghae,취업 준비중
+23/10/03 5:28,59b2e917cb4f17,resume,PASS,Hanghae,취업 준비중
+23/10/03 15:14,161bae812bb8f8,resume,FAIL,Hanghae,최종합격
+23/10/03 22:16,531a7716670053,resume,FAIL,Hanghae,취업 준비중
+23/10/03 22:27,34c7e48426e73b,resume,FAIL,Hanghae,취업 준비중
+23/10/03 22:55,74ed681150eee4,resume,FAIL,Hanghae,취업 보류
+23/10/04 0:31,998c8d651d12b5,resume,PASS,NBCamp,취업 준비중
+23/10/04 3:13,88838d17032a22,resume,PASS,NBCamp,최종합격
+23/10/04 12:11,77e11d79286a02,resume,FAIL,Hanghae,취업 준비중
+23/10/04 12:31,86a751380e19c0,resume,FAIL,Hanghae,취업 준비중
+23/10/04 12:32,639317268c03c1,resume,FAIL,NBCamp,취업 준비중
+23/10/04 12:36,35917756f3a92d,resume,FAIL,NBCamp,최종합격
+23/10/04 12:41,80afb99239a60e,resume,FAIL,NBCamp,취업 준비중
+23/10/04 13:09,81c12a52383cc6,resume,FAIL,NBCamp,취업 준비중
+23/10/04 13:36,46391858aa1f66,resume,FAIL,NBCamp,취업 준비중
+23/10/04 13:42,4641fa44562e22,resume,PASS,NBCamp,최종합격
+23/10/04 14:09,161bae812bb8f8,interview,PASS,Hanghae,최종합격
+23/10/04 14:33,662bdf64bcfd1a,resume,FAIL,NBCamp,취업 준비중
+23/10/04 14:41,80afb99239a60e,resume,CANCEL,NBCamp,취업 준비중
+23/10/04 14:44,304648886be9b1,resume,PASS,NBCamp,최종합격
+23/10/04 15:10,531a7716670053,interview,FAIL,Hanghae,취업 준비중
+23/10/04 15:13,3350e715d714ed,resume,FAIL,NBCamp,최종합격
+23/10/04 15:28,6181ed86904251,resume,PASS,NBCamp,최종합격
+23/10/04 15:35,50889393e0ed56,resume,PASS,NBCamp,최종합격
+23/10/04 15:53,975649787c1416,resume,PASS,NBCamp,최종합격
+23/10/04 16:35,53b04d282f7627,resume,PASS,NBCamp,최종합격
+23/10/04 16:45,81bfc577c372ef,resume,PASS,NBCamp,최종합격
+23/10/04 16:51,995e7039ab167f,resume,FAIL,NBCamp,취업 보류
+23/10/04 17:08,5457f2624a51be,resume,FAIL,NBCamp,최종합격
+23/10/04 17:17,35917756f3a92d,resume,PASS,NBCamp,최종합격
+23/10/04 17:29,16480683a745a6,resume,FAIL,NBCamp,취업 준비중
+23/10/04 17:33,775210769e150c,resume,PASS,NBCamp,최종합격
+23/10/04 17:34,262ea5241962b6,resume,FAIL,NBCamp,취업 준비중
+23/10/04 17:46,34c7e48426e73b,interview,FAIL,Hanghae,취업 준비중
+23/10/04 21:54,20572978918546,resume,PASS,Hanghae,최종합격
+23/10/04 22:13,582ab4958d12ac,resume,FAIL,NBCamp,최종합격
+23/10/04 22:16,87caea78192f52,resume,FAIL,NBCamp,취업 보류
+23/10/04 22:43,6634379124eb3c,resume,PASS,NBCamp,최종합격
+23/10/04 23:50,85717d29ba71e9,interview,FAIL,Hanghae,최종합격
+23/10/05 9:15,83524683896769,resume,FAIL,NBCamp,최종합격
+23/10/05 11:53,312e81922c1201,resume,PASS,NBCamp,최종합격
+23/10/05 12:00,59b2e917cb4f17,interview,PASS,Hanghae,취업 준비중
+23/10/05 12:07,497fd0467a0e25,resume,PASS,Hanghae,최종합격
+23/10/05 14:31,2443a217792d2c,resume,PASS,Hanghae,최종합격
+23/10/05 16:25,100547742f167a,resume,FAIL,NBCamp,최종합격
+23/10/05 18:00,83368424b40c21,resume,FAIL,NBCamp,최종합격
+23/10/05 18:00,90504081bfe629,resume,FAIL,NBCamp,취업 준비중
+23/10/05 18:28,662bdf64bcfd1a,resume,FAIL,NBCamp,취업 준비중
+23/10/05 18:37,40d8a984e84e2f,resume,FAIL,Hanghae,최종합격
+23/10/05 20:28,22626135818504,resume,FAIL,NBCamp,취업 준비중
+23/10/05 21:58,24c13073b83cc6,resume,FAIL,NBCamp,취업 준비중
+23/10/05 22:13,98641418f0c48b,resume,PASS,NBCamp,최종합격
+23/10/05 22:52,142c51345184f1,resume,PASS,NBCamp,최종합격
+23/10/05 23:03,88838d17032a22,resume,PASS,NBCamp,최종합격
+23/10/06 3:29,26ede2759cabf9,resume,FAIL,NBCamp,취업 준비중
+23/10/06 10:46,609979339aa91a,resume,FAIL,NBCamp,취업 준비중
+23/10/06 11:22,7527d798848e81,resume,FAIL,NBCamp,최종합격
+23/10/06 11:25,2868b553b244cf,resume,FAIL,Hanghae,취업 준비중
+23/10/06 11:29,1438e741d0ff59,resume,PASS,Hanghae,취업 준비중
+23/10/06 11:38,3350e715d714ed,resume,PASS,NBCamp,최종합격
+23/10/06 11:42,89fef259a83e58,resume,PASS,NBCamp,최종합격
+23/10/06 11:48,284f3320885f36,resume,FAIL,NBCamp,취업 준비중
+23/10/06 11:53,96e9b119ac8a6b,resume,PASS,NBCamp,최종합격
+23/10/06 12:37,46391858aa1f66,resume,FAIL,NBCamp,취업 준비중
+23/10/06 13:12,639317268c03c1,resume,FAIL,NBCamp,취업 준비중
+23/10/06 13:49,819a82248485a9,resume,FAIL,NBCamp,최종합격
+23/10/06 14:13,532cfa47981547,resume,PASS,NBCamp,취업 준비중
+23/10/06 14:40,16480683a745a6,resume,PASS,NBCamp,취업 준비중
+23/10/06 14:45,66acf265217bf3,resume,PASS,Hanghae,최종합격
+23/10/06 14:53,94e9a667237b34,resume,FAIL,Hanghae,취업 준비중
+23/10/06 15:15,81c12a52383cc6,resume,FAIL,NBCamp,취업 준비중
+23/10/06 15:38,25fd8a86a0a95f,resume,PASS,Hanghae,최종합격
+23/10/06 15:40,911595162d6bc7,resume,FAIL,Hanghae,취업 준비중
+23/10/06 18:27,7933bb36fa4806,resume,FAIL,NBCamp,최종합격
+23/10/06 19:43,103aa998952bc3,resume,PASS,NBCamp,최종합격
+23/10/06 20:00,4641fa44562e22,resume,FAIL,NBCamp,최종합격
+23/10/06 21:19,775210769e150c,resume,CANCEL,NBCamp,최종합격
+23/10/06 22:05,527047464e4820,resume,FAIL,NBCamp,취업 준비중
+23/10/06 22:22,582ab4958d12ac,resume,PASS,NBCamp,최종합격
+23/10/06 22:46,4620519694846d,resume,FAIL,NBCamp,취업 준비중
+23/10/06 23:10,9281c361728ca8,resume,FAIL,NBCamp,취업 준비중
+23/10/06 23:20,6985e88022867b,resume,FAIL,NBCamp,취업 준비중
+23/10/06 23:43,7904e176b12c52,resume,PASS,NBCamp,최종합격
+23/10/07 8:12,775210769e150c,resume,PASS,NBCamp,최종합격
+23/10/07 23:19,78193343dd3dce,resume,PASS,NBCamp,취업 준비중
+23/10/08 17:17,470040905ac798,resume,PASS,NBCamp,최종합격
+23/10/09 0:30,64269749319f05,resume,PASS,NBCamp,최종합격
+23/10/09 3:33,47cbac52a0be75,resume,FAIL,NBCamp,취업 준비중
+23/10/09 3:34,47cbac52a0be75,resume,FAIL,NBCamp,취업 준비중
+23/10/09 12:39,5457f2624a51be,resume,FAIL,NBCamp,최종합격
+23/10/09 13:06,5457f2624a51be,resume,CANCEL,NBCamp,최종합격
+23/10/09 15:16,2564ca65d835e0,resume,PASS,NBCamp,최종합격
+23/10/09 20:40,714b0e375dd0d2,resume,PASS,NBCamp,취업 준비중
+23/10/10 0:13,8468e226370add,resume,FAIL,NBCamp,취업 준비중
+23/10/10 9:40,68cff28921f079,resume,FAIL,NBCamp,취업 준비중
+23/10/10 11:24,512f3456b61e49,resume,FAIL,Hanghae,취업 준비중
+23/10/10 11:25,209a63356f22e2,resume,CANCEL,Hanghae,취업 준비중
+23/10/10 11:26,83368424b40c21,resume,PASS,NBCamp,최종합격
+23/10/10 16:21,8468e226370add,resume,CANCEL,NBCamp,취업 준비중
+23/10/10 16:47,887f06891c1ef7,resume,FAIL,NBCamp,취업 준비중
+23/10/10 17:38,3350e715d714ed,resume,FAIL,NBCamp,최종합격
+23/10/10 18:22,100547742f167a,resume,PASS,NBCamp,최종합격
+23/10/10 20:09,209a63356f22e2,resume,PASS,Hanghae,취업 준비중
+23/10/11 10:31,58a68a62b78959,resume,FAIL,Hanghae,취업 준비중
+23/10/11 10:53,609979339aa91a,resume,FAIL,NBCamp,취업 준비중
+23/10/11 11:34,433e5939b68777,resume,FAIL,NBCamp,취업 준비중
+23/10/11 14:45,22626135818504,resume,FAIL,NBCamp,취업 준비중
+23/10/11 17:29,7933bb36fa4806,resume,FAIL,NBCamp,최종합격
+23/10/12 1:23,75edb3889e7479,resume,CANCEL,Hanghae,최종합격
+23/10/12 11:32,66acf265217bf3,interview,FAIL,Hanghae,최종합격
+23/10/12 11:50,512f3456b61e49,resume,FAIL,Hanghae,취업 준비중
+23/10/12 12:59,40d8a984e84e2f,resume,FAIL,Hanghae,최종합격
+23/10/12 15:11,267bb181b47ea6,resume,FAIL,NBCamp,취업 준비중
+23/10/12 16:49,4280925561555e,resume,FAIL,Hanghae,취업 준비중
+23/10/12 17:44,2443a217792d2c,resume,PASS,Hanghae,최종합격
+23/10/12 17:52,70e08836e042e7,resume,FAIL,NBCamp,취업 보류
+23/10/12 19:49,808c4462f59fb2,resume,PASS,NBCamp,최종합격
+23/10/13 13:48,694d8e850bd8ac,resume,FAIL,NBCamp,취업 보류
+23/10/13 14:24,3064ae46225f64,resume,FAIL,Hanghae,최종합격
+23/10/13 20:21,416f64643ff48f,resume,FAIL,NBCamp,취업 준비중
+23/10/13 21:06,96daf2509d12fb,resume,PASS,NBCamp,최종합격
+23/10/13 21:06,96daf2509d12fb,resume,FAIL,NBCamp,최종합격
+23/10/16 11:21,40d8a984e84e2f,resume,FAIL,Hanghae,최종합격
+23/10/16 14:54,5457f2624a51be,resume,FAIL,NBCamp,최종합격
+23/10/16 20:23,808c4462f59fb2,resume,PASS,NBCamp,최종합격
+23/10/17 10:10,58a68a62b78959,resume,FAIL,Hanghae,취업 준비중
+23/10/17 10:15,2592a027999ce8,resume,FAIL,NBCamp,취업 준비중
+23/10/17 10:41,83524683896769,resume,FAIL,NBCamp,최종합격
+23/10/17 11:52,3064ae46225f64,resume,PASS,Hanghae,최종합격
+23/10/17 16:46,51c9fd15e86a02,resume,PASS,Hanghae,취업 준비중
+23/10/17 16:53,92f5bb38c8275f,resume,PASS,NBCamp,취업 준비중
+23/10/17 16:55,92f5bb38c8275f,resume,CANCEL,NBCamp,취업 준비중
+23/10/17 17:50,819a82248485a9,resume,PASS,NBCamp,최종합격
+23/10/17 18:05,434600101809e8,resume,PASS,Hanghae,최종합격
+23/10/17 20:00,196f5b683d2704,interview,FAIL,Hanghae,최종합격
+23/10/17 20:42,90461f3338ef32,resume,FAIL,NBCamp,취업 준비중
+23/10/18 0:31,43554b624762e1,resume,PASS,NBCamp,최종합격
+23/10/18 12:01,40d8a984e84e2f,resume,PASS,Hanghae,최종합격
+23/10/18 14:45,54cdb248a03eaa,resume,FAIL,NBCamp,취업 준비중
+23/10/19 16:24,58a68a62b78959,resume,PASS,Hanghae,취업 준비중
+23/10/19 16:28,223856945edb24,interview,FAIL,Hanghae,취업 준비중
+23/10/20 13:27,2347a33768e069,resume,FAIL,NBCamp,취업 준비중
+23/10/21 9:20,61711d52182809,resume,FAIL,NBCamp,취업 보류
+23/10/22 17:29,243c4268b9ba3f,resume,FAIL,Hanghae,취업 준비중
+23/10/23 17:03,24d613344f49a6,resume,FAIL,NBCamp,최종합격
+23/10/23 17:30,1133a29433dd78,interview,FAIL,NBCamp,최종합격
+23/10/23 17:39,6634379124eb3c,interview,FAIL,NBCamp,최종합격
+23/10/23 21:35,843ba9761fc00c,interview,FAIL,NBCamp,최종합격
+23/10/24 8:39,93e4c044902bb6,interview,FAIL,NBCamp,최종합격
+23/10/24 12:58,49a08856f1698d,resume,PASS,NBCamp,최종합격
+23/10/24 14:01,2443a217792d2c,resume,FAIL,Hanghae,최종합격
+23/10/24 14:17,2443a217792d2c,interview,PASS,Hanghae,최종합격
+23/10/24 15:40,96daf2509d12fb,interview,FAIL,NBCamp,최종합격
+23/10/24 16:22,62f9d537108fd3,resume,FAIL,NBCamp,취업 준비중
+23/10/26 0:26,4620519694846d,resume,PASS,NBCamp,취업 준비중
+23/10/26 13:06,434600101809e8,interview,FAIL,Hanghae,최종합격
+23/10/26 15:47,735f4d5328bc66,resume,FAIL,NBCamp,취업 준비중
+23/10/26 16:51,96e9b119ac8a6b,interview,CANCEL,NBCamp,최종합격
+23/10/26 18:42,70bd3c33bd46a3,resume,FAIL,Hanghae,취업 준비중
+23/10/27 11:15,5457f2624a51be,resume,FAIL,NBCamp,최종합격
+23/10/27 11:16,433e5939b68777,interview,FAIL,NBCamp,취업 준비중
+23/10/27 12:48,83524683896769,resume,FAIL,NBCamp,최종합격
+23/10/27 12:52,83524683896769,resume,PASS,NBCamp,최종합격
+23/10/27 15:10,4843e7169afcad,resume,FAIL,Hanghae,취업 준비중
+23/10/27 16:00,96e9b119ac8a6b,interview,PASS,NBCamp,최종합격
+23/10/27 16:00,684269709e101f,interview,FAIL,NBCamp,최종합격
+23/10/29 22:07,5033e5829f816b,resume,FAIL,NBCamp,취업 준비중
+23/10/30 14:01,243c4268b9ba3f,resume,FAIL,Hanghae,취업 준비중
+23/10/30 14:51,7527d798848e81,interview,PASS,NBCamp,최종합격
+23/10/30 17:23,44a7be179c93f0,resume,FAIL,NBCamp,취업 준비중
+23/10/30 17:58,66caa844aa5ba2,resume,CANCEL,NBCamp,취업 보류
+23/10/31 0:57,64e4f061ec520c,resume,FAIL,NBCamp,취업 보류
+23/10/31 11:45,396792957230c7,resume,PASS,Hanghae,취업 준비중
+23/10/31 11:55,849ec494b8da51,resume,FAIL,Hanghae,취업 준비중
+23/10/31 11:56,24c13073b83cc6,interview,FAIL,NBCamp,취업 준비중
+23/10/31 15:43,90e63e88709449,resume,FAIL,NBCamp,취업 준비중
+23/10/31 15:43,90e63e88709449,interview,FAIL,NBCamp,취업 준비중
+23/10/31 16:09,7527d798848e81,resume,PASS,NBCamp,최종합격
+23/10/31 16:53,4843e7169afcad,resume,FAIL,Hanghae,취업 준비중
+23/10/31 17:19,79444135be30ce,interview,FAIL,Hanghae,최종합격
+23/10/31 17:37,49c988528d9bbe,resume,FAIL,Hanghae,취업 준비중
+23/10/31 18:02,97a98756812ae8,interview,FAIL,NBCamp,최종합격
+23/10/31 18:44,4843e7169afcad,interview,FAIL,Hanghae,취업 준비중
+23/10/31 20:36,735f4d5328bc66,resume,FAIL,NBCamp,취업 준비중
+23/11/01 3:21,4258c714d340ed,resume,PASS,Hanghae,최종합격
+23/11/01 3:27,4258c714d340ed,resume,FAIL,Hanghae,최종합격
+23/11/02 12:02,90461f3338ef32,resume,FAIL,NBCamp,취업 준비중
+23/11/02 12:04,5457f2624a51be,resume,FAIL,NBCamp,최종합격
+23/11/02 12:33,4843e7169afcad,resume,FAIL,Hanghae,취업 준비중
+23/11/02 15:18,4843e7169afcad,resume,FAIL,Hanghae,취업 준비중
+23/11/02 15:30,849ec494b8da51,resume,PASS,Hanghae,취업 준비중
+23/11/02 22:35,50352396a5f5b5,resume,FAIL,NBCamp,취업 준비중
+23/11/03 0:59,1133a29433dd78,interview,FAIL,NBCamp,최종합격
+23/11/03 11:18,70efb63834c36a,resume,FAIL,NBCamp,취업 보류
+23/11/03 15:36,7527d798848e81,resume,FAIL,NBCamp,최종합격
+23/11/03 21:40,86cff4914ebde1,resume,PASS,NBCamp,최종합격
+23/11/04 0:24,93e4c044902bb6,resume,PASS,NBCamp,최종합격
+23/11/05 0:12,887f9727279425,resume,PASS,NBCamp,최종합격
+23/11/05 18:29,833b6a424ccc19,resume,PASS,Hanghae,취업 준비중
+23/11/06 15:33,6634379124eb3c,interview,PASS,NBCamp,최종합격
+23/11/07 9:39,62f9d537108fd3,interview,FAIL,NBCamp,취업 준비중
+23/11/07 10:21,163d3469530006,interview,FAIL,NBCamp,최종합격
+23/11/07 10:41,7933bb36fa4806,interview,PASS,NBCamp,최종합격
+23/11/07 10:52,720d8177989b77,interview,PASS,NBCamp,최종합격
+23/11/07 13:54,81eb7a88ff67c2,resume,FAIL,Hanghae,최종합격
+23/11/07 14:32,5457f2624a51be,resume,PASS,NBCamp,최종합격
+23/11/07 14:45,58244b249119b3,interview,PASS,Hanghae,최종합격
+23/11/07 17:13,639317268c03c1,interview,CANCEL,NBCamp,취업 준비중
+23/11/07 17:45,20ee2359bcabf9,resume,FAIL,Hanghae,최종합격
+23/11/07 18:42,57a1b8665a7c6d,interview,FAIL,Hanghae,최종합격
+23/11/07 19:14,412af897400606,interview,FAIL,NBCamp,취업 준비중
+23/11/07 19:32,91302e893ab28c,interview,FAIL,NBCamp,취업 준비중
+23/11/07 21:17,18f95f2552bb71,interview,FAIL,NBCamp,최종합격
+23/11/07 22:42,24d613344f49a6,resume,PASS,NBCamp,최종합격
+23/11/07 23:17,887f9727279425,interview,PASS,NBCamp,최종합격
+23/11/08 9:00,223856945edb24,interview,CANCEL,Hanghae,취업 준비중
+23/11/08 10:36,816ea35972b5ba,interview,PASS,Hanghae,최종합격
+23/11/08 15:48,7527d798848e81,resume,PASS,NBCamp,최종합격
+23/11/08 16:22,4843e7169afcad,resume,FAIL,Hanghae,취업 준비중
+23/11/08 18:39,243c4268b9ba3f,resume,FAIL,Hanghae,취업 준비중
+23/11/09 2:16,3957e525f340ed,resume,PASS,Hanghae,취업 준비중
+23/11/09 12:38,93e4c044902bb6,interview,FAIL,NBCamp,최종합격
+23/11/09 17:07,1705c2929bc8bb,resume,FAIL,NBCamp,취업 준비중
+23/11/09 19:11,81eb7a88ff67c2,resume,PASS,Hanghae,최종합격
+23/11/09 19:47,729c3557cb409d,resume,FAIL,NBCamp,최종합격
+23/11/10 0:22,224cf867cbac5d,resume,PASS,NBCamp,취업 준비중
+23/11/10 1:41,916e7060b89d32,resume,FAIL,NBCamp,취업 준비중
+23/11/10 1:59,90504081bfe629,resume,FAIL,NBCamp,취업 준비중
+23/11/12 17:36,26a53728c97f06,resume,FAIL,NBCamp,취업 준비중
+23/11/13 4:53,23e919794512d2,resume,FAIL,NBCamp,취업 준비중
+23/11/13 14:37,26ede2759cabf9,resume,PASS,NBCamp,취업 준비중
+23/11/13 23:06,99b98440e1c691,resume,FAIL,NBCamp,취업 준비중
+23/11/14 2:37,666e7331ca55b8,resume,FAIL,NBCamp,취업 준비중
+23/11/15 17:46,60bfb8100a8ea5,resume,FAIL,Hanghae,최종합격
+23/11/15 21:17,30887041df3e38,resume,FAIL,Hanghae,최종합격
+23/11/16 11:27,70bd3c33bd46a3,resume,FAIL,Hanghae,취업 준비중
+23/11/16 13:18,473658339bdbcd,resume,CANCEL,Hanghae,취업 보류
+23/11/16 14:18,5033e5829f816b,resume,FAIL,NBCamp,취업 준비중
+23/11/16 15:48,360853129e02a6,resume,FAIL,Hanghae,최종합격
+23/11/16 16:55,1705c2929bc8bb,resume,CANCEL,NBCamp,취업 준비중
+23/11/16 17:52,88931755fe5ac8,resume,FAIL,Hanghae,취업 준비중
+23/11/16 18:30,6119919237c37e,resume,FAIL,Hanghae,최종합격
+23/11/17 17:30,371e54554b06d3,resume,FAIL,Hanghae,취업 준비중
+23/11/17 17:30,36e62741a49553,resume,CANCEL,NBCamp,취업 보류
+23/11/17 19:17,89ce5a72de9487,resume,CANCEL,NBCamp,취업 보류
+23/11/18 15:07,25d24f35667430,resume,FAIL,Hanghae,최종합격
+23/11/18 15:37,25d317604c5001,resume,FAIL,Hanghae,최종합격
+23/11/18 15:47,80cb18621d0258,resume,FAIL,Hanghae,취업 준비중
+23/11/18 17:14,60bfb8100a8ea5,resume,FAIL,Hanghae,최종합격
+23/11/18 18:04,3283e424117562,resume,FAIL,Hanghae,최종합격
+23/11/18 18:16,6119919237c37e,resume,FAIL,Hanghae,최종합격
+23/11/18 18:21,51a7ae99545eac,resume,FAIL,Hanghae,취업 준비중
+23/11/18 18:28,6575583937f70f,resume,FAIL,Hanghae,최종합격
+23/11/18 18:35,110a582698afcf,resume,FAIL,Hanghae,최종합격
+23/11/18 18:42,24b0129806656b,resume,FAIL,Hanghae,취업 준비중
+23/11/18 18:55,87e2f678ca3d77,resume,FAIL,Hanghae,최종합격
+23/11/18 19:16,89815349ce4468,resume,FAIL,Hanghae,최종합격
+23/11/18 19:35,31cba097bb43f5,interview,CANCEL,Hanghae,취업 준비중
+23/11/18 21:44,371e54554b06d3,resume,FAIL,Hanghae,취업 준비중
+23/11/18 22:34,282fac610663e5,resume,FAIL,Hanghae,취업 준비중
+23/11/18 23:06,28a6be44110fef,resume,CANCEL,Hanghae,최종합격
+23/11/18 23:08,80ae4477eed76d,resume,FAIL,Hanghae,최종합격
+23/11/18 23:10,28a6be44110fef,resume,FAIL,Hanghae,최종합격
+23/11/18 23:13,79cb1d913d3bba,resume,FAIL,Hanghae,취업 준비중
+23/11/18 23:32,431dd041f2fcd0,resume,FAIL,Hanghae,취업 준비중
+23/11/18 23:34,52e78c45775d4e,resume,FAIL,Hanghae,최종합격
+23/11/18 23:47,35392831da9e27,resume,FAIL,Hanghae,최종합격
+23/11/18 23:54,73979b82872697,resume,FAIL,Hanghae,최종합격
+23/11/18 23:58,49259f4342b5da,resume,PASS,Hanghae,취업 준비중
+23/11/19 0:02,4875da39f1f4c6,resume,FAIL,Hanghae,최종합격
+23/11/19 0:06,2649cc68e92826,resume,FAIL,Hanghae,최종합격
+23/11/19 0:24,38c11496d3633d,resume,FAIL,Hanghae,최종합격
+23/11/19 0:39,3434b291d304a1,resume,CANCEL,Hanghae,최종합격
+23/11/19 0:40,131c6c93f8f558,resume,FAIL,Hanghae,최종합격
+23/11/19 0:57,926c573150e1a2,resume,FAIL,Hanghae,취업 준비중
+23/11/19 1:21,56919567a8c488,resume,FAIL,Hanghae,최종합격
+23/11/19 14:57,31cba097bb43f5,resume,FAIL,Hanghae,취업 준비중
+23/11/19 17:15,751336575751ee,resume,CANCEL,Hanghae,최종합격
+23/11/19 17:20,751336575751ee,resume,FAIL,Hanghae,최종합격
+23/11/19 17:28,649521906f6c99,resume,FAIL,Hanghae,최종합격
+23/11/19 20:25,69bd1678f5dc25,resume,FAIL,Hanghae,취업 준비중
+23/11/19 20:55,166d9a50b7d73d,resume,FAIL,Hanghae,최종합격
+23/11/19 21:59,48501836be3ef4,resume,FAIL,Hanghae,취업 보류
+23/11/19 22:16,70015325ca3672,resume,PASS,Hanghae,취업 준비중
+23/11/19 22:54,87e2f678ca3d77,resume,FAIL,Hanghae,최종합격
+23/11/19 23:08,30decc34ad2863,resume,FAIL,Hanghae,취업 준비중
+23/11/19 23:52,957013722238be,resume,PASS,Hanghae,취업 준비중
+23/11/20 9:11,39eba14051988c,resume,FAIL,Hanghae,취업 보류
+23/11/20 9:11,33cb2137555626,resume,FAIL,Hanghae,취업 준비중
+23/11/20 11:28,87e2f678ca3d77,interview,FAIL,Hanghae,최종합격
+23/11/20 11:30,28a6be44110fef,interview,FAIL,Hanghae,최종합격
+23/11/20 11:31,16cb3899f662d9,resume,FAIL,Hanghae,취업 준비중
+23/11/20 14:12,3283e424117562,interview,FAIL,Hanghae,최종합격
+23/11/20 14:40,131c6c93f8f558,interview,FAIL,Hanghae,최종합격
+23/11/20 14:52,1705c2929bc8bb,resume,FAIL,NBCamp,취업 준비중
+23/11/20 15:15,25d24f35667430,resume,FAIL,Hanghae,최종합격
+23/11/20 15:48,30decc34ad2863,interview,FAIL,Hanghae,취업 준비중
+23/11/20 16:46,360853129e02a6,interview,FAIL,Hanghae,최종합격
+23/11/20 16:53,3434b291d304a1,resume,CANCEL,Hanghae,최종합격
+23/11/20 17:14,751336575751ee,interview,FAIL,Hanghae,최종합격
+23/11/20 17:15,56919567a8c488,interview,FAIL,Hanghae,최종합격
+23/11/20 17:46,66cb3b23080a04,resume,FAIL,Hanghae,취업 준비중
+23/11/20 17:46,3283e424117562,resume,FAIL,Hanghae,최종합격
+23/11/20 18:46,60bfb8100a8ea5,resume,FAIL,Hanghae,최종합격
+23/11/20 19:30,61c7c1748e9d27,resume,FAIL,Hanghae,최종합격
+23/11/20 20:36,6119919237c37e,interview,FAIL,Hanghae,최종합격
+23/11/20 21:17,80ae4477eed76d,interview,FAIL,Hanghae,최종합격
+23/11/20 21:33,53706d84f695d6,interview,FAIL,Hanghae,최종합격
+23/11/20 21:44,2649cc68e92826,interview,FAIL,Hanghae,최종합격
+23/11/20 21:53,842383495cde11,interview,FAIL,Hanghae,취업 준비중
+23/11/20 21:56,842383495cde11,resume,FAIL,Hanghae,취업 준비중
+23/11/20 23:07,61c7c1748e9d27,interview,PASS,Hanghae,최종합격
+23/11/20 23:31,53b7b8880fa10a,resume,CANCEL,Hanghae,취업 보류
+23/11/20 23:31,73979b82872697,interview,FAIL,Hanghae,최종합격
+23/11/20 23:54,53b7b8880fa10a,resume,FAIL,Hanghae,취업 보류
+23/11/21 1:19,8511dd821a22bb,resume,FAIL,Hanghae,취업 준비중
+23/11/21 5:19,38c11496d3633d,interview,FAIL,Hanghae,최종합격
+23/11/21 9:26,68e87d1718e956,resume,FAIL,Hanghae,취업 준비중
+23/11/21 10:12,56495e558b30eb,resume,CANCEL,Hanghae,취업 보류
+23/11/21 10:36,904f5c647bface,resume,FAIL,Hanghae,취업 준비중
+23/11/21 10:47,166d9a50b7d73d,interview,FAIL,Hanghae,최종합격
+23/11/21 11:42,282fac610663e5,resume,PASS,Hanghae,취업 준비중
+23/11/21 12:15,24b0129806656b,resume,PASS,Hanghae,취업 준비중
+23/11/21 12:27,52e78c45775d4e,resume,PASS,Hanghae,최종합격
+23/11/21 12:28,52e78c45775d4e,interview,FAIL,Hanghae,최종합격
+23/11/21 12:40,649521906f6c99,interview,PASS,Hanghae,최종합격
+23/11/21 12:54,49259f4342b5da,interview,CANCEL,Hanghae,취업 준비중
+23/11/21 13:19,60bfb8100a8ea5,interview,FAIL,Hanghae,최종합격
+23/11/21 13:20,80ae4477eed76d,resume,FAIL,Hanghae,최종합격
+23/11/21 13:22,6575583937f70f,resume,FAIL,Hanghae,최종합격
+23/11/21 13:26,904f5c647bface,interview,FAIL,Hanghae,취업 준비중
+23/11/21 13:26,6575583937f70f,interview,FAIL,Hanghae,최종합격
+23/11/21 13:59,110a582698afcf,resume,PASS,Hanghae,최종합격
+23/11/21 14:00,110a582698afcf,interview,FAIL,Hanghae,최종합격
+23/11/21 14:11,87e2f678ca3d77,resume,FAIL,Hanghae,최종합격
+23/11/21 14:30,3434b291d304a1,resume,CANCEL,Hanghae,최종합격
+23/11/21 14:36,3434b291d304a1,interview,FAIL,Hanghae,최종합격
+23/11/21 14:48,80cb18621d0258,resume,FAIL,Hanghae,취업 준비중
+23/11/21 15:05,89815349ce4468,interview,FAIL,Hanghae,최종합격
+23/11/21 15:20,30decc34ad2863,resume,FAIL,Hanghae,취업 준비중
+23/11/21 15:24,25d317604c5001,resume,FAIL,Hanghae,최종합격
+23/11/21 15:48,91c658527d4622,resume,FAIL,Hanghae,취업 준비중
+23/11/21 15:49,91c658527d4622,interview,CANCEL,Hanghae,취업 준비중
+23/11/21 16:13,166d9a50b7d73d,resume,FAIL,Hanghae,최종합격
+23/11/21 16:25,53706d84f695d6,resume,CANCEL,Hanghae,최종합격
+23/11/21 16:28,66cb3b23080a04,interview,FAIL,Hanghae,취업 준비중
+23/11/21 16:40,316bb2798283bb,resume,PASS,Hanghae,취업 준비중
+23/11/21 16:42,957013722238be,interview,FAIL,Hanghae,취업 준비중
+23/11/21 16:43,79cb1d913d3bba,resume,FAIL,Hanghae,취업 준비중
+23/11/21 17:09,751336575751ee,resume,FAIL,Hanghae,최종합격
+23/11/21 17:11,6119919237c37e,resume,FAIL,Hanghae,최종합격
+23/11/21 17:26,51a7ae99545eac,resume,PASS,Hanghae,취업 준비중
+23/11/21 17:35,38c11496d3633d,resume,FAIL,Hanghae,최종합격
+23/11/21 17:35,31cba097bb43f5,interview,CANCEL,Hanghae,취업 준비중
+23/11/21 17:43,360853129e02a6,resume,FAIL,Hanghae,최종합격
+23/11/21 18:00,53706d84f695d6,resume,FAIL,Hanghae,최종합격
+23/11/21 18:03,35392831da9e27,resume,FAIL,Hanghae,최종합격
+23/11/21 18:14,53b7b8880fa10a,interview,CANCEL,Hanghae,취업 보류
+23/11/21 18:22,35392831da9e27,interview,FAIL,Hanghae,최종합격
+23/11/21 19:00,2649cc68e92826,resume,FAIL,Hanghae,최종합격
+23/11/21 19:38,70bd3c33bd46a3,resume,PASS,Hanghae,취업 준비중
+23/11/21 19:47,49c988528d9bbe,interview,FAIL,Hanghae,취업 준비중
+23/11/21 19:57,926c573150e1a2,resume,FAIL,Hanghae,취업 준비중
+23/11/21 20:08,70015325ca3672,interview,FAIL,Hanghae,취업 준비중
+23/11/21 21:17,4875da39f1f4c6,resume,PASS,Hanghae,최종합격
+23/11/21 21:18,48501836be3ef4,interview,FAIL,Hanghae,취업 보류
+23/11/21 23:46,4672b5395b6dc6,resume,FAIL,Hanghae,취업 보류
+23/11/22 0:11,89815349ce4468,resume,FAIL,Hanghae,최종합격
+23/11/22 0:15,8511dd821a22bb,interview,CANCEL,Hanghae,취업 준비중
+23/11/22 10:25,4875da39f1f4c6,interview,FAIL,Hanghae,최종합격
+23/11/22 12:44,16cb3899f662d9,interview,CANCEL,Hanghae,취업 준비중
+23/11/22 12:57,62abf899bcc31a,resume,FAIL,NBCamp,취업 준비중
+23/11/22 13:00,3283e424117562,resume,FAIL,Hanghae,최종합격
+23/11/22 13:37,3434b291d304a1,resume,CANCEL,Hanghae,최종합격
+23/11/22 14:03,4641fa44562e22,resume,PASS,NBCamp,최종합격
+23/11/22 14:16,33cb2137555626,resume,FAIL,Hanghae,취업 준비중
+23/11/22 15:15,52e78c45775d4e,resume,PASS,Hanghae,최종합격
+23/11/22 16:04,56919567a8c488,resume,PASS,Hanghae,최종합격
+23/11/22 16:37,6575583937f70f,resume,PASS,Hanghae,최종합격
+23/11/22 18:31,25d24f35667430,resume,FAIL,Hanghae,최종합격
+23/11/22 20:49,360853129e02a6,resume,PASS,Hanghae,최종합격
+23/11/22 23:52,131c6c93f8f558,resume,FAIL,Hanghae,최종합격
+23/11/23 1:51,2649cc68e92826,resume,PASS,Hanghae,최종합격
+23/11/23 11:31,80ae4477eed76d,resume,FAIL,Hanghae,최종합격
+23/11/23 15:04,89815349ce4468,resume,FAIL,Hanghae,최종합격
+23/11/23 15:19,459c6855d56b46,resume,FAIL,NBCamp,취업 준비중
+23/11/23 15:23,396c2f52ef9186,resume,CANCEL,NBCamp,최종합격
+23/11/23 15:44,396c2f52ef9186,resume,PASS,NBCamp,최종합격
+23/11/23 15:55,86cff4914ebde1,resume,FAIL,NBCamp,최종합격
+23/11/23 16:08,719183214b50da,resume,FAIL,NBCamp,취업 준비중
+23/11/23 16:23,73979b82872697,resume,PASS,Hanghae,최종합격
+23/11/23 16:35,3434b291d304a1,resume,CANCEL,Hanghae,최종합격
+23/11/23 16:54,6119919237c37e,resume,FAIL,Hanghae,최종합격
+23/11/23 19:36,498aa3896ed18a,resume,FAIL,NBCamp,취업 준비중
+23/11/23 19:38,908a7049909d8c,resume,FAIL,NBCamp,취업 보류
+23/11/23 20:06,66fc8a19f71472,resume,FAIL,NBCamp,취업 준비중
+23/11/23 20:14,90995524ca379a,resume,FAIL,NBCamp,취업 준비중
+23/11/23 20:17,7492cf99a14d4c,resume,FAIL,NBCamp,취업 준비중
+23/11/23 20:17,342d3a311bc12d,resume,FAIL,NBCamp,취업 보류
+23/11/23 20:48,80461f12593749,resume,PASS,NBCamp,최종합격
+23/11/23 21:00,819244773131aa,resume,PASS,NBCamp,취업 준비중
+23/11/23 21:25,43abb697547193,resume,FAIL,NBCamp,최종합격
+23/11/23 21:30,6375c975aeef3c,resume,FAIL,NBCamp,최종합격
+23/11/23 21:34,9050e2422a0081,resume,FAIL,NBCamp,취업 준비중
+23/11/23 21:35,649521906f6c99,resume,PASS,Hanghae,최종합격
+23/11/23 21:57,35392831da9e27,resume,FAIL,Hanghae,최종합격
+23/11/23 23:15,9183ff27017217,resume,CANCEL,NBCamp,취업 준비중
+23/11/23 23:22,926c573150e1a2,resume,PASS,Hanghae,취업 준비중
+23/11/23 23:26,896ac732753c66,resume,PASS,NBCamp,최종합격
+23/11/23 23:34,9183ff27017217,resume,CANCEL,NBCamp,취업 준비중
+23/11/23 23:35,39ead787923502,resume,FAIL,NBCamp,취업 준비중
+23/11/23 23:37,9183ff27017217,resume,FAIL,NBCamp,취업 준비중
+23/11/23 23:44,82cff4194cd0e5,resume,PASS,NBCamp,최종합격
+23/11/23 23:48,157fea94162058,resume,FAIL,NBCamp,취업 준비중
+23/11/23 23:58,50352396a5f5b5,resume,FAIL,NBCamp,취업 준비중
+23/11/24 0:02,45390e89a462b0,resume,FAIL,NBCamp,취업 준비중
+23/11/24 0:05,4175ea43d1176c,resume,PASS,NBCamp,최종합격
+23/11/24 0:15,62092570eb4763,resume,FAIL,NBCamp,취업 준비중
+23/11/24 0:25,4485c453eacc0d,resume,FAIL,NBCamp,취업 준비중
+23/11/24 1:03,778f3b88f3f423,resume,FAIL,NBCamp,취업 준비중
+23/11/24 9:29,22f86653ab62a3,resume,CANCEL,NBCamp,취업 준비중
+23/11/24 9:53,14a40f85629df0,resume,FAIL,NBCamp,취업 준비중
+23/11/24 11:24,3434b291d304a1,resume,PASS,Hanghae,최종합격
+23/11/24 11:29,349513859c62bf,resume,FAIL,NBCamp,취업 준비중
+23/11/24 12:30,131c6c93f8f558,resume,FAIL,Hanghae,최종합격
+23/11/24 12:56,3434b291d304a1,resume,CANCEL,Hanghae,최종합격
+23/11/24 13:50,3283e424117562,resume,PASS,Hanghae,최종합격
+23/11/24 15:11,28a6be44110fef,resume,FAIL,Hanghae,최종합격
+23/11/24 15:12,8691b986f802b2,resume,PASS,NBCamp,취업 준비중
+23/11/24 15:13,81bfc577c372ef,resume,PASS,NBCamp,최종합격
+23/11/24 15:14,86b6e9418eeba0,resume,FAIL,NBCamp,취업 준비중
+23/11/24 15:41,22f86653ab62a3,resume,FAIL,NBCamp,취업 준비중
+23/11/24 15:42,53706d84f695d6,resume,FAIL,Hanghae,최종합격
+23/11/24 15:44,95e32e55840d34,resume,PASS,NBCamp,취업 준비중
+23/11/24 16:31,62abf899bcc31a,resume,PASS,NBCamp,취업 준비중
+23/11/24 16:51,82a5e216f2a4e3,resume,FAIL,NBCamp,취업 준비중
+23/11/24 17:57,6119919237c37e,resume,PASS,Hanghae,최종합격
+23/11/24 19:06,61a4d725172503,resume,PASS,NBCamp,취업 준비중
+23/11/24 19:06,61a4d725172503,interview,CANCEL,NBCamp,취업 준비중
+23/11/24 20:00,34f71f5572f9fa,resume,FAIL,NBCamp,취업 보류
+23/11/24 20:08,4065a470cc38f2,resume,PASS,NBCamp,최종합격
+23/11/24 20:44,87e2f678ca3d77,resume,FAIL,Hanghae,최종합격
+23/11/25 0:01,92906590cd8276,resume,CANCEL,NBCamp,취업 준비중
+23/11/25 0:20,839e8e98bb6e5b,resume,PASS,NBCamp,최종합격
+23/11/25 3:26,96acb840f7f83c,resume,FAIL,NBCamp,최종합격
+23/11/25 16:58,455c8f55914ce6,resume,FAIL,NBCamp,최종합격
+23/11/25 19:36,722336536c78f2,resume,FAIL,NBCamp,취업 준비중
+23/11/25 20:19,88347c67ebc89f,resume,CANCEL,Hanghae,취업 준비중
+23/11/25 20:47,88347c67ebc89f,resume,FAIL,Hanghae,취업 준비중
+23/11/25 21:07,92906590cd8276,resume,FAIL,NBCamp,취업 준비중
+23/11/25 22:24,5498fd574361b5,resume,PASS,NBCamp,최종합격
+23/11/25 22:39,396c2f52ef9186,resume,PASS,NBCamp,최종합격
+23/11/26 0:04,92f05123a6bbf1,resume,PASS,NBCamp,취업 준비중
+23/11/26 1:21,54995329c6eae2,resume,FAIL,NBCamp,취업 준비중
+23/11/26 2:01,6654db76ccfe1e,resume,FAIL,NBCamp,최종합격
+23/11/26 10:56,9581d172d93c3d,resume,FAIL,NBCamp,취업 준비중
+23/11/26 12:55,39086710c85f87,resume,PASS,NBCamp,취업 준비중
+23/11/26 13:08,639bf820359214,resume,FAIL,NBCamp,취업 준비중
+23/11/26 13:40,40aa6a8754fe5a,resume,FAIL,NBCamp,취업 준비중
+23/11/26 13:48,65018c844f35a3,resume,FAIL,NBCamp,취업 보류
+23/11/26 15:23,838fed31b9ee74,resume,PASS,NBCamp,취업 준비중
+23/11/26 15:41,407589980747e1,resume,FAIL,NBCamp,취업 보류
+23/11/26 16:07,62905424275b4d,resume,PASS,NBCamp,취업 준비중
+23/11/26 16:29,10941164915831,resume,FAIL,NBCamp,최종합격
+23/11/26 18:31,18c6a184fc5c5a,resume,FAIL,NBCamp,취업 준비중
+23/11/26 19:05,7496b710189b42,resume,FAIL,NBCamp,취업 준비중
+23/11/26 19:09,35759a363e47ea,resume,FAIL,NBCamp,취업 준비중
+23/11/26 19:15,657de443084628,resume,FAIL,NBCamp,취업 준비중
+23/11/26 19:17,79783f2780b467,resume,FAIL,NBCamp,최종합격
+23/11/26 19:23,6086e26417023a,resume,FAIL,NBCamp,취업 준비중
+23/11/26 19:46,629ddd724e9365,resume,FAIL,NBCamp,취업 준비중
+23/11/26 21:02,4986b5846a3499,resume,FAIL,NBCamp,취업 준비중
+23/11/26 21:58,32804138046dee,resume,FAIL,NBCamp,취업 보류
+23/11/26 22:03,675f0b34232e73,resume,CANCEL,NBCamp,최종합격
+23/11/26 22:08,675f0b34232e73,resume,PASS,NBCamp,최종합격
+23/11/26 22:31,4476ef36c825e6,resume,FAIL,NBCamp,최종합격
+23/11/26 22:42,308a4343c389f5,resume,FAIL,NBCamp,취업 준비중
+23/11/26 22:56,587879548ce5de,resume,FAIL,NBCamp,취업 보류
+23/11/26 22:59,9881ed821ccbc3,resume,FAIL,NBCamp,취업 준비중
+23/11/26 23:03,61d47f69bd6333,resume,FAIL,NBCamp,취업 준비중
+23/11/26 23:30,60bfb8100a8ea5,resume,FAIL,Hanghae,최종합격
+23/11/26 23:38,21cdd7146ad014,interview,CANCEL,NBCamp,취업 준비중
+23/11/26 23:39,21cdd7146ad014,resume,FAIL,NBCamp,취업 준비중
+23/11/26 23:49,2782363522b024,resume,PASS,NBCamp,취업 준비중
+23/11/26 23:53,3483f0479b7788,resume,FAIL,NBCamp,취업 준비중
+23/11/27 0:27,4175ea43d1176c,resume,PASS,NBCamp,최종합격
+23/11/27 2:14,50c1959821760b,resume,PASS,NBCamp,취업 준비중
+23/11/27 4:53,99e05b79363fc6,resume,FAIL,NBCamp,취업 준비중
+23/11/27 8:35,98dea56001a87a,resume,FAIL,NBCamp,최종합격
+23/11/27 10:38,80cb18621d0258,resume,FAIL,Hanghae,취업 준비중
+23/11/27 13:47,33cb2137555626,resume,FAIL,Hanghae,취업 준비중
+23/11/27 14:49,14803d18012ca3,resume,FAIL,NBCamp,취업 보류
+23/11/27 15:20,3434b291d304a1,resume,FAIL,Hanghae,최종합격
+23/11/27 16:40,80ae4477eed76d,resume,PASS,Hanghae,최종합격
+23/11/27 17:48,6181ed86904251,resume,FAIL,NBCamp,최종합격
+23/11/27 17:57,139bf446578fc8,resume,CANCEL,NBCamp,취업 준비중
+23/11/27 17:59,139bf446578fc8,interview,CANCEL,NBCamp,취업 준비중
+23/11/27 18:06,139bf446578fc8,interview,CANCEL,NBCamp,취업 준비중
+23/11/27 19:10,438db7529990e0,resume,FAIL,NBCamp,취업 보류
+23/11/27 19:33,957589394e2781,resume,FAIL,NBCamp,최종합격
+23/11/27 19:33,957589394e2781,interview,CANCEL,NBCamp,최종합격
+23/11/27 20:22,6375c975aeef3c,resume,FAIL,NBCamp,최종합격
+23/11/27 22:43,460916382680fd,resume,PASS,NBCamp,취업 준비중
+23/11/28 0:21,839e7a99aa6cf4,resume,FAIL,NBCamp,취업 준비중
+23/11/28 0:21,839e7a99aa6cf4,interview,CANCEL,NBCamp,취업 준비중
+23/11/28 1:19,166d9a50b7d73d,resume,FAIL,Hanghae,최종합격
+23/11/28 13:18,498aa3896ed18a,resume,FAIL,NBCamp,취업 준비중
+23/11/28 15:01,81eb7a88ff67c2,resume,PASS,Hanghae,최종합격
+23/11/28 15:17,54995329c6eae2,resume,FAIL,NBCamp,취업 준비중
+23/11/28 16:59,131c6c93f8f558,resume,FAIL,Hanghae,최종합격
+23/11/28 21:12,157fea94162058,resume,FAIL,NBCamp,취업 준비중
+23/11/28 21:35,6375c975aeef3c,resume,FAIL,NBCamp,최종합격
+23/11/28 23:03,629ddd724e9365,resume,CANCEL,NBCamp,취업 준비중
+23/11/28 23:05,80461f12593749,resume,FAIL,NBCamp,최종합격
+23/11/28 23:21,62092570eb4763,resume,FAIL,NBCamp,취업 준비중
+23/11/29 8:59,629ddd724e9365,resume,FAIL,NBCamp,취업 준비중
+23/11/29 11:18,139bf446578fc8,resume,FAIL,NBCamp,취업 준비중
+23/11/29 11:57,1705c2929bc8bb,resume,FAIL,NBCamp,취업 준비중
+23/11/29 13:35,16cb3899f662d9,resume,FAIL,Hanghae,취업 준비중
+23/11/29 13:35,16cb3899f662d9,resume,FAIL,Hanghae,취업 준비중
+23/11/29 15:16,77994b6615bc12,resume,FAIL,NBCamp,취업 준비중
+23/11/29 15:17,28a79c81bbad58,resume,FAIL,NBCamp,취업 보류
+23/11/29 15:29,39aace195ad94e,resume,FAIL,NBCamp,취업 준비중
+23/11/29 15:39,89ca1b290b878b,resume,PASS,NBCamp,취업 준비중
+23/11/29 16:08,5595176870b409,resume,FAIL,NBCamp,취업 준비중
+23/11/29 16:30,9581d172d93c3d,resume,PASS,NBCamp,취업 준비중
+23/11/29 16:45,187b6753d3e27c,resume,FAIL,NBCamp,취업 보류
+23/11/29 16:56,43746f969e302a,resume,FAIL,NBCamp,취업 보류
+23/11/29 16:59,9503fc4769f5d8,interview,FAIL,NBCamp,취업 준비중
+23/11/29 17:49,172ea728aa4f6a,resume,FAIL,NBCamp,최종합격
+23/11/30 11:49,738dca86ed3711,resume,FAIL,NBCamp,취업 준비중
+23/11/30 13:55,131c6c93f8f558,resume,PASS,Hanghae,최종합격
+23/11/30 14:42,30decc34ad2863,resume,FAIL,Hanghae,취업 준비중
+23/11/30 15:03,77e11d79286a02,resume,FAIL,Hanghae,취업 준비중
+23/11/30 18:40,66fc8a19f71472,resume,FAIL,NBCamp,취업 준비중
+23/11/30 19:06,729c3557cb409d,resume,PASS,NBCamp,최종합격
+23/11/30 20:42,839e8e98bb6e5b,resume,FAIL,NBCamp,최종합격
+23/11/30 21:03,43abb697547193,resume,FAIL,NBCamp,최종합격
+23/11/30 21:25,629ddd724e9365,resume,FAIL,NBCamp,취업 준비중
+23/11/30 21:35,39ead787923502,resume,FAIL,NBCamp,취업 준비중
+23/11/30 21:36,39ead787923502,resume,FAIL,NBCamp,취업 준비중
+23/11/30 21:41,6375c975aeef3c,resume,PASS,NBCamp,최종합격
+23/11/30 21:42,6375c975aeef3c,resume,PASS,NBCamp,최종합격
+23/11/30 21:54,80ae4477eed76d,resume,PASS,Hanghae,최종합격
+23/11/30 22:51,455c8f55914ce6,resume,FAIL,NBCamp,최종합격
+23/11/30 23:09,455c8f55914ce6,resume,CANCEL,NBCamp,최종합격
+23/11/30 23:17,455c8f55914ce6,resume,CANCEL,NBCamp,최종합격
+23/11/30 23:22,455c8f55914ce6,resume,CANCEL,NBCamp,최종합격
+23/11/30 23:45,455c8f55914ce6,resume,FAIL,NBCamp,최종합격
+23/12/01 10:33,86b6e9418eeba0,resume,CANCEL,NBCamp,취업 준비중
+23/12/01 12:02,952bce87c2904d,resume,FAIL,NBCamp,취업 보류
+23/12/01 12:12,657de443084628,resume,PASS,NBCamp,취업 준비중
+23/12/01 14:44,3434b291d304a1,resume,CANCEL,Hanghae,최종합격
+23/12/01 15:27,96acb840f7f83c,resume,PASS,NBCamp,최종합격
+23/12/01 16:36,88347c67ebc89f,resume,PASS,Hanghae,취업 준비중
+23/12/01 17:21,60bfb8100a8ea5,resume,FAIL,Hanghae,최종합격
+23/12/01 20:38,4485c453eacc0d,resume,FAIL,NBCamp,취업 준비중
+23/12/01 21:35,89815349ce4468,resume,PASS,Hanghae,최종합격
+23/12/01 23:07,131c6c93f8f558,resume,FAIL,Hanghae,최종합격
+23/12/01 23:07,131c6c93f8f558,resume,FAIL,Hanghae,최종합격
+23/12/01 23:48,28a6be44110fef,resume,PASS,Hanghae,최종합격
+23/12/02 17:17,61c7c1748e9d27,resume,PASS,Hanghae,최종합격
+23/12/03 13:58,90789079f27d49,resume,FAIL,NBCamp,취업 보류
+23/12/03 18:06,455c8f55914ce6,resume,FAIL,NBCamp,최종합격
+23/12/03 23:51,6086e26417023a,resume,FAIL,NBCamp,취업 준비중
+23/12/04 7:22,98dea56001a87a,resume,FAIL,NBCamp,최종합격
+23/12/04 10:13,839e8e98bb6e5b,resume,FAIL,NBCamp,최종합격
+23/12/04 11:39,110a582698afcf,resume,FAIL,Hanghae,최종합격
+23/12/04 11:47,53706d84f695d6,resume,FAIL,Hanghae,최종합격
+23/12/04 12:11,6181ed86904251,resume,FAIL,NBCamp,최종합격
+23/12/04 12:22,38c11496d3633d,resume,FAIL,Hanghae,최종합격
+23/12/04 12:29,25d317604c5001,resume,FAIL,Hanghae,최종합격
+23/12/04 12:36,25d317604c5001,resume,FAIL,Hanghae,최종합격
+23/12/04 13:49,1705c2929bc8bb,resume,PASS,NBCamp,취업 준비중
+23/12/04 13:59,751336575751ee,resume,PASS,Hanghae,최종합격
+23/12/04 13:59,40aa6a8754fe5a,resume,FAIL,NBCamp,취업 준비중
+23/12/04 14:10,43abb697547193,resume,PASS,NBCamp,최종합격
+23/12/04 14:15,96acb840f7f83c,resume,FAIL,NBCamp,최종합격
+23/12/04 14:31,957589394e2781,resume,FAIL,NBCamp,최종합격
+23/12/04 14:40,25d24f35667430,resume,FAIL,Hanghae,최종합격
+23/12/04 15:26,60bfb8100a8ea5,resume,FAIL,Hanghae,최종합격
+23/12/04 16:00,7492cf99a14d4c,resume,FAIL,NBCamp,취업 준비중
+23/12/04 16:45,166d9a50b7d73d,resume,PASS,Hanghae,최종합격
+23/12/04 17:33,498aa3896ed18a,resume,FAIL,NBCamp,취업 준비중
+23/12/04 18:10,455c8f55914ce6,resume,FAIL,NBCamp,최종합격
+23/12/04 19:00,92906590cd8276,resume,FAIL,NBCamp,취업 준비중
+23/12/04 19:01,30decc34ad2863,resume,FAIL,Hanghae,취업 준비중
+23/12/04 19:47,6654db76ccfe1e,resume,FAIL,NBCamp,최종합격
+23/12/04 23:17,455c8f55914ce6,resume,PASS,NBCamp,최종합격
+23/12/05 1:17,738dca86ed3711,resume,PASS,NBCamp,취업 준비중
+23/12/05 1:39,82a5e216f2a4e3,resume,FAIL,NBCamp,취업 준비중
+23/12/05 1:59,706ded88443da4,resume,PASS,NBCamp,취업 준비중
+23/12/05 11:08,863a6775152bc3,resume,FAIL,NBCamp,취업 준비중
+23/12/05 11:25,87e2f678ca3d77,resume,PASS,Hanghae,최종합격
+23/12/05 12:16,99465e81c3f545,resume,PASS,NBCamp,최종합격
+23/12/05 13:18,172ea728aa4f6a,resume,PASS,NBCamp,최종합격
+23/12/05 14:47,66fc8a19f71472,resume,FAIL,NBCamp,취업 준비중
+23/12/05 15:29,70a43e984d7894,resume,FAIL,NBCamp,취업 준비중
+23/12/05 15:57,177da551466c8d,resume,FAIL,NBCamp,취업 보류
+23/12/05 16:17,35392831da9e27,resume,FAIL,Hanghae,최종합격
+23/12/05 16:43,25d317604c5001,resume,PASS,Hanghae,최종합격
+23/12/05 17:38,39aace195ad94e,resume,FAIL,NBCamp,취업 준비중
+23/12/05 17:58,719183214b50da,resume,PASS,NBCamp,취업 준비중
+23/12/05 19:02,80461f12593749,resume,PASS,NBCamp,최종합격
+23/12/05 20:41,30887041df3e38,resume,FAIL,Hanghae,최종합격
+23/12/05 21:19,431dd041f2fcd0,resume,FAIL,Hanghae,취업 준비중
+23/12/05 21:26,4485c453eacc0d,resume,FAIL,NBCamp,취업 준비중
+23/12/05 23:03,9050e2422a0081,resume,FAIL,NBCamp,취업 준비중
+23/12/06 11:20,33cb2137555626,resume,FAIL,Hanghae,취업 준비중
+23/12/06 12:09,88931755fe5ac8,resume,PASS,Hanghae,취업 준비중
+23/12/06 12:21,73979b82872697,resume,PASS,Hanghae,최종합격
+23/12/06 12:43,38c11496d3633d,resume,FAIL,Hanghae,최종합격
+23/12/06 13:56,69bd1678f5dc25,resume,FAIL,Hanghae,취업 준비중
+23/12/06 13:57,69bd1678f5dc25,resume,CANCEL,Hanghae,취업 준비중
+23/12/06 14:04,29776b491b844a,resume,FAIL,NBCamp,취업 보류
+23/12/06 14:56,80461f12593749,resume,PASS,NBCamp,최종합격
+23/12/06 15:10,60bfb8100a8ea5,resume,PASS,Hanghae,최종합격
+23/12/06 17:56,4476ef36c825e6,resume,PASS,NBCamp,최종합격
+23/12/06 18:06,6086e26417023a,resume,PASS,NBCamp,취업 준비중
+23/12/06 19:21,131c6c93f8f558,resume,PASS,Hanghae,최종합격
+23/12/06 20:19,98dea56001a87a,resume,PASS,NBCamp,최종합격
+23/12/06 21:53,166d9a50b7d73d,resume,FAIL,Hanghae,최종합격
+23/12/06 22:40,25d24f35667430,resume,PASS,Hanghae,최종합격
+23/12/06 23:45,29928125250d32,resume,FAIL,NBCamp,취업 준비중
+23/12/07 0:21,58251735c98eda,resume,PASS,NBCamp,취업 준비중
+23/12/07 10:44,6181ed86904251,resume,PASS,NBCamp,최종합격
+23/12/07 11:13,66fc8a19f71472,resume,FAIL,NBCamp,취업 준비중
+23/12/07 11:54,863a6775152bc3,resume,FAIL,NBCamp,취업 준비중
+23/12/07 14:37,819244773131aa,resume,FAIL,NBCamp,취업 준비중
+23/12/07 14:47,99e05b79363fc6,resume,FAIL,NBCamp,취업 준비중
+23/12/07 15:55,35392831da9e27,resume,PASS,Hanghae,최종합격
+23/12/07 17:17,6654db76ccfe1e,resume,FAIL,NBCamp,최종합격
+23/12/08 1:26,82a5e216f2a4e3,resume,FAIL,NBCamp,취업 준비중
+23/12/08 10:46,1245d88502ecd3,resume,FAIL,Hanghae,최종합격
+23/12/08 11:14,110a582698afcf,resume,PASS,Hanghae,최종합격
+23/12/08 12:43,70b7b943fe39ef,resume,FAIL,NBCamp,취업 준비중
+23/12/08 13:22,70a43e984d7894,resume,FAIL,NBCamp,취업 준비중
+23/12/08 14:05,29928125250d32,resume,FAIL,NBCamp,취업 준비중
+23/12/08 14:07,39ead787923502,resume,FAIL,NBCamp,취업 준비중
+23/12/08 14:21,30decc34ad2863,resume,FAIL,Hanghae,취업 준비중
+23/12/08 15:59,68bec997694e4e,resume,FAIL,NBCamp,취업 준비중
+23/12/08 19:51,81bfc577c372ef,resume,PASS,NBCamp,최종합격
+23/12/08 20:25,39ead787923502,resume,FAIL,NBCamp,취업 준비중
+23/12/09 3:08,48fc98310f8475,resume,FAIL,NBCamp,취업 준비중
+23/12/10 3:35,10941164915831,resume,FAIL,NBCamp,최종합격
+23/12/10 22:53,38c11496d3633d,resume,PASS,Hanghae,최종합격
+23/12/11 8:39,9881ed821ccbc3,resume,PASS,NBCamp,취업 준비중
+23/12/11 9:30,33cb2137555626,resume,FAIL,Hanghae,취업 준비중
+23/12/11 11:28,53706d84f695d6,resume,PASS,Hanghae,최종합격
+23/12/11 11:30,66fc8a19f71472,resume,FAIL,NBCamp,취업 준비중
+23/12/11 14:13,40aa6a8754fe5a,resume,PASS,NBCamp,취업 준비중
+23/12/11 14:45,1033f630772c0b,resume,CANCEL,NBCamp,취업 보류
+23/12/11 14:59,61d47f69bd6333,resume,CANCEL,NBCamp,취업 준비중
+23/12/11 15:00,61d47f69bd6333,resume,FAIL,NBCamp,취업 준비중
+23/12/11 15:08,1033f630772c0b,resume,FAIL,NBCamp,취업 보류
+23/12/11 15:33,9050e2422a0081,resume,PASS,NBCamp,취업 준비중
+23/12/11 16:03,3286e0864b456b,resume,FAIL,NBCamp,취업 준비중
+23/12/11 16:24,117fbc498e5771,resume,FAIL,NBCamp,취업 준비중
+23/12/11 16:41,590caf80f802d5,resume,FAIL,NBCamp,취업 준비중
+23/12/11 16:50,64196376b43f35,resume,FAIL,NBCamp,최종합격
+23/12/11 18:54,88e09123335ce6,resume,CANCEL,NBCamp,취업 보류
+23/12/11 19:09,722336536c78f2,resume,FAIL,NBCamp,취업 준비중
+23/12/11 19:50,40b4f528a6377e,resume,FAIL,NBCamp,최종합격
+23/12/11 20:30,96acb840f7f83c,resume,PASS,NBCamp,최종합격
+23/12/11 20:34,96acb840f7f83c,interview,FAIL,NBCamp,최종합격
+23/12/11 20:47,59ba8b97f642a4,resume,FAIL,NBCamp,취업 보류
+23/12/11 23:08,8134cb24e1a5f7,resume,FAIL,NBCamp,취업 준비중
+23/12/12 0:27,64196376b43f35,resume,PASS,NBCamp,최종합격
+23/12/12 12:06,93e4c044902bb6,interview,FAIL,NBCamp,최종합격
+23/12/12 14:33,6654db76ccfe1e,resume,FAIL,NBCamp,최종합격
+23/12/12 14:45,157fea94162058,resume,PASS,NBCamp,취업 준비중
+23/12/12 15:55,3483f0479b7788,resume,FAIL,NBCamp,취업 준비중
+23/12/12 16:04,10ad8c99011d75,resume,FAIL,NBCamp,취업 준비중
+23/12/12 18:44,1245d88502ecd3,resume,FAIL,Hanghae,최종합격
+23/12/12 21:45,5498fd574361b5,resume,PASS,NBCamp,최종합격
+23/12/13 0:07,44bf1f65ef71b7,resume,FAIL,NBCamp,취업 준비중
+23/12/13 1:15,2459cb8461a13e,resume,FAIL,NBCamp,취업 준비중
+23/12/13 11:31,3286e0864b456b,resume,FAIL,NBCamp,취업 준비중
+23/12/13 12:23,79783f2780b467,resume,FAIL,NBCamp,최종합격
+23/12/13 19:26,82759e765d7663,resume,PASS,NBCamp,취업 준비중
+23/12/13 20:25,40b4f528a6377e,resume,FAIL,NBCamp,최종합격
+23/12/13 21:09,6654db76ccfe1e,resume,FAIL,NBCamp,최종합격
+23/12/14 4:03,9779ff6083d6e8,resume,FAIL,NBCamp,취업 준비중
+23/12/14 4:26,64196376b43f35,resume,PASS,NBCamp,최종합격
+23/12/14 13:40,477a832003c325,resume,FAIL,NBCamp,취업 보류
+23/12/14 13:45,86cff4914ebde1,resume,FAIL,NBCamp,최종합격
+23/12/14 17:47,32d6be258729ab,resume,FAIL,NBCamp,취업 준비중
+23/12/14 19:55,92751b5036ba5b,resume,FAIL,NBCamp,취업 준비중
+23/12/14 20:54,82cff4194cd0e5,interview,FAIL,NBCamp,최종합격
+23/12/15 11:13,4065a470cc38f2,interview,FAIL,NBCamp,최종합격
+23/12/15 11:24,40b4f528a6377e,resume,PASS,NBCamp,최종합격
+23/12/15 14:09,4175ea43d1176c,interview,FAIL,NBCamp,최종합격
+23/12/15 15:44,6654db76ccfe1e,resume,FAIL,NBCamp,최종합격
+23/12/15 16:37,39ead787923502,resume,FAIL,NBCamp,취업 준비중
+23/12/15 18:10,77bf93564ccaf8,resume,FAIL,NBCamp,취업 보류
+23/12/15 19:53,24c13073b83cc6,interview,FAIL,NBCamp,취업 준비중
+23/12/15 20:46,455c8f55914ce6,resume,PASS,NBCamp,최종합격
+23/12/17 21:55,10941164915831,resume,PASS,NBCamp,최종합격
+23/12/18 12:20,52af8650d9a60e,resume,PASS,NBCamp,최종합격
+23/12/18 14:58,32d6be258729ab,resume,FAIL,NBCamp,취업 준비중
+23/12/18 15:02,455c8f55914ce6,interview,FAIL,NBCamp,최종합격
+23/12/18 16:15,66fc8a19f71472,resume,FAIL,NBCamp,취업 준비중
+23/12/18 18:46,79783f2780b467,resume,PASS,NBCamp,최종합격
+23/12/18 21:48,82a5e216f2a4e3,resume,FAIL,NBCamp,취업 준비중
+23/12/18 22:45,87a23c4838da51,resume,FAIL,NBCamp,취업 준비중
+23/12/19 14:13,86de81525f71c5,resume,CANCEL,NBCamp,최종합격
+23/12/19 14:18,35c1d3416ee0a6,resume,CANCEL,NBCamp,취업 준비중
+23/12/19 14:27,558eae9797bb4a,resume,FAIL,NBCamp,취업 준비중
+23/12/19 14:27,6654db76ccfe1e,resume,PASS,NBCamp,최종합격
+23/12/19 14:28,756db06331d5c1,resume,CANCEL,NBCamp,취업 준비중
+23/12/19 14:30,13bdf6149098d1,resume,FAIL,NBCamp,취업 준비중
+23/12/19 14:59,74b4ff77edf96e,resume,FAIL,NBCamp,취업 준비중
+23/12/19 15:40,96cb19119d0258,resume,CANCEL,NBCamp,취업 준비중
+23/12/19 15:40,81b514192b4a52,resume,CANCEL,NBCamp,최종합격
+23/12/19 15:49,71707659616591,resume,CANCEL,NBCamp,취업 준비중
+23/12/19 15:50,43080536356cd6,resume,CANCEL,NBCamp,최종합격
+23/12/19 15:52,43bc7c75ebfd73,resume,CANCEL,NBCamp,취업 준비중
+23/12/19 16:01,75d44099894b41,resume,FAIL,NBCamp,취업 준비중
+23/12/19 16:10,660ad341e1eb5c,resume,FAIL,NBCamp,취업 보류
+23/12/19 16:22,65a9f467e0b024,resume,FAIL,NBCamp,취업 준비중
+23/12/19 16:30,43d49439ff522d,resume,CANCEL,NBCamp,취업 준비중
+23/12/19 16:33,49abc257205adb,resume,FAIL,NBCamp,취업 준비중
+23/12/19 16:33,264f861224d77b,resume,FAIL,NBCamp,취업 준비중
+23/12/19 16:43,80b4ee803a3155,resume,CANCEL,NBCamp,취업 준비중
+23/12/19 16:52,12f94f35c5fe04,resume,FAIL,NBCamp,최종합격
+23/12/19 16:52,86de81525f71c5,resume,FAIL,NBCamp,최종합격
+23/12/19 16:53,4908a236419740,resume,FAIL,NBCamp,취업 준비중
+23/12/19 16:54,80b4ee803a3155,resume,CANCEL,NBCamp,취업 준비중
+23/12/19 16:55,55ae3c61eac2cf,resume,FAIL,NBCamp,취업 보류
+23/12/19 16:56,2890778176cc55,resume,FAIL,NBCamp,취업 준비중
+23/12/19 16:58,96cb19119d0258,resume,CANCEL,NBCamp,취업 준비중
+23/12/19 16:59,84c35e371656d9,resume,CANCEL,NBCamp,최종합격
+23/12/19 16:59,50533c70396769,resume,FAIL,NBCamp,취업 준비중
+23/12/19 17:03,81b514192b4a52,resume,PASS,NBCamp,최종합격
+23/12/19 17:06,62d0b4618d04dc,resume,PASS,NBCamp,취업 준비중
+23/12/19 17:06,54b20a93c94afb,resume,PASS,NBCamp,최종합격
+23/12/19 17:07,41b0cd72c959ed,resume,FAIL,NBCamp,취업 준비중
+23/12/19 17:13,4890bc432ba673,resume,FAIL,NBCamp,취업 준비중
+23/12/19 17:20,75ad64162cbe97,resume,PASS,NBCamp,취업 준비중
+23/12/19 17:21,35ccb42447fc2d,resume,FAIL,NBCamp,취업 준비중
+23/12/19 17:24,35c1d3416ee0a6,resume,PASS,NBCamp,취업 준비중
+23/12/19 17:31,89a70391a95171,resume,PASS,NBCamp,취업 준비중
+23/12/19 17:35,9718594747c5aa,resume,PASS,NBCamp,취업 준비중
+23/12/19 17:36,9718594747c5aa,interview,CANCEL,NBCamp,취업 준비중
+23/12/19 17:38,852fba571c1201,resume,CANCEL,NBCamp,취업 준비중
+23/12/19 17:47,6489d2813cafc6,resume,CANCEL,NBCamp,취업 준비중
+23/12/19 17:55,71707659616591,resume,PASS,NBCamp,취업 준비중
+23/12/19 17:55,6489d2813cafc6,resume,PASS,NBCamp,취업 준비중
+23/12/19 17:56,43080536356cd6,resume,PASS,NBCamp,최종합격
+23/12/19 17:59,88b12e992239f7,resume,CANCEL,NBCamp,취업 준비중
+23/12/19 18:00,37b35594ebca42,resume,FAIL,NBCamp,취업 준비중
+23/12/19 18:00,78ae96524cf2da,resume,PASS,NBCamp,취업 준비중
+23/12/19 18:09,72b55468abcf3e,resume,FAIL,NBCamp,취업 준비중
+23/12/19 18:14,49a93856ed7892,resume,PASS,NBCamp,최종합격
+23/12/19 18:30,88d3f498f84a00,resume,FAIL,NBCamp,취업 준비중
+23/12/19 18:32,82ae0852b17ba9,resume,FAIL,NBCamp,취업 준비중
+23/12/19 18:39,756db06331d5c1,resume,CANCEL,NBCamp,취업 준비중
+23/12/19 19:26,35cbc155b719f0,resume,FAIL,NBCamp,취업 준비중
+23/12/19 19:55,84c35e371656d9,resume,FAIL,NBCamp,최종합격
+23/12/19 19:55,80b4ee803a3155,resume,FAIL,NBCamp,취업 준비중
+23/12/19 20:10,43d49439ff522d,resume,FAIL,NBCamp,취업 준비중
+23/12/19 20:48,8134cb24e1a5f7,resume,PASS,NBCamp,취업 준비중
+23/12/19 21:15,756db06331d5c1,resume,FAIL,NBCamp,취업 준비중
+23/12/19 21:30,43bc7c75ebfd73,resume,FAIL,NBCamp,취업 준비중
+23/12/19 21:48,96c29c69ca085c,resume,FAIL,NBCamp,취업 준비중
+23/12/19 22:37,852fba571c1201,resume,FAIL,NBCamp,취업 준비중
+23/12/19 23:10,54cdb248a03eaa,resume,FAIL,NBCamp,취업 준비중
+23/12/20 0:22,52c5c341856155,resume,FAIL,NBCamp,취업 준비중
+23/12/20 2:36,88b12e992239f7,resume,FAIL,NBCamp,취업 준비중
+23/12/20 9:55,96cb19119d0258,resume,FAIL,NBCamp,취업 준비중
+23/12/20 17:52,10ad8c99011d75,resume,FAIL,NBCamp,취업 준비중
+23/12/20 19:10,446c2825d474ed,resume,FAIL,NBCamp,취업 준비중
+23/12/20 20:20,62ca1723e2a258,resume,CANCEL,NBCamp,취업 준비중
+23/12/20 20:24,117fbc498e5771,resume,FAIL,NBCamp,취업 준비중
+23/12/20 20:56,62ca1723e2a258,resume,FAIL,NBCamp,취업 준비중
+23/12/21 1:49,30887041df3e38,resume,PASS,Hanghae,최종합격
+23/12/21 11:42,52af8650d9a60e,resume,PASS,NBCamp,최종합격
+23/12/21 12:54,41b0cd72c959ed,resume,FAIL,NBCamp,취업 준비중
+23/12/21 13:28,49abc257205adb,resume,FAIL,NBCamp,취업 준비중
+23/12/21 13:56,558eae9797bb4a,resume,FAIL,NBCamp,취업 준비중
+23/12/21 16:36,56ae1459567ef9,resume,FAIL,NBCamp,취업 준비중
+23/12/21 17:32,43bc7c75ebfd73,resume,FAIL,NBCamp,취업 준비중
+23/12/21 18:02,12f94f35c5fe04,resume,PASS,NBCamp,최종합격
+23/12/21 18:15,80b4ee803a3155,resume,FAIL,NBCamp,취업 준비중
+23/12/21 18:21,84c35e371656d9,resume,FAIL,NBCamp,최종합격
+23/12/21 18:39,81b514192b4a52,resume,PASS,NBCamp,최종합격
+23/12/21 19:07,86de81525f71c5,resume,FAIL,NBCamp,최종합격
+23/12/21 20:06,43d49439ff522d,resume,PASS,NBCamp,취업 준비중
+23/12/22 2:41,44bf1f65ef71b7,resume,FAIL,NBCamp,취업 준비중
+23/12/22 11:09,49abc257205adb,resume,CANCEL,NBCamp,취업 준비중
+23/12/22 11:41,49abc257205adb,resume,FAIL,NBCamp,취업 준비중
+23/12/22 12:26,96cb19119d0258,resume,FAIL,NBCamp,취업 준비중
+23/12/22 13:27,86de81525f71c5,resume,PASS,NBCamp,최종합격
+23/12/22 13:57,84c35e371656d9,resume,PASS,NBCamp,최종합격
+23/12/22 14:48,56ae1459567ef9,interview,FAIL,NBCamp,취업 준비중
+23/12/22 15:54,13bdf6149098d1,resume,FAIL,NBCamp,취업 준비중
+23/12/22 15:55,28f04359c999e4,resume,FAIL,Hanghae,최종합격
+23/12/22 16:00,50b4fc41480f4c,resume,FAIL,NBCamp,취업 보류
+23/12/22 16:17,41b0cd72c959ed,resume,FAIL,NBCamp,취업 준비중
+23/12/22 16:44,4890bc432ba673,resume,FAIL,NBCamp,취업 준비중
+23/12/22 16:46,49a93856ed7892,resume,PASS,NBCamp,최종합격
+23/12/22 17:18,74b4ff77edf96e,resume,FAIL,NBCamp,취업 준비중
+23/12/22 17:24,72b55468abcf3e,resume,PASS,NBCamp,취업 준비중
+23/12/22 17:25,65a9f467e0b024,resume,FAIL,NBCamp,취업 준비중
+23/12/22 17:34,264f861224d77b,resume,FAIL,NBCamp,취업 준비중
+23/12/22 18:32,4908a236419740,resume,FAIL,NBCamp,취업 준비중
+23/12/22 20:04,43080536356cd6,resume,PASS,NBCamp,최종합격
+23/12/22 21:29,50533c70396769,resume,FAIL,NBCamp,취업 준비중
+23/12/23 0:35,23e919794512d2,resume,PASS,NBCamp,취업 준비중
+23/12/23 16:29,839e8e98bb6e5b,resume,FAIL,NBCamp,최종합격
+23/12/24 15:40,82ae0852b17ba9,resume,FAIL,NBCamp,취업 준비중
+23/12/25 5:41,32d6be258729ab,resume,FAIL,NBCamp,취업 준비중
+23/12/26 0:53,62ca1723e2a258,resume,FAIL,NBCamp,취업 준비중
+23/12/26 13:11,56ae1459567ef9,resume,FAIL,NBCamp,취업 준비중
+23/12/26 15:21,527fa8243ef574,resume,FAIL,NBCamp,취업 준비중
+23/12/26 23:46,942705236f6614,resume,PASS,NBCamp,취업 준비중
+23/12/27 1:00,188ff2356ac0cb,resume,PASS,NBCamp,취업 준비중
+23/12/27 10:30,75d44099894b41,resume,PASS,NBCamp,취업 준비중
+23/12/27 11:06,49abc257205adb,resume,FAIL,NBCamp,취업 준비중
+23/12/27 15:25,56ae1459567ef9,resume,FAIL,NBCamp,취업 준비중
+23/12/27 16:41,84c35e371656d9,resume,PASS,NBCamp,최종합격
+23/12/27 17:35,4908a236419740,resume,FAIL,NBCamp,취업 준비중
+23/12/28 1:20,852fba571c1201,resume,FAIL,NBCamp,취업 준비중
+23/12/28 4:49,96c29c69ca085c,resume,FAIL,NBCamp,취업 준비중
+23/12/28 5:58,756db06331d5c1,resume,PASS,NBCamp,취업 준비중
+23/12/28 11:20,3286e0864b456b,resume,FAIL,NBCamp,취업 준비중
+23/12/28 11:47,839e8e98bb6e5b,resume,FAIL,NBCamp,최종합격
+23/12/28 13:51,2890778176cc55,resume,PASS,NBCamp,취업 준비중
+23/12/28 14:30,957589394e2781,resume,PASS,NBCamp,최종합격
+23/12/28 15:27,44bf1f65ef71b7,resume,FAIL,NBCamp,취업 준비중
+23/12/28 20:33,88d3f498f84a00,resume,FAIL,NBCamp,취업 준비중
+23/12/29 0:57,396c2f52ef9186,resume,PASS,NBCamp,최종합격
+23/12/29 11:39,97874d89513b43,resume,FAIL,NBCamp,취업 준비중
+23/12/29 14:23,35759a363e47ea,resume,FAIL,NBCamp,취업 준비중
+23/12/29 22:25,348ec7700e02bc,resume,FAIL,NBCamp,취업 준비중
+23/12/30 14:18,82ae0852b17ba9,resume,PASS,NBCamp,취업 준비중
+23/12/31 3:04,37b35594ebca42,resume,FAIL,NBCamp,취업 준비중
+23/12/31 3:10,37b35594ebca42,resume,FAIL,NBCamp,취업 준비중
+23/12/31 17:13,58c3b4231e173c,resume,PASS,NBCamp,취업 준비중
