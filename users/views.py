@@ -1,6 +1,7 @@
 from rest_framework import status
 from rest_framework.views import APIView
 from rest_framework.response import Response
+from rest_framework.permissions import IsAuthenticated 
 from django.contrib.auth import authenticate
 from .serializers import UserSerializer, LoginSerializer
 from .models import User
@@ -110,7 +111,8 @@ class LoginView(APIView):
 
 class ProtectedView(APIView):
     """Test endpoint that requires authentication"""
-    
+    permission_classes = [IsAuthenticated]
+
     @swagger_auto_schema(
         operation_description="토큰 인증이 필요한 예시 API",
         manual_parameters=[
@@ -149,8 +151,13 @@ class ProtectedView(APIView):
         }
     )
     def get(self, request):
+        if not request.user or request.user.is_anonymous:
+            return Response(
+                {"error": {"code": "INVALID_TOKEN", "message": "유효하지 않은 토큰입니다."}},
+                status=status.HTTP_401_UNAUTHORIZED
+            )
+
         return Response({
             'message': '인증된 엔드포인트 접근 성공',
             'user': request.user.username
         })
-

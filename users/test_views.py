@@ -34,9 +34,9 @@ class TestSignupView:
         response = api_client.post(url, data, format='json')
         
         assert response.status_code == 201
-        assert response.data["username"] == "newuser"
-        assert response.data["nickname"] == "newnick"
-        assert "password" not in response.data
+        assert response.json()["username"] == "newuser"
+        assert response.json()["nickname"] == "newnick"
+        assert "password" not in response.json()
         
         # Check that user was created in the database
         assert User.objects.filter(username="newuser").exists()
@@ -54,8 +54,8 @@ class TestSignupView:
         response = api_client.post(url, data, format='json')
         
         assert response.status_code == 400
-        assert response.data["error"]["code"] == "USER_ALREADY_EXISTS"
-        assert response.data["error"]["message"] == "이미 가입된 사용자입니다."
+        assert response.json()["error"]["code"] == "USER_ALREADY_EXISTS"
+        assert response.json()["error"]["message"] == "이미 가입된 사용자입니다."
 
 
 @pytest.mark.django_db
@@ -72,7 +72,7 @@ class TestLoginView:
         response = api_client.post(url, data, format='json')
         
         assert response.status_code == 200
-        assert "token" in response.data
+        assert "token" in response.json()
     
     def test_login_invalid_credentials(self, api_client, create_user):
         # Create user first
@@ -86,8 +86,8 @@ class TestLoginView:
         response = api_client.post(url, data, format='json')
         
         assert response.status_code == 401
-        assert response.data["error"]["code"] == "INVALID_CREDENTIALS"
-        assert response.data["error"]["message"] == "아이디 또는 비밀번호가 올바르지 않습니다."
+        assert response.json()["error"]["code"] == "INVALID_CREDENTIALS"
+        assert response.json()["error"]["message"] == "아이디 또는 비밀번호가 올바르지 않습니다."
 
 
 @pytest.mark.django_db
@@ -105,14 +105,14 @@ class TestProtectedView:
         response = api_client.get(url)
         
         assert response.status_code == 200
-        assert response.data["user"] == user.username
+        assert response.json()["user"] == user.username
     
     def test_protected_view_no_token(self, api_client):
         url = reverse('protected')
         response = api_client.get(url)
         
         assert response.status_code == 401
-        assert response.data["error"]["code"] == "TOKEN_NOT_FOUND"
+        assert response.json()["error"]["code"] == "TOKEN_NOT_FOUND"
     
     def test_protected_view_invalid_token(self, api_client):
         url = reverse('protected')
@@ -120,4 +120,4 @@ class TestProtectedView:
         response = api_client.get(url)
         
         assert response.status_code == 401
-        assert response.data["error"]["code"] == "INVALID_TOKEN"
+        assert response.json()["error"]["code"] == "INVALID_TOKEN"
