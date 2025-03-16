@@ -32,28 +32,25 @@ class TestJWTUtils:
         assert result['user'].id == test_user.id  # 🔥 User 객체의 id 비교
     
     def test_verify_token_expired(self, test_user, settings):
-        # Temporarily set JWT expiration to a very short time
-        # original_exp = settings.JWT_EXPIRATION_TIME
-        # settings.JWT_EXPIRATION_TIME = timedelta(milliseconds=1)
+        # JWT 만료 시간을 임시로 1초로 설정
         original_exp = settings.SIMPLE_JWT['ACCESS_TOKEN_LIFETIME']
-        settings.SIMPLE_JWT['ACCESS_TOKEN_LIFETIME'] = timedelta(seconds=1)  # 🔥 1초로 설정
-        
+        settings.SIMPLE_JWT['ACCESS_TOKEN_LIFETIME'] = timedelta(seconds=1)
+
         token = generate_token(test_user)
-        
-        # Wait for token to expire
+
+        # 토큰이 만료되도록 2초 대기
         time.sleep(2)
-        
+
         result = verify_token(token)
-        
-        # Reset settings
-        # settings.JWT_EXPIRATION_TIME = original_exp
+
+        # 원래 설정 복원
         settings.SIMPLE_JWT['ACCESS_TOKEN_LIFETIME'] = original_exp
-        
-        assert 'error' in result
-        assert result['error']['code'] == 'TOKEN_EXPIRED'
+
+        assert "error" in result  # 🔥 에러가 반환되어야 함
+        assert result["error"] == "TOKEN_EXPIRED"
     
     def test_verify_token_invalid(self):
-        result = verify_token("invalidt.oken.string")
-        
-        assert 'error' in result
-        assert result['error']['code'] == 'INVALID_TOKEN'
+        result = verify_token("invalidt.oken.string")  # 🔥 잘못된 토큰
+
+        assert "error" in result  # 🔥 오류 메시지가 반환되어야 함
+        assert result["error"] == "INVALID_TOKEN"
