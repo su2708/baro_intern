@@ -107,6 +107,11 @@ DATABASES = {
 JWT_SECRET_KEY = SECRET_KEY
 JWT_EXPIRATION_TIME = timedelta(hours=24)
 
+SIMPLE_JWT = {
+    'ACCESS_TOKEN_LIFETIME': timedelta(seconds=1),  # 🔥 1초로 설정하여 즉시 만료 테스트 가능
+    'REFRESH_TOKEN_LIFETIME': timedelta(days=1),
+}
+
 # Custom user model
 AUTH_USER_MODEL = 'users.User'
 

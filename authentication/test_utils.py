@@ -32,18 +32,21 @@ class TestJWTUtils:
     
     def test_verify_token_expired(self, test_user, settings):
         # Temporarily set JWT expiration to a very short time
-        original_exp = settings.JWT_EXPIRATION_TIME
-        settings.JWT_EXPIRATION_TIME = timedelta(milliseconds=1)
+        # original_exp = settings.JWT_EXPIRATION_TIME
+        # settings.JWT_EXPIRATION_TIME = timedelta(milliseconds=1)
+        original_exp = settings.SIMPLE_JWT['ACCESS_TOKEN_LIFETIME']
+        settings.SIMPLE_JWT['ACCESS_TOKEN_LIFETIME'] = timedelta(seconds=1)  # 🔥 1초로 설정
         
         token = generate_token(test_user)
         
         # Wait for token to expire
-        time.sleep(0.01)
+        time.sleep(2)
         
         result = verify_token(token)
         
         # Reset settings
-        settings.JWT_EXPIRATION_TIME = original_exp
+        # settings.JWT_EXPIRATION_TIME = original_exp
+        settings.SIMPLE_JWT['ACCESS_TOKEN_LIFETIME'] = original_exp
         
         assert 'error' in result
         assert result['error']['code'] == 'TOKEN_EXPIRED'
