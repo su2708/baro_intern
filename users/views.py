@@ -161,7 +161,8 @@ class ProtectedView(APIView):
                 'code': 'authentication_failed'  # 'code' 키 추가
             }, status=status.HTTP_401_UNAUTHORIZED)
         
-        # 인증 성공 시 응답
+        # 인증 성공 시 응답에 user 키 추가
         return Response({
-            'message': '인증된 사용자입니다.'
+            'message': '인증된 사용자입니다.',
+            'user': request.user.username  # user 키 추가
         })
