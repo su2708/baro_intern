@@ -154,17 +154,14 @@ class ProtectedView(APIView):
         }
     )
     def get(self, request):
-        return Response({
-            'message': '인증된 엔드포인트 접근 성공',
-            'user': request.user.username
-        }, status=status.HTTP_200_OK)
-
-    def handle_exception(self, exc):
-        if isinstance(exc, (InvalidToken, TokenError)):
+        # 인증 실패 시 응답
+        if not request.user.is_authenticated:
             return Response({
-                "error": {
-                    "code": "INVALID_TOKEN",
-                    "message": "유효하지 않은 토큰입니다."
-                }
+                'error': 'INVALID_TOKEN',
+                'code': 'authentication_failed'  # 'code' 키 추가
             }, status=status.HTTP_401_UNAUTHORIZED)
-        return super().handle_exception(exc)
+        
+        # 인증 성공 시 응답
+        return Response({
+            'message': '인증된 사용자입니다.'
+        })
