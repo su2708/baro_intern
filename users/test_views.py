@@ -119,10 +119,12 @@ class TestProtectedView:
         api_client.credentials(HTTP_AUTHORIZATION='Bearer invalidtoken')
         response = api_client.get(url)
 
-        print(f"Response Content: {response.content}")  # 🔥 응답 데이터 확인 (디버깅)
-        
+        print(f"Response Content: {response.json()}")  # 🔥 응답 데이터 확인 (디버깅)
+
         assert response.status_code == 401
         assert isinstance(response.json(), dict)  # 🔥 JSON 응답인지 확인
         assert "error" in response.json()  # 🔥 `error` 키가 있는지 확인
+        assert "code" in response.json()["error"]  # 🔥 `code` 키가 있는지 확인
         assert response.json()["error"]["code"] == "INVALID_TOKEN"
+
 
