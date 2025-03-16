@@ -160,4 +160,4 @@ class ProtectedView(APIView):
         return Response({
             'message': '인증된 엔드포인트 접근 성공',
             'user': request.user.username
-        })
+        }, status=status.HTTP_200_OK)
