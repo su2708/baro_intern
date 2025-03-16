@@ -26,9 +26,10 @@ class TestJWTUtils:
     def test_verify_token_success(self, test_user):
         token = generate_token(test_user)
         result = verify_token(token)
-        
+
         assert 'user' in result
-        assert result['user'].id == test_user.id
+        assert isinstance(result['user'], User)  # 🔥 User 객체인지 확인
+        assert result['user'].id == test_user.id  # 🔥 User 객체의 id 비교
     
     def test_verify_token_expired(self, test_user, settings):
         # Temporarily set JWT expiration to a very short time

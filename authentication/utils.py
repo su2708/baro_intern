@@ -24,18 +24,10 @@ def generate_token(user):
     return str(refresh.access_token)
 
 def verify_token(token):
-    """Verify JWT token and return the user."""
     try:
-        payload = jwt.decode(token, settings.JWT_SECRET_KEY, algorithms=['HS256'])
-        user = User.objects.get(id=payload['user_id'])
-        # return {'user': user}
         decoded_token = AccessToken(token)  # 🔥 JWT 토큰 검증
-        return {'user': decoded_token.payload['user_id']}
-    except AuthenticationFailed:
-        return {'error': 'TOKEN_EXPIRED'}
-    except jwt.ExpiredSignatureError:
-        return {'error': {'code': 'TOKEN_EXPIRED', 'message': '토큰이 만료되었습니다.'}}
-    except jwt.InvalidTokenError:
-        return {'error': {'code': 'INVALID_TOKEN', 'message': '토큰이 유효하지 않습니다.'}}
-    except User.DoesNotExist:
-        return {'error': {'code': 'INVALID_TOKEN', 'message': '토큰이 유효하지 않습니다.'}}
+        user_id = decoded_token['user_id']
+        user = User.objects.get(id=user_id)  # 🔥 User 객체로 변환
+        return {'user': user}  # 🔥 User 객체 반환
+    except (AuthenticationFailed, User.DoesNotExist):
+        return {'error': 'INVALID_TOKEN'}
